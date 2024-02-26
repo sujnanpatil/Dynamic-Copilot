@@ -2,7 +2,7 @@
 
 ## Install Copilot for Sales in Outlook 
 
-1.	Sign into the **Microsoft 365 admin center**.
+1.	Sign into the **[Microsoft 365 admin center](https://www.microsoft.com/en-in/microsoft-365/business/office-365-administration)**.
    
 1.	In the left pane, select **Settings** and then select **Integrated Apps**. 
 
