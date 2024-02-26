@@ -14,19 +14,38 @@
 
 **Note:** We can link a contact to another contact if there are already two or more contacts saved or select **Create a new contact** to create a contact.
 
-1. Click on any mail from the Inbox and open the contact through **Dynamics 365** and click on **Contacts** from the left pane.
+1. Open the email and click on the ellipsis beside the saved contact and open through **Dynamics 365**
 
+1. Click on **Contacts** from the left pane.
+   
 1. Open the **Contact** for which you would like to connect another contact with.
 
 1. Click on **Connect** on the top and select the record and give a **role** and a **description** based on the connection you would like to create.
 
 ### Task 3: Change the connected CRM contact 
 
-1. Click on any mail from the Inbox and open the contact through **Dynamics 365** and click on **Contacts** from the left pane.
+1. Open the email and click on the ellipsis beside the saved contact and open through **Dynamics 365**
+
+1. Click on **Contacts** from the left pane.
 
 1. Open the **Contact** for which you would like to change the connection.
 
 1. Click on **Connect** and click on **To another** and select one of the suggested contacts or select **+ New Record** to create a new one.
+
+### Task 4: Save Outlook activities to your CRM
+
+1.	Open the email or meeting you want to save to the CRM, and then open **Copilot for Sales**.
+
+1.	Select **Save** under **Save email to Dynamics 365**.
+
+1. Enable **server-side synchronization** when prompted.
+
+1.	Under **Connect to a record**, select the record you want to connect the activity to.
+
+      **Note:** If you want to save the email or meeting to CRM without connecting to a record, select **Save without connecting**. The email or meeting will still be associated with contacts on the To, Cc, and Bcc fields.
+
+1.	Select **Save**.
+
 
    
 
