@@ -6,7 +6,7 @@
    
 1.	In the left pane, select **Settings** and then select **Integrated Apps**. 
 
-1.	On the **Integrated apps** page, select **Get apps**. 
+1.	On the **Integrated apps** page, select **Available apps**. 
 
 1.	In the AppSource window, search for **Copilot for Sales**. 
 
@@ -24,21 +24,34 @@
 
 ## Install and pin Copilot for Sales in Teams 
 
-1. Sign into the Teams admin center.
+1. Sign into the **[Teams admin center](https://admin.teams.microsoft.com/)**.
    
-1. In the left pane, select Teams apps > Setup policies. 
-o	On the Manage policies tab, select Add. 
-o	Enter a name and description for the policy. 
-o	Turn on User pinning. 
-o	Under Installed apps, select Add apps. 
-o	In the Add installed apps panel, search for the Copilot for Sales app. You can also filter apps by app permission policy. 
-o	Select Add to add Copilot for Sales to the list of apps to install. 
-o	Select Add again to install the listed apps. 
-o	Under Pinned apps, select Add apps. 
-o	In the Add pinned apps panel, search for the Copilot for Sales app. You can also filter apps by app permission policy. 
-o	Select Add to add Copilot for Sales to the list of apps to pin. 
-o	Select Add again to pin the listed apps. 
-o	Under App bar or Messaging extensions, arrange the apps in the order that you want them to appear in Teams. 
-o	Select Save. 
+1. In the left pane, select **Teams apps** and then select **Setup policies**. 
+
+1. On the **Manage policies** tab, select **Add**. 
+
+1. Enter a name and description for the policy. 
+
+1. Turn on **User pinning**. 
+
+1. Under Installed apps, select **Add apps**. 
+
+1. In the **Add installed apps** panel, search for the **Copilot for Sales** app. You can also filter apps by app permission policy. 
+
+1. Select **Add** to add Copilot for Sales to the list of apps to install. 
+
+1. Select **Add** again to install the listed apps. 
+
+1. Under ****Pinned** apps**, select **Add apps**. 
+
+1. In the **Add pinned apps** panel, search for the **Copilot for Sales** app. You can also filter apps by app permission policy. 
+
+1. Select **Add** to add **Copilot for Sales** to the list of apps to pin. 
+
+1. Select **Add** again to pin the listed apps. 
+
+1. Under App bar or Messaging extensions, arrange the apps in the order that you want them to appear in Teams. 
+
+1. Select **Save**. 
 
 
