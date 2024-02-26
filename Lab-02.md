@@ -46,6 +46,41 @@
 
 1.	Select **Save**.
 
+### Task 5: View recent and upcoming activities
+
+1. Open any email or meeting and then open **Copilot for Sales** pane.
+
+1. Select the saved contact and scroll down and click on **Related Items**.
+
+1. Click on any **Related Items** you want to view and it opens the item in a new tab.
+
+### Task 6: Add private notes
+
+1.	Open the **Copilot for Sales** pane.
+
+2.	In the **Contacts** card, select the contact to which you want to add notes.
+
+3.	Enter your **notes** about the contact in the **Private notes** card.
+
+4.	Select anywhere outside the Private notes card to save the note.
+
+### Task 7: Share a link to a CRM record
+
+1.	Open the **Copilot for Sales** pane.
+
+1.	In the (record type) card, scroll down and select the saved contact, clcik on the ellipsis and select **Copy link**.
+
+1.	Paste the link in a Teams chat or email.
+
+### Task 8: Edit a CRM record
+
+1.	Open the **Copilot for Sales** pane and select a record you want to edit.
+
+1.	In the record's details cards, select **More actions (...)** and then select **Edit record**.
+
+1.	Update the details as needed and select Update.
+
+
 
    
 
