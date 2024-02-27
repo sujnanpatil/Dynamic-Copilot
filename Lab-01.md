@@ -4,7 +4,9 @@
 
 - While drafting an email or creating a meeting
 
-1. In Outlook, open a customer mail, click on **Apps** and select **Copilot for Sales**.
+1. In Outlook, clcik on **New Mail**, mention the email of the receiver.
+
+1. Click on **Apps (1)** and select **Copilot for Sales (2)**.
 
 1. Click on **Copilot for Sales** again.
    
