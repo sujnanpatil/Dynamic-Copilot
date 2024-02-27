@@ -13,26 +13,31 @@
 1. Click on **Add to Dynamics 365** to save the contact or click on the contact to view if already saved. (for emails)
 
 1. Select **Show summary** in the banner message (for meetings)
+   
 
 - While reading an email
 
 1. Open any customer mail, click on **Apps** and select **Copilot for Sales**.
+   
 
 - While opening a meeting
 
 1. Open Calendar in Outlook and select the scheduled meeting.
    
 1. Select **More commands (...)** and then select **Copilot for Sales** (in Simplified ribbon)
+   
 
 - Access Copilot for Sales in Teams
 
 1. Select **Apps** and click on **Copilot for Sales** tp view.
+   
 
 - Messaging extensions in teams
 
 1. Open any customer chat and click on **More Options(...)** and select **Copilot for Sales**
 
 1. Attach the required contact and the CRM record of that contact can be shared with anyone over teams.
+   
 ## Task 2: Sign in to CRM from Outlook
 
 1. In Outlook, open a customer mail, click on **Apps** and select **Copilot for Sales**.
