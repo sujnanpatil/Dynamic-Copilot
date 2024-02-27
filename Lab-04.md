@@ -11,13 +11,21 @@ To create another environment, follow the below steps:
 
 1. Select **Switch environment**.
 
+    ![](/media/dy5.png)
+
+    ![](/media/dy6.png)
+
 ### Task 2: View diagnostics data
 
 1.	Open **Copilot for Sales**.
 
-2.	Select the **Options(...)** in the upper-right corner, and then select **Diagnostics**.
+1.	Select the **Options(...)** in the upper-right corner, and then select **Diagnostics**.
 
-3.	Select **Copy details** to copy the diagnostics data, and then paste the data into an email, Teams chat, or any other medium you like to use to share it with technical support team.
+    ![](/media/dy7.png)
+
+1.	Select **Copy details** to copy the diagnostics data, and then paste the data into an email, Teams chat, or any other medium you like to use to share it with technical support team.
+
+    ![](/media/dy8.png)
 
 ### Task 3: Share Feedback
 
@@ -25,7 +33,11 @@ To create another environment, follow the below steps:
 
 2.	Select **Options(...)** in the upper-right corner, and then select **Share feedback**.
 
-3.	Enter your responses in the feedback form and then select **Send**.
+    ![](/media/dy9.png)
+
+4.	Enter your responses in the feedback form and then select **Send**.
+
+    ![](/media/dy10.png)
 
 ### Task 4: Sign out of Copilot for Sales
 
@@ -39,8 +51,12 @@ When you sign in and reconnect to the same CRM system and environment, your info
 
 1.	Open **Copilot for Sales**.
 
-2.	Select **Options(...)** in the upper-right corner, and then select **About** > **Privacy**.
+1.	Select **Options(...)** in the upper-right corner, and then select **About** > **Privacy**.
 
-3.	Select **Delete Account**.
+    ![](/media/dy11.png)
 
-4.	In the confirmation message, select **Delete Account**.
+1.	Select **Delete Account**.
+
+    ![](/media/dy12.png)
+
+1.	In the confirmation message, select **Delete Account**.
