@@ -40,11 +40,9 @@
 
 1. Enable **server-side synchronization** when prompted.
 
-1.	Under **Connect to a record**, select the record you want to connect the activity to.
+1.	Under **Connect to a record (1)**, select the record you want to connect the activity to and select **Save**.
 
       **Note:** If you want to save the email or meeting to CRM without connecting to a record, select **Save without connecting**. The email or meeting will still be associated with contacts on the To, Cc, and Bcc fields.
-
-1.	Select **Save**.
 
 ### Task 5: View record details
 
