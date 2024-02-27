@@ -7,7 +7,7 @@
 To create another environment, follow the below steps:
 
 
-1. In the **Copilot for Sales** pane, clcik on the ellipsis(...) on the top right and click on **Signed into Dynamics 365**.
+1. In the **Copilot for Sales** pane, clcik on the **Options(...)** on the top right and click on **Signed into Dynamics 365**.
 
 1. Select **Switch environment**.
 
