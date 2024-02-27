@@ -47,7 +47,7 @@ When you sign in and reconnect to the same CRM system and environment, your info
 
 2.	Select **Options(...)** in the upper-right corner, and then select **Sign out**.
 
-   ![](/media/sign.png)
+    ![](/media/sign.png)
 
 ### Task 5: Delete your personal data from Copilot for Sales
 
