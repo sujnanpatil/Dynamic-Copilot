@@ -18,6 +18,28 @@ Navigate to **Teams** from Outlook by clicking on the button depicted in the bel
    
 1. Click on **Save**
 
-### Task 2: 
+### Task 2: Use Copilot for Sales app during a meeting
+
+- Open the Copilot for Sales app
+- View connected record details
+- Copy link to connected record
+- Edit connected record
+
+- Open the Copilot for Sales app
 
 
+ ### Task 3: Generate a meeting summary
+
+1. Navigate to the **Calendar** in **Teams** and click on the meeting scheduled for the given time.
+
+1. Start the recording and transcription
+   
+### Task 4: View and understand the meeting summary
+
+1. Navigate to the **Chat** in **Teams** and click on the chat for which the meeting was recorded
+
+1. Click on the **+** button and select **Copilot for Sales**
+
+1. Click on **Save**.
+
+1. Go to the meeting chat in your chat list, or open the event on your calendar in Teams, and select the **Copilot for Sales** tab and select **Open summary**. 
