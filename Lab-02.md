@@ -14,23 +14,23 @@
 
 **Note:** We can link a contact to another contact if there are already two or more contacts saved or select **Create a new contact** to create a contact.
 
-1. Open the email and click on the **More Options(...)** beside the saved contact and open through **Dynamics 365**
-
-1. Click on **Contacts** from the left pane.
-   
-1. Open the **Contact** for which you would like to connect another contact with.
+1. Open the email and click on the **More Options(...)** beside the saved contact and open through **Dynamics 365**.
 
 1. Click on **Connect** on the top and select the record and give a **role** and a **description** based on the connection you would like to create.
+
+1. Click on **Save and Close**.
 
 ### Task 3: Change the connected CRM contact 
 
 1. Open the email and click on the **More Options(...)** beside the saved contact and open through **Dynamics 365**
 
-1. Click on **Contacts** from the left pane.
+1. Click on **Related** and select **Connections**.
+   
+1. Choose any existing connection and click on **Edit**.
 
-1. Open the **Contact** for which you would like to change the connection.
+1. Change the **contact name** and **description**  based on the connection you would like to create.
 
-1. Click on **Connect** and click on **To another** and select one of the suggested contacts or select **+ New Record** to create a new one.
+1. Click on **Save and Close**.
 
 ### Task 4: Save Outlook activities to your CRM
 
