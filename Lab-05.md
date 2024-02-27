@@ -25,7 +25,19 @@ Navigate to **Teams** from Outlook by clicking on the button depicted in the bel
 - Copy link to connected record
 - Edit connected record
 
-- Open the Copilot for Sales app
+- Open the Copilot for Sales app in Outlook
+
+1. Open the meeting in Outlook
+
+1. Click on the **Options(...)** and select **Copilot for Sales**
+
+1. The tab will open on the right side and an opportunity summary card is displayed on the Highlights tab showing the key details and status of the current opportunity.
+
+**Note:** The summary will only be generated if the meeting is connected to an opportunity in CRM.
+
+- View connected record details
+
+1. 
 
 
  ### Task 3: Generate a meeting summary
