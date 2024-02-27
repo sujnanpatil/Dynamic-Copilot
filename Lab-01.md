@@ -16,13 +16,13 @@
 
 - While reading an email
 
-1. Click on **Apps** and select **Copilot for Sales**.
+1. Open any customer mail, click on **Apps** and select **Copilot for Sales**.
 
 - While opening a meeting
 
-1. Select Copilot for Sales on the ribbon (in Classic ribbon)
-
-1. Select More commands (...) and then select Copilot for Sales (in Simplified ribbon)
+1. Open Calendar in Outlook and select the scheduled meeting.
+   
+1. Select **More commands (...)** and then select **Copilot for Sales** (in Simplified ribbon)
 
 ## Task 2: Sign in to CRM from Outlook
 
