@@ -14,7 +14,7 @@
 
 **Note:** We can link a contact to another contact if there are already two or more contacts saved or select **Create a new contact** to create a contact.
 
-1. Open the email and click on the ellipsis beside the saved contact and open through **Dynamics 365**
+1. Open the email and click on the **More Options(...)** beside the saved contact and open through **Dynamics 365**
 
 1. Click on **Contacts** from the left pane.
    
@@ -24,7 +24,7 @@
 
 ### Task 3: Change the connected CRM contact 
 
-1. Open the email and click on the ellipsis beside the saved contact and open through **Dynamics 365**
+1. Open the email and click on the **More Options(...)** beside the saved contact and open through **Dynamics 365**
 
 1. Click on **Contacts** from the left pane.
 
