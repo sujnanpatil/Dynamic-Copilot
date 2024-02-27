@@ -16,9 +16,9 @@
 
 1. Open the email and click on the **More Options(...)** beside the saved contact and open through **Dynamics 365**.
 
-1. Click on **Connect** on the top and select the record and give a **role** and a **description** based on the connection you would like to create.
+1. Click on **Connect** on the top and select the record and give a **role** and a **description** based on the connection you would like to create in the **Connect To** tab.
 
-1. Click on **Save and Close**.
+1. Add the **Owner** record under the **Details** tab and click on **Save and Close**.
 
 ### Task 3: Change the connected CRM contact 
 
