@@ -16,9 +16,7 @@
 
 1. In the **Key email info** card, select **More options (...)**, and then select **Save summary to Dynamics 365**.
 
-1. Under **Select a record**, select one of the suggested records or use the search box to find another record.
-
-1. Select **Save**.
+1. Under **Select a record**, select one of the suggested records or use the search box to find another record and select **Save**.
 
 ### Task 3: Share feedback
 
