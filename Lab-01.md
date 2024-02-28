@@ -4,11 +4,11 @@
 
 - While drafting an email or creating a meeting
 
-1. In Outlook, clcik on **New Mail**, mention the email of the receiver.
+1. In Outlook, clcik on **New Mail**.
 
    ![](/media/dy-8.png)
 
-1. Click on **Apps (1)** and select **Copilot for Sales (2)**.
+1. Mention the email of the receiver, click on **Apps (1)** and select **Copilot for Sales (2)**.
 
    ![](/media/dy-6.png)
 
