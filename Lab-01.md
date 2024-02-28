@@ -4,7 +4,7 @@
 
 - While drafting an email or creating a meeting
 
-1. In Outlook, clcik on **New Mail**.
+1. In Outlook, click on **New Mail**.
 
    ![](/media/dy-8.png)
 
