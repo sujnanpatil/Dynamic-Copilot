@@ -22,7 +22,7 @@
 
 1. Review the **suggested** content.
 
-**Note:** To generate a different suggestion, select **More options**, and then select **Try again**.
+      **Note:** To generate a different suggestion, select **More options**, and then select **Try again**.
 
 1. Select **Add to email** to paste the content in the email body.
 
@@ -36,21 +36,20 @@
 
 1. In the textbox, enter a phrase to describe the kind of reply you want to send.
 
-To use a suggested prompt, select  , and then choose a prompt. More information: Use suggested prompts
+1. To use a suggested prompt, click the **icon** as depicted in the below image and then **choose** a prompt.
+   
+1. To use a saved prompt, click the **icon** as depicted in the below image and then **choose** the prompt you want to use.
+   
+1. Select **Create** draft.
 
-To use a saved prompt, select  , and then choose the prompt you want to use. More information: Save and reuse custom prompts
-Select Create draft.
+1. **Review** the suggested content.
 
-Review the suggested content.
-
-To generate a different suggestion, select More options, and then select Try again.
-
+1. To **generate** a different suggestion, select **More options**, and then select **Try again**.
 Refine the suggested content, if required. You can also restore the suggested content to the previous version.
 
-Select Add to email to paste the content in the email body.
+1. Select **Add to email** to paste the content in the email body.
 
-Edit the email content as required, and then send it.
-
+1. **Edit** the email content as required, and then **send** it.
 
 ### Task 3: Share feedback
 
