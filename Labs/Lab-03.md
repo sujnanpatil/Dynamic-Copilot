@@ -1,4 +1,4 @@
-# AI Capabilities
+# Use AI to supercharge sales communication 
 
 ## Excercise 1: View and save email summary to CRM
 
@@ -12,33 +12,9 @@
 
    ![](/media/dy1.png)
 
-### Task 2: Save email summary to CRM
+### Task 2: Draft an email message  
 
-1. View the **email summary**.
-
-1. In the **Key email info** card, select **More options (...)**, and then select **Save summary to Dynamics 365**.
-
-   ![](/media/dy2.png)
-
-1. Under **Select a record (1)**, select one of the suggested records or use the search box to find another record and select **Save (2)**.
-
-   ![](/media/dy3.png)
-
-### Task 3: Share feedback
-
-1. At the bottom of the **email summary**, select a **thumbs-up** or **thumbs-down** based on your experience.
-
-1. After you select an icon, you'll get a **Tell us more** link.
-
-   ![](/media/dy4.png)
-
-1. Select the link to open the **feedback** form.
-
-1. Enter your responses in the feedback form and then select **Send**.
-
-## Excercise 2: Draft an email message within Copilot for Sales app
-
-### Task 1: Create an email reply using pre-defined categories
+### Task 2.1: Create an email reply using pre-defined categories
 
 1. Open a customer email and select **Reply**. In the banner message at the top of the draft email, select **Apps** and select **Copilot for Sales**.
 
@@ -52,7 +28,7 @@
 
 1. Edit the email content as required, and then **send** it.
 
-### Task 2: Create an email message using custom prompt
+### Task 2.2: Create an email message using custom prompt
 
 1. Open a customer email and select **Reply**. In the banner message at the top of the draft email, select **Apps** and select **Copilot for Sales**.
 
@@ -74,3 +50,16 @@ Refine the suggested content, if required. You can also restore the suggested co
 Select Add to email to paste the content in the email body.
 
 Edit the email content as required, and then send it.
+
+
+### Task 3: Share feedback
+
+1. At the bottom of the **email summary**, select a **thumbs-up** or **thumbs-down** based on your experience.
+
+1. After you select an icon, you'll get a **Tell us more** link.
+
+   ![](/media/dy4.png)
+
+1. Select the link to open the **feedback** form.
+
+1. Enter your responses in the feedback form and then select **Send**.
