@@ -1,4 +1,4 @@
-# View and update CRM data in the flow of work
+# Lab 02: View and update CRM data in the flow of work
 
 ## CRM Actions
 
