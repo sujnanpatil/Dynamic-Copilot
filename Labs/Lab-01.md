@@ -1,4 +1,4 @@
-# Getting Started with Microsoft Copilot for Sales
+# Lab 01: Getting Started with Microsoft Copilot for Sales
 
 ## Task 1: Access the Copilot for Sales app
 
