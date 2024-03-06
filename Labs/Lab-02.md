@@ -66,7 +66,7 @@
 
 1.	In the (record type) card, scroll down and select the saved contact, clcik on the ellipsis and select **Copy link**.
 
-   ![](/media/dy-2-17.png)
+      ![](/media/dy-2-17.png)
 
 1.	Paste the link in a Teams chat or email.
 
