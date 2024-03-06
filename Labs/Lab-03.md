@@ -1,4 +1,4 @@
-# Use AI to supercharge sales communication 
+# Lab 03: Use AI to supercharge sales communication 
 
 ## Excercise 1: View and save email summary to CRM
 
