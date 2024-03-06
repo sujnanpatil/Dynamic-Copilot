@@ -48,49 +48,19 @@
 
    ![](/media/dy-2-7.png)
 
-### Task 4: Save Outlook activities to your CRM
+### Task 4: View and update CRM data 
 
-1.	Open the email or meeting you want to save to the CRM, and then open **Copilot for Sales**.
+1.	Open the **Copilot for Sales** pane and select a record you want to edit.
 
-1.	Select **Save** under **Save email to Dynamics 365**.
+1.	In the record's details cards, select **More actions (...)** and then select **Edit record**.
 
-   ![](/media/dy-2-10.png)
+      ![](/media/dy-2-18.png)
 
-1. Enable **server-side synchronization** when prompted.
+1.	Update the details as needed and select **Update**.
 
-1.	Under **Connect to a record (1)**, select the record you want to connect the activity to and select **Save**.
+### Task 5: Search and share CRM data
 
-   ![](/media/dy-2-12.png)
-
-      **Note:** If you want to save the email or meeting to CRM without connecting to a record, select **Save without connecting**. The email or meeting will still be associated with contacts on the To, Cc, and Bcc fields.
-
-### Task 5: View record details
-
-1. 
-
-### Task 6: View recent and upcoming activities
-
-1. Open any email or meeting and then open **Copilot for Sales** pane and select the saved contact.
-
-   ![](/media/dy-2-13.png)
-
-1. Click on any **Related Items** you want to view and it opens the item in a new tab.
-
-   ![](/media/dy-2-14.png)
-
-### Task 7: Add private notes
-
-1.	Open the **Copilot for Sales** pane.
-
-2.	In the **Contacts** card, select the contact to which you want to add notes.
-
-3.	Enter your **notes** about the contact in the **Private notes** card.
-
-   ![](/media/dy-2-15.png)
-
-5.	Select anywhere outside the Private notes card to save the note.
-
-### Task 8: Share a link to a CRM record
+- In Outlook
 
 1.	Open the **Copilot for Sales** pane.
 
@@ -100,12 +70,44 @@
 
 1.	Paste the link in a Teams chat or email.
 
-### Task 9: Edit a CRM record
+- In Teams
 
-1.	Open the **Copilot for Sales** pane and select a record you want to edit.
 
-1.	In the record's details cards, select **More actions (...)** and then select **Edit record**.
 
-   ![](/media/dy-2-18.png)
+### Task 6: Connect and save emails and meetings to CRM 
 
-1.	Update the details as needed and select **Update**.
+1.	Open the email or meeting you want to save to the CRM, and then open **Copilot for Sales**.
+
+1.	Select **Save** under **Save email to Dynamics 365**.
+
+      ![](/media/dy-2-10.png)
+
+1. Enable **server-side synchronization** when prompted.
+
+1.	Under **Connect to a record (1)**, select the record you want to connect the activity to and select **Save**.
+
+      ![](/media/dy-2-12.png)
+
+      **Note:** If you want to save the email or meeting to CRM without connecting to a record, select **Save without connecting**. The email or meeting will still be associated with contacts on the To, Cc, and Bcc fields.
+
+### Task 7: View recent and upcoming activities
+
+1. Open any email or meeting and then open **Copilot for Sales** pane and select the saved contact.
+
+      ![](/media/dy-2-13.png)
+
+1. Click on any **Related Items** you want to view and it opens the item in a new tab.
+
+      ![](/media/dy-2-14.png)
+
+### Task 8: Add private notes
+
+1.	Open the **Copilot for Sales** pane.
+
+2.	In the **Contacts** card, select the contact to which you want to add notes.
+
+3.	Enter your **notes** about the contact in the **Private notes** card.
+
+      ![](/media/dy-2-15.png)
+
+4.	Select anywhere outside the Private notes card to save the note.
