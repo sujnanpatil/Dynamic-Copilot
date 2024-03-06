@@ -72,7 +72,13 @@
 
 - In Teams
 
+1. Open any customer chat and click on **More Options(...)** and select **Copilot for Sales**
 
+   ![](/media/dy-14.png)
+
+1. Attach the required contact and the CRM record of that contact can be shared with anyone over teams.
+
+   ![](/media/dy-15.png)
 
 ### Task 6: Connect and save emails and meetings to CRM 
 
