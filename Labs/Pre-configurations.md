@@ -1,5 +1,27 @@
 # Pre-configurations
 
+## Create an environment in Power Apps
+
+1. Navigate to [Power Platform admin center](https://admin.powerplatform.microsoft.com/) and click on **Sign In** and sign in with the credentials provided under **Environment Details** Tab.
+
+1. Click on **Environments** from the left pane and click on **New**.
+
+1. Provide a name and make sure **Add a Dataverse data store** is selected to **Yes**.
+
+1. Provide **None** for security roles.
+
+1. Make sure **Enable Dynamics 365 apps** is set to **Yes** and select **Sales Pro** for **Automatically deploy these apps**.
+
+1. Click on **Save**.
+
+1. Once the environment is in **Ready** state, select the environment and click on **Settings**.
+
+1. Click on **Users** under **Users and permissions**
+
+1. Select the **user** and click on **Manage security roles**
+
+1. Make sure **Basic User**, **Salesperson** and **Copilot for Sales** or **viva sales** is checked and click on **Save**.
+
 ## Install Copilot for Sales in Outlook 
 
 1.	Sign into the **[Microsoft 365 admin center](https://admin.microsoft.com/)**.
