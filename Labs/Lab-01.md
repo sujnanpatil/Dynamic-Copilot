@@ -1,4 +1,4 @@
-# Get Started
+# Getting Started with Microsoft Copilot for Sales
 
 ## Task 1: Access the Copilot for Sales app
 
