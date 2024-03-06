@@ -18,13 +18,13 @@
 
 1. Open a customer email and select **Reply**. In the banner message at the top of the draft email, select **Apps** and select **Copilot for Sales**.
 
-1. Click on the dropdown button next to **draft an email** under **key email info** and select the pre-defined options which matches your requirement.
-
+1. Choose any of the **pre-defined categories** provided under **Draft with Copilot**
+   
 1. Review the **suggested** content.
 
-      **Note:** To generate a different suggestion, select **More options**, and then select **Try again**.
-
-1. Select **Add to email** to paste the content in the email body.
+      **Note:** To generate a different suggestion, select **Regenerate**.
+   
+1. Select **Keep it** to paste the content in the email body.
 
 1. Edit the email content as required, and then **send** it.
 
