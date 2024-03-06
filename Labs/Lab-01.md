@@ -42,16 +42,6 @@
    
    ![](/media/dy-13.png)
    
-- Messaging extensions in teams
-
-1. Open any customer chat and click on **More Options(...)** and select **Copilot for Sales**
-
-   ![](/media/dy-14.png)
-
-1. Attach the required contact and the CRM record of that contact can be shared with anyone over teams.
-
-   ![](/media/dy-15.png)
-   
 ## Task 2: Sign in to CRM from Outlook
 
 1. In Outlook, open a customer mail, click on **Apps** and select **Copilot for Sales**.
