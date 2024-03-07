@@ -52,12 +52,6 @@
 
 1. **Review** the suggested content.
 
-1. To **generate** a different suggestion, select **More options**, and then select **Try again**.
-
-   ![](/media/2-5.png)
-   
-      **Note:** Refine the suggested content, if required. You can also restore the suggested content to the previous version.
-
 1. Click on the icon depicted in the image below to **adjust draft**.
 
       ![](/media/adjust.png)
@@ -70,6 +64,12 @@
       - Under **Add details**, enter the changes you want to be made in the content(4), .For example, provide a 10% discount on the next purchase.
 
         ![](/media/3-1.png)
+
+1. To **generate** a different suggestion, select **More options**, and then select **Try again**.
+
+   ![](/media/2-5.png)
+   
+      **Note:** Refine the suggested content, if required. You can also restore the suggested content to the previous version.
    
 1. Select **Add to email** to paste the content in the email body.
 
