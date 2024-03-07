@@ -58,11 +58,23 @@
    
       **Note:** Refine the suggested content, if required. You can also restore the suggested content to the previous version.
 
+1. Click on the icon depicted in the image below to **adjust draft**.
+
+1. You can make the following changes while saving draft and click on **Update**
+
+      - Under **Length**, select the content length you want to use (1)
+      - Under **Adjust tone**, select the tone you want to use (2)
+      - Under **Draft language**, select the language you want to use (3)
+      - Under **Add details**, enter the changes you want to be made in the content(4), .For example, provide a 10% discount on the next purchase.
+
+        ![](/media/3-1.png)
+   
 1. Select **Add to email** to paste the content in the email body.
 
    ![](/media/2-6.png)
 
 1. **Edit** the email content as required, and then **send** it.
+
 
 ### Task 3: Share feedback
 
