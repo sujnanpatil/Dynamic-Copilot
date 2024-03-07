@@ -8,6 +8,8 @@
 
 1. Click on **Apps** and select **Copilot for Sales**, and then select **Add to Dynamics 365**.
 
+   ![](/media/dy-9.png)
+
 1. In the **New contact** form, add the required information, and then select **Save**.
    
    ![](/media/dy-2-1.png)
