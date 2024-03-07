@@ -60,6 +60,8 @@
 
 1. Click on the icon depicted in the image below to **adjust draft**.
 
+      ![](/media/adjust.png)
+
 1. You can make the following changes while saving draft and click on **Update**
 
       - Under **Length**, select the content length you want to use (1)
