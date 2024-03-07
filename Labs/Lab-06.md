@@ -39,11 +39,9 @@
 
 1. In the **Add fields** window, **select** fields to display in the form, and then select **Add**.
 
-The new fields are added after existing fields, but you can reorder them.
+      **Note:** The new fields are added after existing fields, but you can reorder them.
 
 1. Select **Publish** to save your changes.
-
-1. **Select** or **deselect** the fields under the **Required** coloumn based on the preference.
 
 ### Reorder fields
 
