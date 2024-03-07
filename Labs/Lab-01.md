@@ -6,11 +6,11 @@
 
 1. In Outlook, click on **New Mail**.
 
-      ![](.../media/dy-8.png)
+      ![](../media/dy-8.png)
 
 1. Mention the email of the receiver, click on **Apps (1)** and select **Copilot for Sales (2)**.
 
-   ![](.../media/dy-6.png)
+   ![](../media/dy-6.png)
 
 1. Click on **Copilot for Sales** again.
 
