@@ -24,7 +24,7 @@
 
    ![](/media/dy-2-3.png)
    
-1. Add the **Owner** record under the **Details** tab and click on **Save and Close**.
+1. Add the **Owner (1)** record under the **Details** tab and click on **Save and Close (2)**.
 
    ![](/media/dy-2-4.png)
 
