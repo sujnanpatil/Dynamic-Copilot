@@ -22,7 +22,7 @@
 
 1. Once the environment is in **Ready** state, select the environment and click on **Settings**.
 
-   ![](/media/1-5.png)
+   ![](/media/1-6.png)
 
 1. Click on **Users** under **Users and permissions**.
 
