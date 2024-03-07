@@ -30,7 +30,7 @@
 
 ### Task 3: Analyze sales meetings with AI-generated meeting summaries
 
-1. Navigate to **Copilot for Sales** and clcik on the **Sales** Tab.
+1. Navigate to **Copilot for Sales** and click on the **Sales** Tab.
 
       **Note:** You might receive the below pop-up stating that the summary will take a while to show up and will notify via chat when it has fetched the insights.
 
