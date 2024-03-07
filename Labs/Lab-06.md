@@ -10,23 +10,93 @@
 
 ### Task 1.2: Forms
 
+### Add a new record type
+
 1. Click on **Settings** and select **Forms** under Environment tab and click on **Add record type**.
 
-1. Choose a **record tye** and click on **Next**.
+1. In the **Add a record type**, select a record type to **add**, and then select **Next**.
 
-1. Select the **relationship** you would like to add for your record type and click on **Next**.
+1. In the **Select the relationship** for (record type) window, select the **relationship** to existing record types or fields in Copilot for Sales, and then select **Next**.
 
-1. Select a **View** and click on **Add**.
+1. In the **Select the view** for (record type) window, select the view to define how a list of records for a specific record type is displayed, and then select **Add**.
 
-1. 1. Select **View filters** under the **Manage fields** section.
+1. On the record type settings page, select **Publish** to save your changes.
+
+### View filters used in a view
+
+1. Select a record type for which you want to see the query used in the selected view.
+
+1. Select **View filters** under the **Manage fields** section.
 
 1. To copy the query XML, select **Copy XML**.
 
-1. Review the parameters and click on **Publish**.
+### Modify record types not based on a CRM view
+### Add fields
 
-1. After publishing, click on **Add fields**  to add more fields based on your requirement.
+1. Select a **record type** to which you need to add fields.
+
+1. In the **Manage fields** section, select **Add fields**.
+
+1. In the **Add fields** window, **select** fields to display in the form, and then select **Add**.
+
+The new fields are added after existing fields, but you can reorder them.
+
+1. Select **Publish** to save your changes.
 
 1. **Select** or **deselect** the fields under the **Required** coloumn based on the preference.
+
+### Reorder fields
+
+1. Select the record type in which you need to reorder fields.
+
+1. In the **Manage fields** section, hover over the field you want to reorder, and then select the **Move up** or **Move down** arrows.
+
+    **Note:** You can also drag the field to change its order.
+
+1. Select **Publish** to save your changes.
+
+### Remove fields
+
+1. Select the record type from which you need to remove fields.
+
+1. In the **Manage fields** section, hover over the field you want to remove from the form, and then select **Remove field**.
+   
+1. Select **Publish** to save your changes.
+
+### Mark fields as required in Copilot for Sales
+
+1. Select a record type for which you need to mark the fields as required.
+
+2. In the Manage fields section, select **Required** for the fields that you want to mark as required.
+
+3. Select **Publish** to save your changes.
+
+### Configure editing of records and fields
+### To allow editing of records
+
+1. Select a record type for which you need to allow editing.
+
+1. Turn on **Allow editing** to allow sellers to **edit** all relevant fields in that record type.
+
+1. To restrict editing for specific fields, in the **Manage fields** section, and **turn off Allow editing** for corresponding fields.
+
+1. Select **Publish** to save your changes.
+
+### To configure new contact creation:
+
+1. Select the **Contact record** type.
+
+1. Under **Allow editing**, select **Allow new contacts to be created directly from Copilot for Sales**.
+
+1. Select **Publish** to save your changes.
+
+### To select key fields
+
+1. Select the record type in which you need to select fields for mini view.
+
+1. In the **Key fields** section, select fields from the list.
+
+1. Select **Publish** to save your changes.
 
 ### Task 2: Discover more options in Microsoft Copilot for Sales (in outlook) 
 
