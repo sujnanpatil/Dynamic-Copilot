@@ -10,7 +10,7 @@
 - You must transcribe the meeting for Copilot for Sales to generate insights.
 - If you create a recurring meeting, the Copilot for Sales app is added to all occurrences of the meeting.
 
-1. Navigate to **Teams** from Outlook by clicking on the button depicted in the below image
+1. Navigate to **Teams** from Outlook by clicking on the **More Options** on the top left of the Outlook Window.
 
 1. Select **Calendar** from the left pane and click on **+New Meeting** from the top right corner.
 
