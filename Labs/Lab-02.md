@@ -90,7 +90,7 @@
 
 1. Enable **server-side synchronization** when prompted.
 
-1.	Under **Connect to a record (1)**, select the record you want to connect the activity to and select **Save**.
+1.	Under **Connect to a record (1)**, select the record you want to connect the activity to and select **Save (2)**.
 
       ![](/media/dy-2-12.png)
 
