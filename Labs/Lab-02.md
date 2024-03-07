@@ -72,7 +72,7 @@
 
 - In Teams
 
-1. Open any customer chat and click on **More Options(...)** and select **Copilot for Sales**
+1. Open any customer chat and click on **More Options(...)** and select **Copilot for Sales**.
 
    ![](/media/dy-14.png)
 
