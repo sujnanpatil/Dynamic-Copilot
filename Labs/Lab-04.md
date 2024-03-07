@@ -20,7 +20,13 @@
 
 1. Provide the following details to create a new meeting and click on **Send**.
 
-   
+      - Provide a name for the meeting (1)
+      - Add the users you would like to add to the meeting. (2)
+      - Mention the Date and Time of the meetinf (3)
+      - Add the channel (Optional) (4)
+      - Outline what will be discussed during the meeting. (5)
+
+           ![](/media/details.png)
 
 ### Task 2: Use Microsoft Copilot for Sales AI in a recorded sales meeting 
 
