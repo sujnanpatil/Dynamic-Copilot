@@ -6,31 +6,31 @@
 
 1. Click on **Environments** from the left pane and click on **New**.
 
-   ![](/media/1-1.png)
+   ![](../media/1-1.png)
 
 1. Provide a name and make sure **Add a Dataverse data store** is selected to **Yes** and click on **Next**.
 
-   ![](/media/1-11.png)
+   ![](../media/1-11.png)
 
 1. Provide **None** for security roles and click on **Done**.
 
-   ![](/media/1-3.png)
+   ![](../media/1-3.png)
 
 1. Make sure **Enable Dynamics 365 apps** is set to **Yes**, select **Sales Pro** for **Automatically deploy these apps** and click on **Save**.
 
-   ![](/media/1-4.png)
+   ![](../media/1-4.png)
 
 1. Once the environment is in **Ready** state, select the environment and click on **Settings**.
 
-   ![](/media/1-6.png)
+   ![](../media/1-6.png)
 
 1. Click on **Users** under **Users and permissions**.
 
-   ![](/media/1-7.png)
+   ![](../media/1-7.png)
 
 1. Select the **user** and click on **Manage security roles**.
 
-   ![](/media/1-9.png)
+   ![](../media/1-9.png)
 
 1. Make sure **Basic User**, **Salesperson** and **Copilot for Sales** or **viva sales** is checked and click on **Save**.
 
