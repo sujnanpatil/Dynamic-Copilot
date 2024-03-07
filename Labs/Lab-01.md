@@ -16,12 +16,6 @@
 
    ![](/media/dy-7.png)
    
-1. Click on **Add to Dynamics 365** to save the contact or click on the contact to view if already saved. (for emails)
-
-   ![](/media/dy-9.png)
-
-1. Select **Show summary** in the banner message (for meetings)
-   
 - While reading an email
 
 1. Open any customer mail, click on **Apps** and select **Copilot for Sales**.
