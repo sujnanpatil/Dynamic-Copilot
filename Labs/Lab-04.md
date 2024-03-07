@@ -36,23 +36,4 @@
 
 1. Go to the meeting chat in your chat list, or open the event on your calendar in Teams, and select the **Copilot for Sales** tab and select **Open summary**.
    
-### Task 4: Use Copilot for Sales app during a meeting
-
-- Open the Copilot for Sales app
-- View connected record details
-- Copy link to connected record
-- Edit connected record
-
-- Open the Copilot for Sales app in Outlook
-
-1. Open the meeting in Outlook
-
-1. Click on the **Options(...)** and select **Copilot for Sales**
-
-1. The tab will open on the right side and an opportunity summary card is displayed on the Highlights tab showing the key details and status of the current opportunity.
-
-**Note:** The summary will only be generated if the meeting is connected to an opportunity in CRM.
-
-- View connected record details
-
-1. 
+### Task 4: Follow up with customers after meetings with an email 
