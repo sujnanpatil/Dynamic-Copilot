@@ -31,6 +31,7 @@
    ![](../media/dy-5.png)
 
 - Access Copilot for Sales in Teams
+  
 
 1. Select **Apps** and click on **Copilot for Sales** to view.
    
