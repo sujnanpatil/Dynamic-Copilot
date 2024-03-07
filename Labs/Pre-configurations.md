@@ -10,7 +10,7 @@
 
 1. Provide a name and make sure **Add a Dataverse data store** is selected to **Yes** and click on **Next**.
 
-   ![](/media/1-2.png)
+   ![](/media/1-11.png)
 
 1. Provide **None** for security roles and click on **Done**.
 
