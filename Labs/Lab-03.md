@@ -38,9 +38,7 @@
 
 1. To use a suggested prompt, click the **icon** as depicted in the below image and then **choose** a prompt.
    
-1. To use a saved prompt, click the **icon** as depicted in the below image and then **choose** the prompt you want to use.
-   
-1. Select **Create** draft.
+1. To use a saved prompt, click the **icon** (1) as depicted in the below image and then **choose** the prompt you want to use and select **Create** draft (2).
 
 1. **Review** the suggested content.
 
