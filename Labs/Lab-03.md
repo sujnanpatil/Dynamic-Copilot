@@ -55,7 +55,8 @@
 1. To **generate** a different suggestion, select **More options**, and then select **Try again**.
 
    ![](/media/2-5.png)
-Refine the suggested content, if required. You can also restore the suggested content to the previous version.
+   
+      **Note:** Refine the suggested content, if required. You can also restore the suggested content to the previous version.
 
 1. Select **Add to email** to paste the content in the email body.
 
