@@ -26,7 +26,7 @@
 
 1. Click on **Users** under **Users and permissions**.
 
-   ![](/media/1-6.png)
+   ![](/media/1-7.png)
 
 1. Select the **user** and click on **Manage security roles**.
 
