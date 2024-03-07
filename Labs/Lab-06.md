@@ -2,6 +2,31 @@
 
 ### Task 1: CRM customizations and controls (in teams) 
 
+### Task 1.1: Copilot AI
+
+1. Click on **Apps** and open **Copilot for Sales**.
+
+1. Click on **Settings** and select **Copilot AI** under Environment tab and review the features provided. Enable or disable based on your preferences.
+
+### Task 1.2: Forms
+
+1. Click on **Settings** and select **Forms** under Environment tab and click on **Add record type**.
+
+1. Choose a **record tye** and click on **Next**.
+
+1. Select the **relationship** you would like to add for your record type and click on **Next**.
+
+1. Select a **View** and click on **Add**.
+
+1. 1. Select **View filters** under the **Manage fields** section.
+
+1. To copy the query XML, select **Copy XML**.
+
+1. Review the parameters and click on **Publish**.
+
+1. After publishing, click on **Add fields**  to add more fields based on your requirement.
+
+1. **Select** or **deselect** the fields under the **Required** coloumn based on the preference.
 
 ### Task 2: Discover more options in Microsoft Copilot for Sales (in outlook) 
 
