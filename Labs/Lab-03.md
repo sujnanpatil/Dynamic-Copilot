@@ -43,6 +43,8 @@
 1. In the textbox, enter a phrase to describe the kind of reply you want to send.
 
 1. To use a suggested prompt, click the **icon** as depicted in the below image and then **choose** a prompt.
+
+   ![](/media/2-5-1.png)
    
 1. To use a saved prompt, click the **icon** (1) as depicted in the below image and then **choose** the prompt you want to use and select **Create** draft (2).
 
