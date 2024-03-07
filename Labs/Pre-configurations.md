@@ -16,9 +16,9 @@
 
 1. Once the environment is in **Ready** state, select the environment and click on **Settings**.
 
-1. Click on **Users** under **Users and permissions**
+1. Click on **Users** under **Users and permissions**.
 
-1. Select the **user** and click on **Manage security roles**
+1. Select the **user** and click on **Manage security roles**.
 
 1. Make sure **Basic User**, **Salesperson** and **Copilot for Sales** or **viva sales** is checked and click on **Save**.
 
