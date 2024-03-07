@@ -126,7 +126,7 @@
 
 1. Select **Publish** to save your changes.
 
-     **Note:** The changes made will reflect to **Outlook**.
+     **Note:** The changes made will reflect in **Outlook**.
 
 ### Task 2: Discover more options in Microsoft Copilot for Sales (in outlook) 
 
