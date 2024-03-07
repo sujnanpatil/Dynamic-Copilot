@@ -19,6 +19,8 @@
 1. Open a customer email and select **Reply**. In the banner message at the top of the draft email, select **Apps** and select **Copilot for Sales**.
 
 1. Choose any of the **pre-defined categories** provided under **Draft with Copilot**
+
+   ![](/media/2-1.png)
    
 1. Review the **suggested** content.
 
@@ -26,7 +28,11 @@
    
 1. Select **Keep it** to paste the content in the email body.
 
+   ![](/media/2-2.png)
+
 1. Edit the email content as required, and then **send** it.
+
+   ![](/media/2-3.png)
 
 ### Task 2.2: Create an email message using custom prompt
 
@@ -40,12 +46,18 @@
    
 1. To use a saved prompt, click the **icon** (1) as depicted in the below image and then **choose** the prompt you want to use and select **Create** draft (2).
 
+   ![](/media/2-4.png)
+
 1. **Review** the suggested content.
 
 1. To **generate** a different suggestion, select **More options**, and then select **Try again**.
+
+   ![](/media/2-5.png)
 Refine the suggested content, if required. You can also restore the suggested content to the previous version.
 
 1. Select **Add to email** to paste the content in the email body.
+
+   ![](/media/2-6.png)
 
 1. **Edit** the email content as required, and then **send** it.
 
