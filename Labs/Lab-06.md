@@ -69,7 +69,7 @@
 
 1. In the **Manage fields** section, hover over the field you want to reorder, and then select the **Move up** or **Move down** arrows.
 
-   ![](/media/6-15.png)
+   ![](/media/move.png)
 
    **Note:** You can also drag the field to change its order.
 
