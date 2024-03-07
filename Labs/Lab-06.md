@@ -6,7 +6,11 @@
 
 1. Click on **Apps** and open **Copilot for Sales**.
 
+   ![](/media/6-1.png)
+
 1. Click on **Settings** and select **Copilot AI** under Environment tab and review the features provided. Enable or disable based on your preferences.
+
+   ![](/media/6-2.png)
 
 ### Task 1.2: Forms
 
@@ -14,19 +18,31 @@
 
 1. Click on **Settings** and select **Forms** under Environment tab and click on **Add record type**.
 
+   ![](/media/6-3.png)
+
 1. In the **Add a record type**, select a record type to **add**, and then select **Next**.
+
+   ![](/media/6-4.png)
 
 1. In the **Select the relationship** for (record type) window, select the **relationship** to existing record types or fields in Copilot for Sales, and then select **Next**.
 
+   ![](/media/6-5.png)
+
 1. In the **Select the view** for (record type) window, select the view to define how a list of records for a specific record type is displayed, and then select **Add**.
 
+   ![](/media/6-6.png)
+
 1. On the record type settings page, select **Publish** to save your changes.
+
+   ![](/media/6-7.png)
 
 ### View filters used in a view
 
 1. Select a record type for which you want to see the query used in the selected view.
 
 1. Select **View filters** under the **Manage fields** section.
+
+   ![](/media/6-8.png)
 
 1. To copy the query XML, select **Copy XML**.
 
@@ -37,7 +53,11 @@
 
 1. In the **Manage fields** section, select **Add fields**.
 
+   ![](/media/6-9.png)
+
 1. In the **Add fields** window, **select** fields to display in the form, and then select **Add**.
+
+   ![](/media/6-10.png)
 
       **Note:** The new fields are added after existing fields, but you can reorder them.
 
@@ -49,7 +69,9 @@
 
 1. In the **Manage fields** section, hover over the field you want to reorder, and then select the **Move up** or **Move down** arrows.
 
-    **Note:** You can also drag the field to change its order.
+   ![](/media/6-15.png)
+
+   **Note:** You can also drag the field to change its order.
 
 1. Select **Publish** to save your changes.
 
@@ -58,6 +80,8 @@
 1. Select the record type from which you need to remove fields.
 
 1. In the **Manage fields** section, hover over the field you want to remove from the form, and then select **Remove field**.
+
+   ![](/media/6-13.png)
    
 1. Select **Publish** to save your changes.
 
@@ -67,6 +91,8 @@
 
 2. In the Manage fields section, select **Required** for the fields that you want to mark as required.
 
+   ![](/media/6-11.png)
+
 3. Select **Publish** to save your changes.
 
 ### Configure editing of records and fields
@@ -75,6 +101,8 @@
 1. Select a record type for which you need to allow editing.
 
 1. Turn on **Allow editing** to allow sellers to **edit** all relevant fields in that record type.
+
+   ![](/media/6-12.png)
 
 1. To restrict editing for specific fields, in the **Manage fields** section, and **turn off Allow editing** for corresponding fields.
 
@@ -93,6 +121,8 @@
 1. Select the record type in which you need to select fields for mini view.
 
 1. In the **Key fields** section, select fields from the list.
+
+   ![](/media/6-14.png)
 
 1. Select **Publish** to save your changes.
 
