@@ -4,7 +4,7 @@
 
 ## Lab Scenario
 
-To maximize the advantages of Copilot for Sales, it's essential to have your external contacts integrated into your CRM system. Within Copilot for Sales, this process is termed as linking a contact to your CRM. These contacts, once linked, are identified as Saved contacts within the system.
+Microsoft Copilot for Sales reduces the need for frequent context switching so that you can find the information that you need. Keeping the correct CRM data accessible and in the flow of work in Outlook and Teams makes updates and references to CRM data near effortless.
 
 ## Lab Objectives
 
