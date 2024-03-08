@@ -1,6 +1,6 @@
 # Lab 02: View and update CRM data in the flow of work
 
-## CRM Actions
+# CRM Actions
 
 # Lab Scenario
 
