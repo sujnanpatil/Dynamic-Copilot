@@ -1,5 +1,17 @@
 # Lab 01: Getting Started with Microsoft Copilot for Sales
 
+# Lab Scenario
+
+
+Introducing the Copilot for Sales app – your all-in-one solution for smoother sales management. With this tool, accessing CRM data from Outlook is a breeze. Simply sign in to your CRM directly from your email platform, streamlining your workflow and boosting productivity. Get ready to revolutionize your sales process with Copilot for Sales!
+
+# Lab Objectives
+
+In this lab, you will perform:
+
+- Access the Copilot for Sales app
+- Sign in to CRM from Outlook
+
 ## Task 1: Access the Copilot for Sales app
 
 - While drafting an email or creating a meeting
@@ -62,3 +74,9 @@
 - In the confirmation message, select **Allow**.
 - Enter your Salesforce credentials, and then select **Log In**. <br> 
 - Select **Allow**, and then select **Allow access**.
+
+# Review
+
+In this lab, you have understood how to access the copilot for sales app and signed in.
+
+## You have successfully completed the lab
