@@ -1,6 +1,6 @@
-# Getting Started with Your AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop Workshop
+# Getting Started with Your Dynamics 365 Copilot for Sales Workshop
  
-Welcome to your AZ-140: Configuring and Operating Microsoft Azure Virtual Desktop workshop! We've prepared a seamless environment for you to explore and learn about designing, implementing, managing, and maintaining Microsoft Azure Virtual Desktop experiences and remote apps for any device. Let's begin by making the most of this experience:
+Welcome to your Dynamics 365 Copilot for Sales workshop! We've prepared a seamless environment for you to explore and learn about designing, implementing, managing, and maintaining Copilot for Sales in Outlook and Teams. Let's begin by making the most of this experience:
  
 ## Accessing Your Lab Environment
  
