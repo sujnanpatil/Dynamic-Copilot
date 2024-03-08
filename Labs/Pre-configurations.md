@@ -32,7 +32,7 @@
 
    ![](../media/1-9.png)
 
-1. Make sure **Basic User**, **Salesperson** and **Copilot for Sales** or **viva sales** is checked and click on **Save**.
+1. Make sure **Basic User**, **Salesperson** and **Sales Copilot User** is checked and click on **Save**.
 
 ## Install Copilot for Sales in Outlook 
 
