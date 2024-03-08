@@ -2,11 +2,11 @@
 
 # CRM Actions
 
-# Lab Scenario
+## Lab Scenario
 
 To maximize the advantages of Copilot for Sales, it's essential to have your external contacts integrated into your CRM system. Within Copilot for Sales, this process is termed as linking a contact to your CRM. These contacts, once linked, are identified as Saved contacts within the system.
 
-# Lab Objectives
+## Lab Objectives
 
 In this lab, you will perform:
 
@@ -137,8 +137,8 @@ In this lab, you will perform:
 
 4.	Select anywhere outside the Private notes card to save the note.
 
-# Review
+## Review
 
-In this lab,
+In this lab, you have explored various features after creating a contact.
 
-## You have successfully completed the lab
+### You have successfully completed the lab
