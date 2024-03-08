@@ -84,6 +84,6 @@ In this, you wil perform:
 
 ## Review
 
-In this lab, 
+In this lab, you have understood how to use Copilot for Sales during teams meetings.
 
 ### You have successfully completed the lab.
