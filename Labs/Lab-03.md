@@ -46,7 +46,7 @@
 
    ![](../media/2-5-1.png)
    
-1. To use a saved prompt, click the **icon** (1) as depicted in the below image and then **choose** the prompt you want to use and select **Create** draft (2).
+1. To use a saved prompt, click the **icon (1)**  as depicted in the below image and then **choose** the prompt you want to use and select **Create  (2)** draft.
 
    ![](../media/2-4.png)
 
