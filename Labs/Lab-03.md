@@ -23,12 +23,12 @@
    ![](../media/2-1.png)
    
 1. Review the **suggested** content.
-
-      **Note:** To generate a different suggestion, select **Regenerate**.
    
 1. Select **Keep it** to paste the content in the email body.
 
    ![](../media/2-2.png)
+
+      **Note:** To generate a different suggestion, select **Regenerate**.
 
 1. Edit the email content as required, and then **send** it.
 
