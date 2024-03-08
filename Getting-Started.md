@@ -29,3 +29,9 @@ For convenience, you can open the lab guide in a separate window by selecting th
 Feel free to start, stop, or restart your virtual machine as needed from the **Resources** tab. Your experience is in your hands!
  
 ![Manage Your Virtual Machine](images/res.png)
+
+## Let's Get Started
+
+1. On your virtual machine, click on **Start**.
+
+1. Select **Microsoft Edge**.
