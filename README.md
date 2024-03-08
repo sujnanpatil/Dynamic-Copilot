@@ -1,1 +1,1 @@
-# Dynamic-Copilot
+# Dynamics-365-Copilot-for-Sales
