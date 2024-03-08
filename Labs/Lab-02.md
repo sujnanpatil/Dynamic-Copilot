@@ -2,6 +2,23 @@
 
 ## CRM Actions
 
+# Lab Scenario
+
+To maximize the advantages of Copilot for Sales, it's essential to have your external contacts integrated into your CRM system. Within Copilot for Sales, this process is termed as linking a contact to your CRM. These contacts, once linked, are identified as Saved contacts within the system.
+
+# Lab Objectives
+
+In this lab, you will perform:
+
+- Create a contact in your CRM from Copilot for Sales 
+- Connect a contact to your CRM
+- Change the connected CRM contact 
+- View and update CRM data 
+- Search and share CRM data
+- Connect and save emails and meetings to CRM 
+- View recent and upcoming activities
+- Add private notes
+  
 ### Task 1: Create a contact in your CRM from Copilot for Sales 
 
 1. In the **Copilot for Sales** pane, select a mail from the inbox.
@@ -119,3 +136,9 @@
       ![](../media/dy-2-15.png)
 
 4.	Select anywhere outside the Private notes card to save the note.
+
+# Review
+
+In this lab,
+
+## You have successfully completed the lab
