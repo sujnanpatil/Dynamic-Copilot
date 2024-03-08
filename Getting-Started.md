@@ -6,7 +6,7 @@ Welcome to your Dynamics 365 Copilot for Sales workshop! We've prepared a seamle
  
 Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
  
-![Access Your VM and Lab Guide](images/labguide.png)
+   ![](./media/get-1.png) 
 
 ### Virtual Machine & Lab Guide
  
