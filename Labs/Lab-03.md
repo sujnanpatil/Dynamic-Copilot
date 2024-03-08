@@ -1,5 +1,18 @@
 # Lab 03: Use AI to supercharge sales communication 
 
+## Lab Scenario
+
+With Microsoft Copilot for Sales, sellers can stay informed on customer interactions, seamlessly update CRM records, and access the correct data to inform conversations with customers, all while complying with business processes.
+
+Microsoft Copilot for Sales uses the power of generative AI to reimagine the sales experience, helping you stay in the flow of your work in Outlook, Teams, and Word.
+
+## Lab Objectives
+
+In this lab, you will perform:
+
+- View and save email summary to CRM
+- Draft an email message  
+
 ## Excercise 1: View and save email summary to CRM
 
 ### Task 1: View email summary
@@ -12,9 +25,9 @@
 
    ![](../media/dy1.png)
 
-### Task 2: Draft an email message  
+### Excercise 2: Draft an email message  
 
-### Task 2.1: Create an email reply using pre-defined categories
+### Task 2: Create an email reply using pre-defined categories
 
 1. Open a customer email and select **Reply**. In the banner message at the top of the draft email, select **Apps** and select **Copilot for Sales**.
 
@@ -34,7 +47,7 @@
 
    ![](../media/2-3.png)
 
-### Task 2.2: Create an email message using custom prompt
+### Task 2.1: Create an email message using custom prompt
 
 1. Open a customer email and select **Reply**. In the banner message at the top of the draft email, select **Apps** and select **Copilot for Sales**.
 
@@ -89,3 +102,9 @@
 1. Select the link to open the **feedback** form.
 
 1. Enter your responses in the feedback form and then select **Send**.
+
+## Review
+
+In this lab, you have understood how to draft an email, view and save the email summary.
+
+### You have successfully completed the lab.
