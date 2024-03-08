@@ -33,9 +33,9 @@
 - Access Copilot for Sales in Teams
   
 
-1. Select **Apps** and click on **Copilot for Sales** to view.
+1. Select **Apps** , search for **Copilot for Sale**s and click on **Add**.
    
-   ![](../media/dy-13.png)
+   ![](../media/1-10png)
    
 ## Task 2: Sign in to CRM from Outlook
 
