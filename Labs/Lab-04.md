@@ -1,8 +1,20 @@
 # Lab 04: Drive AI-powered sales 
 
-## Capabilities in Teams 
+# Capabilities in Teams 
 
-## Elevate Sales Meeting 
+# Elevate Sales Meeting 
+
+## Lab Scenario
+
+AI-powered sales intelligence can help improve your customer conversations and professionalism, and it can help you streamline follow-through. You can use Microsoft Copilot for Sales to help you remember details of your conversations and follow up on key moments. As a result, you're able to focus on doing what you do best.
+
+## Lab Objectives
+
+In this, you wil perform:
+
+- Create a Teams Meeting
+- Use Microsoft Copilot for Sales AI in a recorded sales meeting 
+- Analyze sales meetings with AI-generated meeting summaries
 
 ### Task 1: Create a Teams Meeting
 
@@ -69,3 +81,9 @@
    ![](../media/4-9.png)
    
 ### Task 4: Follow up with customers after meetings with an email 
+
+## Review
+
+In this lab, 
+
+### You have successfully completed the lab.
