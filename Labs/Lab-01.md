@@ -35,7 +35,7 @@
 
 1. Select **Apps** , search for **Copilot for Sale**s and click on **Add**.
    
-   ![](../media/1-10png)
+   ![](../media/1-10.png)
    
 ## Task 2: Sign in to CRM from Outlook
 
