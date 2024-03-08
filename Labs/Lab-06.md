@@ -1,5 +1,13 @@
 # Lab 06: Customize Microsoft Copilot for Sales (in Teams and Outlook) 
 
+## Lab Scenario
+
+Many sales organizations customize their CRM to meet their business needs. Microsoft Copilot for Sales is preconfigured to work with contact, opportunity, and account records. The admin experiences allow for sales organizations to define what matters to them, helping to ensure that their sales teams have the necessary CRM data accessible to them.
+
+## Lab Objectives
+
+- CRM customizations and controls in Teams and Outlook
+
 ### Task 1: CRM customizations and controls (in teams) 
 
 ### Task 1.1: Copilot AI
@@ -132,10 +140,7 @@
 
 ### Task 2.1: Switch environments or CRM
 
-**Note:** To switch environments, there should be two or more environments created in power apps platform.
-
-To create another environment, follow the below steps:
-
+**Note:** To **switch environments**, there should be two or more environments created in power apps platform.
 
 1. In the **Copilot for Sales** pane, clcik on the **Options(...)** on the top right and click on **Signed into Dynamics 365**.
 
@@ -190,3 +195,9 @@ When you sign in and reconnect to the same CRM system and environment, your info
 1.	Select **Delete Account**.
 
      ![](../media/dy12.png)
+
+## Review
+
+In this lab, you have explored various CRB actions and capablities in Teams and Outlook
+
+### You have successfully completed the lab.
