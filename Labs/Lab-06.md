@@ -1,4 +1,4 @@
-# Lab 06: Customize Microsoft Copilot for Sales (in Teams and Outlook) 
+# Lab 05: Customize Microsoft Copilot for Sales (in Teams and Outlook) 
 
 ## Lab Scenario
 
