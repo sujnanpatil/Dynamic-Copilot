@@ -79,8 +79,6 @@ In this, you wil perform:
 1. Review the recording.
 
    ![](../media/4-9.png)
-   
-### Task 4: Follow up with customers after meetings with an email 
 
 ## Review
 
