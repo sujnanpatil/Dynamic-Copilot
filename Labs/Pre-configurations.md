@@ -38,38 +38,38 @@
 
 1.	Sign into the **[Microsoft 365 admin center](https://admin.microsoft.com/)**.
    
-1.	In the left pane, select
+2.	In the left pane, select
 
   	- **Settings (1)**
    - Select **Integrated Apps (2)**
    - Click on **Available Apps (3)**
    - In the AppSource window, search for **Copilot for Sales (4)** and select it.
 
-     ![](../media/p-1.png)
+        ![](../media/p-1.png)
 
-1. Click on **Deploy App**.
+3. Click on **Deploy App**.
 
-      ![](../media/p-2.png)
+   ![](../media/p-2.png)
 
-1.	In the **Configuration** step, select the apps to deploy, and then select **Next**.
+4.	In the **Configuration** step, select the apps to deploy, and then select **Next**.
 
       ![](../media/p-3.png)
 
-1.	In the **Users** step, select **Just me**, and then select **Next**.
+5.	In the **Users** step, select **Just me**, and then select **Next**.
 
       ![](../media/p-4.png)
 
-1.	In the **Deployment(Permissions)** step, read the app permissions and capabilities for each of the apps to be deployed, select **Accept permissions** for each app, and then select **Next**.
+6.	In the **Deployment(Permissions)** step, read the app permissions and capabilities for each of the apps to be deployed, select **Accept permissions** for each app, and then select **Next**.
 
       ![](../media/p-5.png)
 
-1.	In the Deployment (Finish) step, review the selected settings, and then select **Finish deployment**.
+7.	In the Deployment (Finish) step, review the selected settings, and then select **Finish deployment**.
 
       ![](../media/p-6.png)
 
-1.	When the deployment is complete, select **Done**.
+8.	When the deployment is complete, select **Done**.
 
-1. Verify **Copilot for Sales** is available under **Deployed Apps**.
+9. Verify **Copilot for Sales** is available under **Deployed Apps**.
 
       ![](../media/p-7.png)
 
