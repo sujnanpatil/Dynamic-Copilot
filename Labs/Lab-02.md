@@ -21,6 +21,16 @@ In this lab, you will perform:
   
 ### Task 1: Create a contact in your CRM from Copilot for Sales 
 
+- Create a new Record
+
+1. Click on **+** on the top right once signed in.
+
+1. Click on **Create Record**.
+
+1. Add the details for the contact and click on **Save**.
+   
+- Create a contact from an exisiting Email
+  
 1. In the **Copilot for Sales** pane, select a mail from the inbox.
 
 1. Click on **Apps** and select **Copilot for Sales**, and then select **Add to Dynamics 365**.
