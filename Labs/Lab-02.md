@@ -25,9 +25,15 @@ In this lab, you will perform:
 
 1. Click on **+** on the top right once signed in.
 
+     ![](../media/dy13.png)
+
 1. Click on **Create Record**.
 
+      ![](../media/dy14.png)
+  
 1. Add the details for the contact and click on **Save**.
+
+    ![](../media/dy15.png)
    
 - Create a contact from an exisiting Email
   
