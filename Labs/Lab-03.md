@@ -90,6 +90,26 @@ In this lab, you will perform:
 
 1. **Edit** the email content as required, and then **send** it.
 
+- Alternate method 
+
+
+1. Open a customer email and select **Reply**. In the Draft with copilot select **Custom**.
+
+      ![](../media/dyn31.png)
+
+1. Type the Draft message you want to type and click n **Generate** to generate Draft.
+
+      ![](../media/dyn23.png)
+
+1. Click on the Highlighted icon to adjust the Draft.
+
+      ![](../media/dyn24.png)
+
+1. Use the following options to adjust the Draft, after adjusting click on **Keep it** and Click on **Send**.
+
+      ![](../media/dyn25.png)
+
+
 
 ### Task 3: Share feedback
 

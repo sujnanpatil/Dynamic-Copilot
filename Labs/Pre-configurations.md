@@ -8,9 +8,13 @@
 
    ![](../media/1-1.png)
 
-1. Provide a name and make sure **Add a Dataverse data store** is selected to **Yes** and click on **Next**.
+1. Provide a name and make sure **Add a Dataverse data store** is selected to **Yes** , leave **Group** as it is, no need to select as it is optional and click on **Next**.
 
-   ![](../media/1-11.png)
+   ![](../media/dyn1.png)
+
+1. In **Security Group** Click on **Select**.
+
+    ![](../media/dyn2.png)
 
 1. Provide **None** for security roles and click on **Done**.
 
@@ -30,7 +34,7 @@
 
 1. Select the **user** and click on **Manage security roles**.
 
-   ![](../media/1-9.png)
+   ![](../media/dyn3.png)
 
 1. Make sure **Basic User**, **Salesperson** and **Sales Copilot User** is checked and click on **Save**.
 
@@ -51,27 +55,36 @@
 
    ![](../media/p-2.png)
 
-4.	In the **Configuration** step, select the apps to deploy, and then select **Next**.
+4.	In the **Configuration** step, it will show the apps to deploy, and then select **Next**.
 
-      ![](../media/p-3.png)
+      ![](../media/dyn4.png)
 
 5.	In the **Users** step, select **Just me**, and then select **Next**.
 
       ![](../media/p-4.png)
 
-6.	In the **Deployment(Permissions)** step, read the app permissions and capabilities for each of the apps to be deployed, select **Accept permissions** for each app, and then select **Next**.
+6. Click on **Accept permissions**
 
-      ![](../media/p-5.png)
+      ![](../media/dyn5.png)
 
-7.	In the Deployment (Finish) step, review the selected settings, and then select **Finish deployment**.
+7. Select the **Account**.
 
-      ![](../media/p-6.png)
+      ![](../media/dyn6.png)
+   
 
-8.	When the deployment is complete, select **Done**.
+9.	In the **Deployment(Permissions)** step, Once it is shown as **Permission accepted** and then select **Next**.
 
-9. Verify **Copilot for Sales** is available under **Deployed Apps**.
+      ![](../media/dyn21.png)
 
-      ![](../media/p-7.png)
+10.	In the Deployment (Finish) step, review the selected settings, and then select **Finish deployment**.
+
+      ![](../media/dyn7.png)
+
+11.	When the deployment is complete, select **Done**.
+
+12. Verify **Copilot for Sales** is available under **Deployed Apps**.
+
+      ![](../media/dyn8.png)
 
 ## Install and pin Copilot for Sales in Teams 
 
