@@ -176,15 +176,20 @@ Many sales organizations customize their CRM to meet their business needs. Micro
 
     ![](../media/dy10.png)
 
-### Task 2.4: Watch video related to Copilot for Sales.
+### Task 2.4: Watch video related to Copilot for Sales
 
 1. Select **Options(...)** in the upper-right corner, and then select **About** > **Watch video**.
 
     ![](../media/dyn39.png)
 
-### Task 2.5: To get know about Copilot for Sales.
+   Video about the **Copilot for Sales**
 
-1. Select **Options(...)** in the upper-right corner, and then select **About** > **About Copilot for Sales**.
+    ![](../media/dyn34.png)
+   
+
+### Task 2.5: To get know about Copilot for Sales
+
+1. Select **Options(...)** in the upper-right corner, and then select **About** > **About Copilot for Sales**. Here it will explain about the Copilot for Sales.
 
     ![](../media/dyn38.png)
    
@@ -201,7 +206,7 @@ When you sign in and reconnect to the same CRM system and environment, your info
 
     ![](../media/sign.png)
 
-### Task 2.7: Delete your personal data from Copilot for Sales
+### Task 2.7: View Pricvacy policies for Copilot for Sales
 
 1.	Open **Copilot for Sales**.
 
@@ -209,9 +214,6 @@ When you sign in and reconnect to the same CRM system and environment, your info
 
     ![](../media/dyn30.png)
 
-1.	Select **Delete Account**.
-
-     ![](../media/dy12.png)
 
 
 ## Review
