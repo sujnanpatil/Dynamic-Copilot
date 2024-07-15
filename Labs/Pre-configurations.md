@@ -122,4 +122,8 @@
 
 1. Select **Save**.
 
-   ![](../media/t-5.png) 
+   ![](../media/t-5.png)
+
+1. Click on **Save** for User pinning.
+
+    ![](../media/dyn9.png)
