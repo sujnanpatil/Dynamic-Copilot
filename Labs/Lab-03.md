@@ -49,6 +49,24 @@ In this lab, you will perform:
 
 ### Task 2.1: Create an email message using custom prompt
 
+1. Open a customer email and select **Reply**. In the Draft with copilot select **Custom**.
+
+      ![](../media/dyn31.png)
+
+1. Type the Draft message you want to type and click n **Generate** to generate Draft.
+
+      ![](../media/dyn23.png)
+
+1. Click on the Highlighted icon to adjust the Draft.
+
+      ![](../media/dyn24.png)
+
+1. Use the following options to adjust the Draft, after adjusting click on **Keep it** and Click on **Send**.
+
+      ![](../media/dyn25.png)
+
+- Alternate method
+
 1. Open a customer email and select **Reply**. In the banner message at the top of the draft email, select **Apps** and select **Copilot for Sales**.
 
 1. Select **Draft an email**.
