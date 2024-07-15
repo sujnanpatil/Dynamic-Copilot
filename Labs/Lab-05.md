@@ -156,7 +156,7 @@ Many sales organizations customize their CRM to meet their business needs. Micro
 
 1.	Select the **Options(...)** in the upper-right corner, and then select **Diagnostics**.
 
-    ![](../media/dy7.png)
+      ![](../media/dy7.png)
 
 1.	Select **Copy details** to copy the diagnostics data, and then paste the data into an email, Teams chat, or any other medium you like to use to share it with technical support team.
 
