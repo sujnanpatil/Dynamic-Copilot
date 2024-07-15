@@ -80,6 +80,10 @@ In this, you wil perform:
 
    ![](../media/4-9.png)
 
+- One more Alternate way to Review the recording.
+
+   ![](../media/dyn26.png)
+
 ## Review
 
 In this lab, you have understood how to use Copilot for Sales during teams meetings.
