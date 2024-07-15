@@ -19,9 +19,9 @@ In this lab, you will perform:
 
       ![](../media/dy-8.png)
 
-1. Mention the email of the receiver, click on **Apps (1)** and select **Copilot for Sales (2)**.
+1. Mention the email of the receiver, click on **Insert (1)** then **Apps (2)** and select **Copilot for Sales (3)**.
 
-   ![](../media/dy-6.png)
+   ![](../media/dyn10.png)
 
 1. Click on **Copilot for Sales** again.
 
@@ -29,9 +29,18 @@ In this lab, you will perform:
    
 - While reading an email
 
-1. Open any customer mail, click on **Apps** and select **Copilot for Sales**.
+1. Open any **customer mail (1)**,then click on **...(2)** inside the mail,  click on **Apps** and select **Copilot for Sales**.
    
-   ![](../media/dy-10.png)
+   ![](../media/dyn11.png)
+
+- Create a Team meeting
+1. Click on **Calender (1)**, then select **New event (2)**
+
+    ![](../media/dyn12.png)
+
+2. Add the title on the title field **(1)** and Click on **Save (2)**.
+
+    ![](../media/dyn13.png)
    
 - While opening a meeting
 
@@ -39,7 +48,7 @@ In this lab, you will perform:
    
 1. Select **More commands (...)** and then select **Copilot for Sales** (in Simplified ribbon)
 
-   ![](../media/dy-5.png)
+   ![](../media/dyn14.png)
 
 - Access Copilot for Sales in Teams
   
@@ -47,22 +56,22 @@ In this lab, you will perform:
 1. Select **Apps** , search for **Copilot for Sale**s and click on **Add**.
    
    ![](../media/1-10.png)
+
+1. Click on **Add**.
+
+    ![](../media/dyn16.png)
    
 ## Task 2: Sign in to CRM from Outlook
 
 1. In Outlook, open a customer mail, click on **Apps** and select **Copilot for Sales**.
    
-1. In the **Copilot for Sales** pane, select **Sign in** in the banner at the top or card at the bottom.
+1. In the **Copilot for Sales** pane, select **Switch environment** in the Signed in to Dynamic 365 banner at the top.
 
-   ![](../media/dy-1.png)
-
-1. Select **Sign in** to your CRM and select in to Dynamics 365 from the dropdown.
-
-      ![](../media/dy-2.png)
-   
+   ![](../media/dyn17.png)
+  
 1. Choose the **Environment** where you wish to sign in.
 
-   ![](../media/dy-3.png)
+   ![](../media/dyn18.png)
 
 1. Click on **Get Started**.
 
