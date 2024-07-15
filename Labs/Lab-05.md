@@ -205,7 +205,7 @@ When you sign in and reconnect to the same CRM system and environment, your info
 
 1.	Open **Copilot for Sales**.
 
-1.	Select **Options(...)** in the upper-right corner, and then select **About** > **Privacy**.
+1.	Select **Options(...)** in the upper-right corner, and then select **About** > **Privacy policy**. To view Microsoft Privacy policies.
 
     ![](../media/dyn30.png)
 
