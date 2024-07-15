@@ -74,7 +74,7 @@
 
 9.	In the **Deployment(Permissions)** step, Once it is shown as **Permission accepted** and then select **Next**.
 
-      ![](../media/p-5.png)
+      ![](../media/dyn21.png)
 
 10.	In the Deployment (Finish) step, review the selected settings, and then select **Finish deployment**.
 
