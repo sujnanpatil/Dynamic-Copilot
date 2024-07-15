@@ -214,10 +214,9 @@ When you sign in and reconnect to the same CRM system and environment, your info
 
     ![](../media/dy11.png)
 
-1. Select **Delete Account**.
+1.	Select **Delete Account**.
  
-     ![](../media/dy12.png)
-
+      ![](../media/dy12.png)
 
 
 ## Review
