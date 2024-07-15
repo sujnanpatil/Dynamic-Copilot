@@ -176,18 +176,18 @@ Many sales organizations customize their CRM to meet their business needs. Micro
 
     ![](../media/dy10.png)
 
-### Task 2.4: Watch video related to Copilot for Sales
+### Task 2.4: Video related to Copilot for Sales
 
 1. Select **Options(...)** in the upper-right corner, and then select **About** > **Watch video**.
 
     ![](../media/dyn39.png)
 
-   Video about the **Copilot for Sales**
+   Video about the Brief introduction about the **Copilot for Sales**
 
     ![](../media/dyn34.png)
    
 
-### Task 2.5: To get know about Copilot for Sales
+### Task 2.5: About Copilot for Sales
 
 1. Select **Options(...)** in the upper-right corner, and then select **About** > **About Copilot for Sales**. Here it will explain about the Copilot for Sales.
 
