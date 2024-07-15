@@ -59,6 +59,8 @@ Many sales organizations customize their CRM to meet their business needs. Micro
 
 1. Select a **record type** to which you need to add fields.
 
+   ![](../media/dyn27.png)
+
 1. In the **Manage fields** section, select **Add fields**.
 
    ![](../media/6-9.png)
@@ -108,9 +110,9 @@ Many sales organizations customize their CRM to meet their business needs. Micro
 
 1. Select a record type for which you need to allow editing.
 
-1. Turn on **Allow editing** to allow sellers to **edit** all relevant fields in that record type.
+1. Turn on **Editing records** to allow sellers to **edit** all relevant fields in that record type.
 
-   ![](../media/6-12.png)
+   ![](../media/dyn28.png)
 
 1. To restrict editing for specific fields, in the **Manage fields** section, and **turn off Allow editing** for corresponding fields.
 
@@ -148,7 +150,7 @@ Many sales organizations customize their CRM to meet their business needs. Micro
 
     ![](../media/dy5.png)
 
-    ![](../media/dy6.png)
+    ![](../media/dyn32.png)
 
 ### Task 2.2: View diagnostics data
 
@@ -160,7 +162,7 @@ Many sales organizations customize their CRM to meet their business needs. Micro
 
 1.	Select **Copy details** to copy the diagnostics data, and then paste the data into an email, Teams chat, or any other medium you like to use to share it with technical support team.
 
-    ![](../media/dy8.png)
+    ![](../media/dyn29.png)
 
 ### Task 2.3: Share Feedback
 
@@ -174,7 +176,22 @@ Many sales organizations customize their CRM to meet their business needs. Micro
 
     ![](../media/dy10.png)
 
-### Task 2.4: Sign out of Copilot for Sales
+### Task 2.4: Watch video related to Copilot for Sales.
+
+1. Select **Options(...)** in the upper-right corner, and then select **About** > **Watch video**.
+
+    ![](../media/dyn39.png)
+
+### Task 2.5: To get know about Copilot for Sales.
+
+1. Select **Options(...)** in the upper-right corner, and then select **About** > **About Copilot for Sales**.
+
+    ![](../media/dyn38.png)
+   
+
+    ![](../media/dyn36.png)    
+
+### Task 2.6: Sign out of Copilot for Sales
 
 When you sign in and reconnect to the same CRM system and environment, your information is restored to the state it was in before you signed out. If you connect to a different CRM system or a different environment, the information is not restored.
 
@@ -184,17 +201,18 @@ When you sign in and reconnect to the same CRM system and environment, your info
 
     ![](../media/sign.png)
 
-### Task 2.5: Delete your personal data from Copilot for Sales
+### Task 2.7: Delete your personal data from Copilot for Sales
 
 1.	Open **Copilot for Sales**.
 
 1.	Select **Options(...)** in the upper-right corner, and then select **About** > **Privacy**.
 
-    ![](../media/dy11.png)
+    ![](../media/dyn30.png)
 
 1.	Select **Delete Account**.
 
      ![](../media/dy12.png)
+
 
 ## Review
 
