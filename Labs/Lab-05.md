@@ -160,7 +160,7 @@ Many sales organizations customize their CRM to meet their business needs. Micro
 
 1.	Select **Copy details** to copy the diagnostics data, and then paste the data into an email, Teams chat, or any other medium you like to use to share it with technical support team.
 
-    ![](../media/dy8.png)
+       ![](../media/dy8.png)
 
 ### Task 2.3: Share Feedback
 
@@ -168,11 +168,11 @@ Many sales organizations customize their CRM to meet their business needs. Micro
 
 2.	Select **Options(...)** in the upper-right corner, and then select **Share feedback**.
 
-    ![](../media/dy9.png)
+       ![](../media/dy9.png)
 
 4.	Enter your responses in the feedback form and then select **Send**.
 
-    ![](../media/dy10.png)
+       ![](../media/dy10.png)
 
 ### Task 2.4: Sign out of Copilot for Sales
 
@@ -182,7 +182,7 @@ When you sign in and reconnect to the same CRM system and environment, your info
 
 2.	Select **Options(...)** in the upper-right corner, and then select **Sign out**.
 
-    ![](../media/sign.png)
+       ![](../media/sign.png)
 
 ### Task 2.5: Delete your personal data from Copilot for Sales
 
@@ -190,11 +190,11 @@ When you sign in and reconnect to the same CRM system and environment, your info
 
 1.	Select **Options(...)** in the upper-right corner, and then select **About** > **Privacy**.
 
-    ![](../media/dy11.png)
+       ![](../media/dy11.png)
 
 1.	Select **Delete Account**.
 
-     ![](../media/dy12.png)
+      ![](../media/dy12.png)
 
 ## Review
 
