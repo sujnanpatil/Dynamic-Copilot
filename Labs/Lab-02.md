@@ -23,7 +23,7 @@ In this lab, you will perform:
 
 - Create a new Record
 
-1. Click on **+** on the top right once signed in.
+1. Click on **Add (+)** on the top right once signed in.
 
      ![](../media/dy13.png)
 
@@ -53,7 +53,7 @@ In this lab, you will perform:
 
 1. Open the email and click on the **More Options(...)** beside the saved contact and open through **Dynamics 365**.
 
-1. Click on **Connect** on the top and select the record and give a **role** and a **description** based on the connection you would like to create in the **Connect To** tab.
+1. Click on **Connect** on the top, select the record and provide a **role** and a **description** based on the connection you would like to create in the **Connect To** tab.
 
    ![](../media/dy-2-2.png)
 
@@ -65,7 +65,7 @@ In this lab, you will perform:
 
 ### Task 3: Change the connected CRM contact 
 
-1. Open the email and click on the **More Options(...)** beside the saved contact and open through **Dynamics 365**
+1. Open the email and click on the **More Options(...)** beside the saved contact and open through **Dynamics 365**.
 
 1. Click on **Related** and select **Connections**.
 
@@ -99,7 +99,7 @@ In this lab, you will perform:
 
 1.	Open the **Copilot for Sales** pane.
 
-1.	In the (record type) card, scroll down and select the saved contact, clcik on the ellipsis and select **Copy link**.
+1.	In the (record type) card, scroll down and select the saved contact, clcik on the **ellipsis** and select **Copy link**.
 
       ![](../media/dy-2-17.png)
 
