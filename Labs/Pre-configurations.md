@@ -63,7 +63,7 @@
 
       ![](../media/p-4.png)
 
-6. Click on **Accept permissions**
+6. Click on **Accept permissions**.
 
       ![](../media/dyn5.png)
 
@@ -71,11 +71,11 @@
 
       ![](../media/dyn6.png)
    
-8.	In the **Deployment(Permissions)** step, Once it is shown as **Permission accepted** and then select **Next**.
+8.	In the **Deployment(Permissions)** step, once it displays as **Permission accepted** ,select **Next**.
 
       ![](../media/dyn21.png)
 
-9.	In the Deployment (Finish) step, review the selected settings, and then select **Finish deployment**.
+9.	In the **Deployment (Finish)** step, review the selected settings, and then select **Finish deployment**.
 
       ![](../media/dyn7.png)
 
