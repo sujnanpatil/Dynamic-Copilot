@@ -97,15 +97,15 @@ In this lab, you will perform:
 
       ![](../media/dyn31.png)
 
-1. Type the Draft message you want to type and click n **Generate** to generate Draft.
+1. Type the Draft message you want to type and click on **Generate** to generate the draft.
 
       ![](../media/dyn23.png)
 
-1. Click on the Highlighted icon to adjust the Draft.
+1. Click on the highlighted icon to adjust the draft.
 
       ![](../media/dyn24.png)
 
-1. Use the following options to adjust the Draft, after adjusting click on **Keep it** and Click on **Send**.
+1. Use the following options to adjust the draft, after making the required adjustments, click on **Keep it** and click on **Send**.
 
       ![](../media/dyn25.png)
 
