@@ -34,7 +34,7 @@
 
 1. Select the **user** and click on **Manage security roles**.
 
-   ![](../media/dyn3.png)
+   ![](../media/dyn3-1.png)
 
 1. Make sure **Basic User**, **Salesperson** and **Sales Copilot User** is checked and click on **Save**.
 
@@ -69,7 +69,7 @@
 
 7. Select the **Account**.
 
-      ![](../media/dyn6.png)
+      ![](../media/dyn6-1.png)
    
 8.	In the **Deployment(Permissions)** step, once it displays as **Permission accepted** ,select **Next**.
 
