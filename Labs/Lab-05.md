@@ -69,7 +69,7 @@ Many sales organizations customize their CRM to meet their business needs. Micro
 
    ![](../media/6-10.png)
 
-      **Note:** The new fields are added after existing fields, but you can reorder them.
+      **Note:** The new fields are added after the existing fields, but you can reorder them as needed.
 
 1. Select **Publish** to save your changes.
 
@@ -110,11 +110,11 @@ Many sales organizations customize their CRM to meet their business needs. Micro
 
 1. Select a record type for which you need to allow editing.
 
-1. Turn on **Editing records** to allow sellers to **edit** all relevant fields in that record type.
+1. Turn on **Edit records** to allow sellers to **edit** all relevant fields in that record type.
 
    ![](../media/dyn28.png)
 
-1. To restrict editing for specific fields, in the **Manage fields** section, and **turn off Allow editing** for corresponding fields.
+1. To restrict editing for specific fields, **turn off Allow edit** for corresponding fields in the **Manage fields** section.
 
 1. Select **Publish** to save your changes.
 
@@ -182,21 +182,33 @@ Many sales organizations customize their CRM to meet their business needs. Micro
 
     ![](../media/dyn39.png)
 
-   Video about the Brief introduction about the **Copilot for Sales**
+1. The video provides a brief introduction about the **Copilot for Sales**
 
-    ![](../media/dyn34.png)
+   ![](../media/dyn34.png)
    
 
 ### Task 2.5: About Copilot for Sales
 
-1. Select **Options(...)** in the upper-right corner, and then select **About** > **About Copilot for Sales**. Here it will explain about the Copilot for Sales.
+1. Select **Options(...)** in the upper-right corner, and then select **About** > **About Copilot for Sales**. It provides an overview on how we can boost sales performance by using Copilot for Sales.
 
     ![](../media/dyn38.png)
    
 
     ![](../media/dyn36.png)    
 
-### Task 2.6: Sign out of Copilot for Sales
+### Task 2.6: View Privacy policies for Copilot for Sales
+
+1.	Open **Copilot for Sales**.
+
+1.	Select **Options(...)** in the upper-right corner, and then select **About** > **Privacy policy**. To view Microsoft Privacy policies.
+
+       ![](../media/dyn30.png)
+
+1.	Please go through the **Microsoft Privacy policy documentation** as per your requirement.
+
+      ![](../media/dyn41.png)
+
+### Task 2.7: Sign out of Copilot for Sales
 
 When you sign in and reconnect to the same CRM system and environment, your information is restored to the state it was in before you signed out. If you connect to a different CRM system or a different environment, the information is not restored.
 
@@ -205,18 +217,6 @@ When you sign in and reconnect to the same CRM system and environment, your info
 2.	Select **Options(...)** in the upper-right corner, and then select **Sign out**.
 
        ![](../media/sign.png)
-
-### Task 2.7: View Privacy policies for Copilot for Sales
-
-1.	Open **Copilot for Sales**.
-
-1.	Select **Options(...)** in the upper-right corner, and then select **About** > **Privacy policy**. To view Microsoft Privacy policies.
-
-       ![](../media/dyn30.png)
-
-1.	Microsoft Privacy policy documentation.
-
-      ![](../media/dyn41.png)
 
 ## Review
 
