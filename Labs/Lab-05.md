@@ -150,7 +150,7 @@ Many sales organizations customize their CRM to meet their business needs. Micro
 
     ![](../media/dy5.png)
 
-    ![](../media/dyn32.png)
+    ![](../media/dyn32-1.png)
 
 ### Task 2.2: View diagnostics data
 
