@@ -12,7 +12,7 @@
 
    ![](../media/dyn1.png)
 
-1. In **Security Group** Click on **Select**.
+1. In **Security Group**, click on **Select**.
 
     ![](../media/dyn2.png)
 
@@ -79,7 +79,7 @@
 
       ![](../media/dyn7.png)
 
-10. When the deployment is complete, select **Done**.
+10. When the deployment is complete, click on **Done**.
 
 11. Verify **Copilot for Sales** is available under **Deployed Apps**.
 
