@@ -19,7 +19,7 @@ In this lab, you will perform:
 
       ![](../media/dy-8.png)
 
-1. Mention the email of the receiver, click on **Insert (1)** then **Apps (2)** and select **Copilot for Sales (3)**.
+1. Mention the email of the receiver, click on **Insert (1)** , then **Apps (2)** and select **Copilot for Sales (3)**.
 
    ![](../media/dyn10.png)
 
@@ -29,16 +29,16 @@ In this lab, you will perform:
    
 - While reading an email
 
-1. Open any **customer mail (1)**,then click on **...(2)** inside the mail,  click on **Apps** and select **Copilot for Sales**.
+1. Open any **customer mail (1)**,then click on **...(2)** inside the mail,  click on **Apps (3)** and select **Copilot for Sales (4)**.
    
    ![](../media/dyn11.png)
 
 - Create a Team meeting
-1. Click on **Calender (1)**, then select **New event (2)**
+1. Click on **Calender (1)** and select **New event (2)**
 
     ![](../media/dyn12.png)
 
-2. Add the title on the title field **(1)** and Click on **Save (2)**.
+2. Add the title in the **title field (1)** and click on **Save (2)**.
 
     ![](../media/dyn13.png)
    
