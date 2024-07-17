@@ -44,7 +44,7 @@
    
 2.	In the left pane, select
 
-  	- **Settings (1)**
+   - **Settings (1)**
    - Select **Integrated Apps (2)**
    - Click on **Available Apps (3)**
    - In the AppSource window, search for **Copilot for Sales (4)** and select it.
@@ -55,7 +55,7 @@
 
    ![](../media/p-2.png)
 
-4.	In the **Configuration** step, it will show the apps to deploy, and then select **Next**.
+4.	In the **Configuration** step, it will display the apps to be deployed, and then select **Next**.
 
       ![](../media/dyn4.png)
 
@@ -71,18 +71,17 @@
 
       ![](../media/dyn6.png)
    
-
-9.	In the **Deployment(Permissions)** step, Once it is shown as **Permission accepted** and then select **Next**.
+8.	In the **Deployment(Permissions)** step, Once it is shown as **Permission accepted** and then select **Next**.
 
       ![](../media/dyn21.png)
 
-10.	In the Deployment (Finish) step, review the selected settings, and then select **Finish deployment**.
+9.	In the Deployment (Finish) step, review the selected settings, and then select **Finish deployment**.
 
       ![](../media/dyn7.png)
 
-11.	When the deployment is complete, select **Done**.
+10. When the deployment is complete, select **Done**.
 
-12. Verify **Copilot for Sales** is available under **Deployed Apps**.
+11. Verify **Copilot for Sales** is available under **Deployed Apps**.
 
       ![](../media/dyn8.png)
 
