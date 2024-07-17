@@ -32,11 +32,11 @@ In this, you wil perform:
 
 1. Provide the following details to create a new meeting and click on **Send**.
 
-      - Provide a name for the meeting (1)
-      - Add the users you would like to add to the meeting. (2)
-      - Mention the Date and Time of the meetinf (3)
-      - Add the channel (Optional) (4)
-      - Outline what will be discussed during the meeting. (5)
+      - **Provide a name for the meeting (1)**
+      - **Add the users you would like to add to the meeting (2)**
+      - **Mention the Date and Time of the meeting (3)**
+      - **Add the channel (Optional) (4)**
+      - **Outline what will be discussed during the meeting (5)**
 
            ![](../media/details.png)
 
@@ -44,7 +44,7 @@ In this, you wil perform:
 
 **Note:** There are two ways we can schedule a meeting.
 
-**Automatically** - When you schedule a meeting with a contact who's saved to your CRM, the system automatically enables Microsoft Copilot for Sales when it records and transcribes the meeting.
+**Automatically** - When you schedule a meeting with a contact who is saved to your CRM, the system automatically enables Microsoft Copilot for Sales when it records and transcribes the meeting.
 
 **Manually** - 
 
@@ -80,7 +80,7 @@ In this, you wil perform:
 
    ![](../media/4-9.png)
 
-- One more Alternate way to Review the recording.
+- Alternative approach to review the recording.
 
    ![](../media/dyn26.png)
 
