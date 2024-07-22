@@ -6,7 +6,7 @@
 
 ## Lab Overview
 
-In this lab, you'll explore the Copilot for Sales app within Microsoft Teams, designed to enhance your meeting efficiency with sales contacts. You will learn how to view the meeting preparation card, access and edit connected CRM records, and receive real-time sales tips during meetings. These features are aimed at helping you stay focused and accelerate deal closures.
+In this lab, you'll explore the Copilot for Sales app within Microsoft Teams, designed to enhance your meeting efficiency with sales contacts. You will learn how to view the meeting preparation card and record the meeting. Copilot for Sales uses the recorded call and transcript to generate and summarize rich meeting insights. The meeting summary provides an overview of how the conversation went. It includes action items and relevant keywords, a breakdown of customer sentiments during the call, and more
 
 ## Lab Objectives
 
