@@ -4,17 +4,17 @@
 
 # Elevate Sales Meeting 
 
-## Lab Scenario
+## Lab Overview
 
-AI-powered sales intelligence can help improve your customer conversations and professionalism, and it can help you streamline follow-through. You can use Microsoft Copilot for Sales to help you remember details of your conversations and follow up on key moments. As a result, you're able to focus on doing what you do best.
+In this lab, you'll explore the Copilot for Sales app within Microsoft Teams, designed to enhance your meeting efficiency with sales contacts. You will learn how to view the meeting preparation card, access and edit connected CRM records, and receive real-time sales tips during meetings. These features are aimed at helping you stay focused and accelerate deal closures.
 
 ## Lab Objectives
 
 In this, you wil perform:
 
-- Create a Teams Meeting
-- Use Microsoft Copilot for Sales AI in a recorded sales meeting 
-- Analyze sales meetings with AI-generated meeting summaries
+- Task 1: Create a Teams Meeting
+- Task 2: Use Microsoft Copilot for Sales AI in a recorded sales meeting 
+- Task 3: Analyze sales meetings with AI-generated meeting summaries
 
 ### Task 1: Create a Teams Meeting
 
