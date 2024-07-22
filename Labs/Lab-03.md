@@ -10,8 +10,8 @@ Microsoft Copilot for Sales uses the power of generative AI to reimagine the sal
 
 In this lab, you will perform:
 
-- View and save email summary to CRM
-- Draft an email message  
+- Task 1: View and save email summary to CRM
+- Task 2: Draft an email message  
 
 ## Excercise 1: View and save email summary to CRM
 
@@ -90,8 +90,7 @@ In this lab, you will perform:
 
 1. **Edit** the email content as required, and then **send** it.
 
-- Alternate method 
-
+- Alternative Method 
 
 1. Open a customer email and select **Reply**. In the Draft with copilot select **Custom**.
 
