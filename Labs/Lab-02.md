@@ -12,14 +12,14 @@ In this lab, you will explore the features of Microsoft Copilot for Sales, which
 
 In this lab, you will perform:
 
-- Create a contact in your CRM from Copilot for Sales 
-- Connect a contact to your CRM
-- Change the connected CRM contact 
-- View and update CRM data 
-- Search and share CRM data
-- Connect and save emails and meetings to CRM 
-- View recent and upcoming activities
-- Add private notes
+- Task 1: Create a contact in your CRM from Copilot for Sales 
+- Task 2: Connect a contact to your CRM
+- Task 3: Change the connected CRM contact 
+- Task 4: View and update CRM data 
+- Task 5: Search and share CRM data
+- Task 6: Connect and save emails and meetings to CRM 
+- Task 7: View recent and upcoming activities
+- Task 8: Add private notes
   
 ### Task 1: Create a contact in your CRM from Copilot for Sales 
 
