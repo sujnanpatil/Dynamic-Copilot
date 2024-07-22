@@ -4,9 +4,12 @@
 
 Many sales organizations customize their CRM to meet their business needs. Microsoft Copilot for Sales is preconfigured to work with contact, opportunity, and account records. The admin experiences allow for sales organizations to define what matters to them, helping to ensure that their sales teams have the necessary CRM data accessible to them.
 
+In this lab, you will explore how Microsoft Copilot for Sales integrates with CRM to support both out-of-the-box and custom entities. You will learn how to set up and prioritize key records, mark records as editable, and make fields mandatory to enhance data access and quality. You will also explore different features in Outlook.
+
 ## Lab Objectives
 
-- CRM customizations and controls in Teams and Outlook
+- Task 1: CRM customizations and controls in Teams and Outlook
+- Task 2: Discover more options in Microsoft Copilot for Sales (in outlook) 
 
 ### Task 1: CRM customizations and controls (in teams) 
 
