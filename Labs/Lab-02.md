@@ -2,9 +2,11 @@
 
 # CRM Actions
 
-## Lab Scenario
+## Lab Overview
 
 Microsoft Copilot for Sales reduces the need for frequent context switching so that you can find the information that you need. Keeping the correct CRM data accessible and in the flow of work in Outlook and Teams makes updates and references to CRM data near effortless.
+
+In this lab, you will explore the features of Microsoft Copilot for Sales, which helps you create new contacts or leads directly from your Outlook inbox to keep track of your stakeholders. When you send or receive an email from a customer not tracked in your CRM, Copilot suggests adding them. You will learn to create new contacts or leads using the customer's email signature. Copilot ensures related contacts, opportunities, and account records are easily accessible.
 
 ## Lab Objectives
 
