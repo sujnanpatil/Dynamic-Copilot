@@ -1,10 +1,8 @@
 # Lab 03: Use AI to supercharge sales communication 
 
-## Lab Scenario
+## Lab Overview
 
-With Microsoft Copilot for Sales, sellers can stay informed on customer interactions, seamlessly update CRM records, and access the correct data to inform conversations with customers, all while complying with business processes.
-
-Microsoft Copilot for Sales uses the power of generative AI to reimagine the sales experience, helping you stay in the flow of your work in Outlook, Teams, and Word.
+This lab demonstrates how Copilot for Sales streamlines CRM updates from customer email interactions. Instead of manually updating CRM systems, which can be time-consuming and error-prone, Copilot for Sales uses AI to summarize email conversations. These summaries can be efficiently added as notes to your CRM records, highlighting key details like budget, stakeholders, needs, and timing for external emails when detected with high confidence. You will learn to set up and use Copilot for Sales to enhance your CRM update process.
 
 ## Lab Objectives
 
