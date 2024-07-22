@@ -40,6 +40,10 @@
 
 ## Install Copilot for Sales in Outlook 
 
+### Overview
+
+In this task, you will learn how to install Copilot for Sales as an integrated app from the Microsoft 365 admin center. By default, the app is installed in Fixed mode, where users receive the app automatically and cannot remove it. You will also explore how to manage the app's configuration, add and remove users, and monitor its usage within the Microsoft 365 admin center. 
+
 1.	Sign into the **[Microsoft 365 admin center](https://admin.microsoft.com/)**.
    
 2.	In the left pane, select
@@ -86,6 +90,10 @@
       ![](../media/dyn8.png)
 
 ## Install and pin Copilot for Sales in Teams 
+
+### Overview
+
+This task will guide you through installing the Copilot for Sales app in Microsoft Teams. You will learn how to navigate the Teams admin center and create setup policies. 
 
 1. Sign into the **[Teams admin center](https://admin.teams.microsoft.com/)**.
    
