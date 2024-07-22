@@ -2,6 +2,10 @@
 
 ## Create an environment in Power Apps
 
+### Overview
+
+This task will guide you through setting up an environment in Microsoft Power Apps, which provides storage for apps, flows, data, and other resources. You will learn how to create a database to use Dataverse as a data store. Dataverse is a cloud-scale database used to securely store data for business applications. It not only offers data storage but also allows you to implement business logic, enforce business rules, and automate processes against the data.
+
 1. Navigate to [Power Platform admin center](https://admin.powerplatform.microsoft.com/) and click on **Sign In** and sign in with the credentials provided under **Environment Details** Tab.
 
 1. Click on **Environments** from the left pane and click on **New**.
