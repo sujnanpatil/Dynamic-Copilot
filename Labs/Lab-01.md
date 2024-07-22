@@ -1,15 +1,15 @@
 # Lab 01: Getting Started with Microsoft Copilot for Sales
 
-## Lab Scenario
+## Lab Overview
 
-Introducing the Copilot for Sales app – your all-in-one solution for smoother sales management. With this tool, accessing CRM data from Outlook is a breeze. Simply sign in to your CRM directly from your email platform, streamlining your workflow and boosting productivity. Get ready to revolutionize your sales process with Copilot for Sales!
+This lab introduces Microsoft Copilot for Sales, an AI assistant designed to enhance productivity and help sellers close more deals. You will learn how to integrate Microsoft Copilot within Microsoft 365 apps like Outlook, Teams, and Word, and connect it seamlessly to Microsoft Dynamics 365 Sales and Salesforce Sales Cloud. The lab will demonstrate how Copilot provides sales-specific insights and recommendations, streamlining your workflow and maximizing sales efficiency.
 
 ## Lab Objectives
 
 In this lab, you will perform:
 
-- Access the Copilot for Sales app
-- Sign in to CRM from Outlook
+- Task 1: Access the Copilot for Sales app
+- Task 2: Sign in to CRM from Outlook
 
 ## Task 1: Access the Copilot for Sales app
 
