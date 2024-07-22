@@ -1,10 +1,18 @@
 # Pre-configurations
 
-## Create an environment in Power Apps
-
-### Overview
+## Overview
 
 This task will guide you through setting up an environment in Microsoft Power Apps, which provides storage for apps, flows, data, and other resources. You will learn how to create a database to use Dataverse as a data store. Dataverse is a cloud-scale database used to securely store data for business applications. It not only offers data storage but also allows you to implement business logic, enforce business rules, and automate processes against the data.
+
+## Lab Objectives
+
+In this lab, you will perform:
+
+- Task 1: Create an environment in Power Apps
+- Task 2: Install Copilot for Sales in Outlook
+- Task 3: Install and pin Copilot for Sales in Teams 
+
+### Task 1: Create an environment in Power Apps
 
 1. Navigate to [Power Platform admin center](https://admin.powerplatform.microsoft.com/) and click on **Sign In** and sign in with the credentials provided under **Environment Details** Tab.
 
@@ -42,7 +50,7 @@ This task will guide you through setting up an environment in Microsoft Power Ap
 
 1. Make sure **Basic User**, **Salesperson** and **Sales Copilot User** is checked and click on **Save**.
 
-## Install Copilot for Sales in Outlook 
+### Task 2: Install Copilot for Sales in Outlook 
 
 ### Overview
 
@@ -93,7 +101,7 @@ In this task, you will learn how to install Copilot for Sales as an integrated a
 
       ![](../media/dyn8.png)
 
-## Install and pin Copilot for Sales in Teams 
+### Task 3: Install and pin Copilot for Sales in Teams 
 
 ### Overview
 
@@ -138,3 +146,9 @@ This task will guide you through installing the Copilot for Sales app in Microso
 1. Click on **Save** for User pinning.
 
     ![](../media/dyn9.png)
+
+## Summary
+
+In this exercise, you have created an environment in Power Apps ,installed Copilot for Sales in Outlook and in Teams 
+
+### You have successfully completed the lab
