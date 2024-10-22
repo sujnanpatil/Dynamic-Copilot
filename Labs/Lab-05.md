@@ -165,51 +165,51 @@ In this lab, you will explore how Microsoft Copilot for Sales integrates with CR
 
 1.	Select **Copy details** to copy the diagnostics data, and then paste the data into an email, Teams chat, or any other medium you like to use to share it with technical support team.
 
-       ![](../media/dyn29.png)
+      ![](../media/L5T2.2S3.png)
 
 ### Task 2.3: Share Feedback
 
 1.	Open **Copilot for Sales** in Outlook.
 
 2.	Select **Options(...)** in the upper-right corner, and then select **Share feedback**.
-
-       ![](../media/dy9.png)
+     
+      ![](../media/dy9.png)
 
 4.	Enter your responses in the feedback form and then select **Send**.
-
-       ![](../media/dy10.png)
+     
+      ![](../media/dy10.png)
 
 ### Task 2.4: Video related to Copilot for Sales
 
 1. Select **Options(...)** in the upper-right corner, and then select **About** > **Watch video**.
-
-    ![](../media/dyn39.png)
+      
+      ![](../media/dyn39.png)
 
 1. The video provides a brief introduction about the **Copilot for Sales**
-
-   ![](../media/dyn34.png)
+      
+      ![](../media/dyn34.png)
    
 
 ### Task 2.5: About Copilot for Sales
 
 1. Select **Options(...)** in the upper-right corner, and then select **About** > **About Copilot for Sales**. It provides an overview on how we can boost sales performance by using Copilot for Sales.
-
-    ![](../media/dyn38.png)
+      
+      ![](../media/dyn38.png)
    
-
-    ![](../media/dyn36.png)    
+      
+      ![](../media/dyn36.png)    
 
 ### Task 2.6: View Privacy policies for Copilot for Sales
 
 1.	Open **Copilot for Sales**.
 
 1.	Select **Options(...)** in the upper-right corner, and then select **About** > **Privacy policy**. To view Microsoft Privacy policies.
-
-       ![](../media/dyn30.png)
+     
+      ![](../media/dyn30.png)
 
 1.	Please go through the **Microsoft Privacy policy documentation** as per your requirement.
-
-      ![](../media/dyn41.png)
+      
+      ![](../media/T2.6S3.png)
 
 ### Task 2.7: Sign out of Copilot for Sales
 
@@ -218,8 +218,8 @@ When you sign in and reconnect to the same CRM system and environment, your info
 1.	Open **Copilot for Sales** in Outlook.
 
 2.	Select **Options(...)** in the upper-right corner, and then select **Sign out**.
-
-       ![](../media/sign.png)
+      
+      ![](../media/sign.png)
 
 ## Review
 
