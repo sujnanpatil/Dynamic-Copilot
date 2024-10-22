@@ -15,6 +15,8 @@ In this lab, you will perform:
 
 - While drafting an email or creating a meeting
 
+1. In a new browser tab search for **outlook.com** and sign in using the odl credentials provided in the Environment tab.
+
 1. In Outlook, click on **New Mail**.
 
       ![](../media/dy-8.png)
