@@ -53,17 +53,19 @@ In this lab, you will perform:
 
 **Note:** We can link a contact to another contact if there are already two or more contacts saved or select **Create a new contact** to create a contact.
 
-1. Open the email and click on the **More Options(...)** beside the saved contact and open through **Dynamics 365**.
+1. Open the mail, and open the Copilot for Sales pane from it. Click on the **More Options(...)** beside the saved contact and open through **Dynamics 365**.
+
+   ![](../media/open-dynamics365.png)
 
 1. Click on **Connect** on the top, select the record and provide a **role** and a **description** based on the connection you would like to create in the **Connect To** tab.
 
    ![](../media/dy-2-2.png)
 
-   ![](../media/dy-2-3.png)
+   ![](../media/L2T2S2.1.png)
    
 1. Add the **Owner (1)** record under the **Details** tab and click on **Save and Close (2)**.
 
-   ![](../media/dy-2-4.png)
+   ![](../media/L2T2S2.2.png)
 
 ### Task 3: Change the connected CRM contact 
 
@@ -125,11 +127,11 @@ In this lab, you will perform:
 
       ![](../media/dy-2-10.png)
 
-1. Enable **server-side synchronization** when prompted.
+1. CLick on **Turn on** for **server-side synchronization** when prompted.
 
 1.	Under **Connect to a record (1)**, select the record you want to connect the activity to and select **Save (2)**.
 
-      ![](../media/dy-2-12.png)
+      ![](../media/save-email.png)
 
       **Note:** If you want to save the email or meeting to CRM without connecting to a record, select **Save without connecting**. The email or meeting will still be associated with contacts on the To, Cc, and Bcc fields.
 
@@ -149,9 +151,9 @@ In this lab, you will perform:
 
 2.	In the **Contacts** card, select the contact to which you want to add notes.
 
-3.	Enter your **notes** about the contact in the **Private notes** card.
+3.	Enter your **notes** about the contact in the **My notes** card.
 
-      ![](../media/dy-2-15.png)
+      ![](../media/add-mynotes.png)
 
 4.	Select anywhere outside the Private notes card to save the note.
 

@@ -58,7 +58,7 @@ In this task, you will learn how to install Copilot for Sales as an integrated a
 
 1.	Sign into the **[Microsoft 365 admin center](https://admin.microsoft.com/)**.
    
-2.	In the left pane, select
+2.	In the left pane, click on Show all and select
 
    - **Settings (1)**
    - Select **Integrated Apps (2)**
@@ -77,7 +77,7 @@ In this task, you will learn how to install Copilot for Sales as an integrated a
 
 5.	In the **Users** step, select **Just me**, and then select **Next**.
 
-      ![](../media/p-4.png)
+      ![](../media/just-me.png)
 
 6. Click on **Accept permissions**.
 
@@ -121,11 +121,11 @@ This task will guide you through installing the Copilot for Sales app in Microso
 
    ![](../media/t-2.png) 
    
-1. Under Installed apps, select **Add apps**.  In the **Add installed apps** panel, search for the **Copilot for Sales** app and Select **Add**
+1. Under Installed apps, select **Add apps**.  In the **Add installed apps** panel, search for the **Copilot for Sales** app and Select **Select**
 
       **Note:** You can also filter apps by app permission policy.
 
-   ![](../media/t-3.png) 
+   ![](../media/add-apps.png) 
 
 1. Select **Add** again to install the listed apps.
 
