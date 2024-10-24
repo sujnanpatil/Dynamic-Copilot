@@ -65,6 +65,10 @@ In this lab, you will perform:
    
 ## Task 2: Sign in to CRM from Outlook
 
+In this task, you will switch between the environments created in Power Apps.
+
+1. To switch environments, create a new environment named **demo** To do this, follow the instructions provided in Pre-configurations Task 1.
+
 1. In Outlook, open a customer mail, click on **Apps** and select **Copilot for Sales**.
    
 1. In the **Copilot for Sales** pane, select **Switch environment** in the Signed in to Dynamic 365 banner at the top.
