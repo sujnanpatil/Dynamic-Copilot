@@ -21,7 +21,7 @@ In this lab, you will perform:
 
       ![](../media/dc43.png)
 
-1. Mention the email of the receiver in **To** field, click on **Insert (1)** , then **Apps (2)** and select **Copilot for Sales (3)**.
+1. Mention the email of the receiver in **To** field, click on **Insert (1)** , then click on **Apps (2)** and select **Copilot for Sales (3)**.
 
    ![](../media/dyn10.png)
 
@@ -35,7 +35,7 @@ In this lab, you will perform:
    
    ![](../media/dyn11.png)
 
-- Create a Team meeting
+- Create a Meeting
 1. Click on **Calender (1)** and select **New event (2)**
 
     ![](../media/dyn12.png)
@@ -80,7 +80,7 @@ In this task, you will switch between the environments created in Power Apps.
 
    ![](../media/dc30.png)
 
-1. If promted click on **Get Started**.
+1. If promted, click on **Get Started**.
 
    ![](../media/dy-4.png)
    
