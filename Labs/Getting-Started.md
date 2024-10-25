@@ -38,4 +38,4 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 
 1. Select **Microsoft Edge**.
 
-   ![](../media/get-5.png) 
+    ![](../media/get-5.png) 
