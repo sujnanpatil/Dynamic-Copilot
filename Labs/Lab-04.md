@@ -137,7 +137,7 @@ In this, you wil perform:
 
    ![](../media/dc77.png)
 
-1. Navigate back to **Outlook.** Open the participant's email, and access **Copilot for Sales.** Scroll down to the Contact Saved section, click on the **ellipses (...) (1)** and select **Open in Dynamics 365 (2).**
+1. Navigate back to **Outlook.** Open the participant's email (***here it refers to your mail***), and access **Copilot for Sales.** Scroll down to the Contact Saved section, click on the **ellipses (...) (1)** and select **Open in Dynamics 365 (2).**
 
    ![](../media/dc72.png)
 
