@@ -19,9 +19,9 @@ In this lab, you will perform:
 
 1. In Outlook, click on **New Mail**.
 
-      ![](../media/dy-8.png)
+      ![](../media/dc43.png)
 
-1. Mention the email of the receiver **To** field, click on **Insert (1)** , then **Apps (2)** and select **Copilot for Sales (3)**.
+1. Mention the email of the receiver in **To** field, click on **Insert (1)** , then **Apps (2)** and select **Copilot for Sales (3)**.
 
    ![](../media/dyn10.png)
 
