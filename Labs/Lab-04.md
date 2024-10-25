@@ -1,5 +1,4 @@
-# Lab 04: Drive AI-powered sales (READ-ONLY)
-
+# Lab 04: Drive AI-powered sales
 # Capabilities in Teams 
 
 # Elevate Sales Meeting 
