@@ -57,7 +57,7 @@ In this lab, you will perform:
 
    ![](../media/open-dynamics365.png)
 
-1. Click on **Connect** on the top, select the record and provide a **role** and a **description** based on the connection you would like to create in the **Connect To** tab.
+1. Click on **Connect** on the top, select the record and provide a **role** and a **description** based on the connection you would like to create in the **Connect To** tab. 
 
    ![](../media/dy-2-2.png)
 
