@@ -67,15 +67,15 @@ In this lab, you will perform:
 
 **Note:** We can link a contact to another contact if there are already two or more contacts saved. If there is only one contact select **Create a new contact** to create a contact.
 
-1. Open the mail, and open the Copilot for Sales pane from it. Click on the **More Options(...)** beside the saved contact and open through **Dynamics 365**.
+1. Open the mail, and open the Copilot for Sales pane from it. Click on the **More Options(...) (1)** beside the saved contact and click  **Open in Dynamics 365 (2)**.
 
-   ![](../media/open-dynamics365.png)
+   ![](../media/dc31.png)
 
 1. Click on **Connect** on the top.
 
      ![](../media/dc5.png)
 
-1. select the record and provide a **role** and a **description** based on the connection you would like to create in the **Connect To** tab. 
+1. Select the record and provide a **role** and a **description** based on the connection you would like to create in the **Connect To** tab. 
 
 
    ![](../media/L2T2S2.1.png)
@@ -132,17 +132,19 @@ In this lab, you will perform:
 
 1. Open any customer chat and click on **More Options(...)** and select **Copilot for Sales**.
 
-    >**Note:** If there is no chat in teams. Please send a greetings mail from your personal outlook mail to the ODL_User and click on the edit button in teams and paste your email/username.
+    >**Note:** If there is no chat in teams. Please send a greetings mail from your personal outlook mail to the ODL_User and Click on the edit button in teams and paste your email/username.
+    
+    - Navigate to your personal Outlook, click on **New mail (1)** then provide the ODL_User email **(2)** given in the LabVM's Environment tab then type a greeting message **(3)** and then click on **Send (4).**
 
-   ![](../media/dc32.png)    
+       ![](../media/dc46.png)
 
-1. Paste the link in chat.
+    - Click on the edit **(2)** button in teams and paste your email/username **(2)**.
+  
+       ![](../media/dc47.png)
+
+1. Paste the link in chat and Attach any required contact and the CRM record of that contact can be shared with anyone over teams.
 
    ![](../media/dc14.png)
-
-1. Attach the required contact and the CRM record of that contact can be shared with anyone over teams.
-
-   ![](../media/dy-15.png)
 
 ### Task 6: Connect and save emails and meetings to CRM 
 
