@@ -69,7 +69,7 @@ In this lab, you will perform:
 
 1. Open the mail, and open the Copilot for Sales pane from it. Click on the **More Options(...) (1)** beside the saved contact and click  **Open in Dynamics 365 (2)**.
 
-   ![](../media/dc31.png)
+    ![](../media/dc31.png)
 
 1. Click on **Connect** on the top.
 
@@ -77,12 +77,11 @@ In this lab, you will perform:
 
 1. Select the record and provide a **role** and a **description** based on the connection you would like to create in the **Connect To** tab. 
 
-
-   ![](../media/L2T2S2.1.png)
+    ![](../media/L2T2S2.1.png)
    
 1. Navigate to **Details** tab, choose the **Owner** and click on **Save and Close**.
 
-   ![](../media/L2T2S2.2.png)
+    ![](../media/L2T2S2.2.png)
 
 ### Task 3: Change the connected CRM contact 
 
