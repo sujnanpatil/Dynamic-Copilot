@@ -46,8 +46,11 @@ In this lab, you will perform:
 1. Add the details for the contact and click on **Save**.
 
     ![](../media/dy15.png)
+   
 
      >**Note:** If prompted save this email as part of this contact record click on **Save.**
+     
+     >**Note:** Please create one more contact record by following the same steps, with your name and email address that your going to use in ***Lab 4 - Task 4.***
 
 ### Task 1.2: Create a contact from an exisiting Email
   
