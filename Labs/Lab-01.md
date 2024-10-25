@@ -76,9 +76,9 @@ In this task, you will switch between the environments created in Power Apps.
 
    ![](../media/dyn17.png)
   
-1. Choose the **Environment (1)** where you wish to sign in and then click on **OK (2).**
+1. Choose the **Environment** where you wish to sign in and then click on **OK.**
 
-   ![](../media/dc30.png)
+   ![](../media/dc45.png)
 
 1. If promted, click on **Get Started**.
 
