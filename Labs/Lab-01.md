@@ -27,7 +27,7 @@ In this lab, you will perform:
 
 1. Click on **Copilot for Sales** again.
 
-   ![](../media/dy-7.png)
+   ![](../media/dc44.png)
    
 - While reading an email
 
