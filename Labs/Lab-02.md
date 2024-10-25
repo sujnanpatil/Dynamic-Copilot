@@ -136,7 +136,7 @@ In this lab, you will perform:
     
     - Navigate to your personal Outlook, click on **New mail (1)** then provide the ODL_User email **(2)** given in the LabVM's Environment tab then type a greeting message **(3)** and then click on **Send (4).**
 
-       ![](../media/dc46.png)
+       ![](../media/dc48.png)
 
     - Click on the edit **(2)** button in teams and paste your email/username **(2)**.
   
