@@ -25,9 +25,9 @@ In this lab, you will perform:
 
 ### Task 1.1: Create a new Record
 
-1. Navigate back to **Copilot for sales** environament, if you have switched the environment in the previous lab.
+1. Navigate back to **Copilot for sales** environment, if you have switched the environment in the previous lab.
 
-1. Click on the **elipse(...) (1)** then select **Switch environment (2).**
+1. Click on the **ellipses(...) (1)** , then select **Switch environment (2).**
 
      ![](../media/dc2.png)
 
@@ -132,7 +132,7 @@ In this lab, you will perform:
 
 1. Open any customer chat and click on **More Options(...)** and select **Copilot for Sales**.
 
-    >**Note:** If there is no chat in teams..pls send a greetings mail to outlook and click on the edit button in teams and paste your email/username.
+    >**Note:** If there is no chat in teams. Please send a greetings mail from your personal outlook mail to the ODL_User and click on the edit button in teams and paste your email/username.
 
    ![](../media/dc32.png)    
 
