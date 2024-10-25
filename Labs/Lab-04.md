@@ -113,7 +113,7 @@ In this, you wil perform:
 
 - Create a Task in Dynamic 365   
 
-You can create tasks in a Dynamics 365 Teams recording session to document or train others on a business process. In Dynamics 365, tasks are a way to organize work into specific actions that must be completed by a certain date.
+   You can create tasks in a Dynamics 365 Teams recording session to document or train others on a business process. In Dynamics 365, tasks are a way to organize work into specific actions that must be completed by a certain date.
 
 1. Navigate back to **Sales (1)** tab, click on **Create task (2).**
 
@@ -122,22 +122,20 @@ You can create tasks in a Dynamics 365 Teams recording session to document or tr
 1. On the **Create a task in Dynamic 365** page, provide the following details.
 
    - Enter the **Subject** name **(1)**
-   - In the **Connected to (2)** field, provide the name of the meeting participant contact record.
+   - In the **Connected to (2)** field, provide the name of the meeting participant contact record that you have created in ***Lab 2 - Task 1.***
    - Provide the **Due date** for the task.**(3)**
    - Provide the **Description** pertaining to the task. **(4)**
    - Click on **Create. (5)**
 
-     ![](../media/dc68.png)
+     ![](../media/dc76.png)
 
 1. Navigate back to **Sales** tab, click on **Open task** to review the task.
 
    ![](../media/dc69.png)
 
-1. Review the task, click on **Save.**  
+1. Review the task, click on **Save and Close**  
 
-   ![](../media/dc70.png)
-
-1. Then click on **Save and Close.** 
+   ![](../media/dc77.png)
 
 1. Navigate back to **Outlook.** Open the participant's email, and access **Copilot for Sales.** Scroll down to the Contact Saved section, click on the **ellipses (...) (1)** and select **Open in Dynamics 365 (2).**
 
