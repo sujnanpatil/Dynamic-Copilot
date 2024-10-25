@@ -51,7 +51,7 @@ In this lab, you will perform:
 
 ### Task 1.2: Create a contact from an exisiting Email
   
-1. Open a mail from the inbox then click on the **elipse(...).**
+1. Open a mail from the inbox then click on the **elipses(...).**
 
 1. Click on **Apps** and select **Copilot for Sales**, and then select **Add to Dynamics 365** beside your contact.
 
@@ -122,7 +122,7 @@ In this lab, you will perform:
 
 1.	Open the **Copilot for Sales** pane.
 
-1.	In the (record type) card, scroll down and select the saved contact, clcik on the **ellipse (...)** and select **Copy link**.
+1.	In the (record type) card, scroll down and select the saved contact, clcik on the **ellipses (...)** and select **Copy link**.
 
       ![](../media/dc10.png)
 
