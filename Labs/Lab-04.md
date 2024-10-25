@@ -1,4 +1,4 @@
-# Lab 04: Drive AI-powered sales 
+# Lab 04: Drive AI-powered sales (READ-ONLY)
 
 # Capabilities in Teams 
 
