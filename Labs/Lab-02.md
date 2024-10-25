@@ -62,6 +62,8 @@ In this lab, you will perform:
 1. In the **New contact** form, add the required information, and then select **Save**.
    
    ![](../media/dy-2-1.png)
+
+    >**Note:** ***First name, Last name and Email*** is based on your customer or recieved email. Not necessary to match with the Screenshot.   
    
 ### Task 2: Connect a contact to your CRM 
 
