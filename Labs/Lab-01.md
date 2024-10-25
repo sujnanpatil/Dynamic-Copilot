@@ -13,7 +13,7 @@ In this lab, you will perform:
 
 ## Task 1: Access the Copilot for Sales app
 
-- While drafting an email or creating a meeting
+### Task 1.1:  While drafting an email or creating a meeting
 
 1. In a new browser tab search for **outlook.com** and sign in using the odl credentials provided in the Environment tab.
 
@@ -21,7 +21,7 @@ In this lab, you will perform:
 
       ![](../media/dy-8.png)
 
-1. Mention the email of the receiver, click on **Insert (1)** , then **Apps (2)** and select **Copilot for Sales (3)**.
+1. Mention the email of the receiver **To** field, click on **Insert (1)** , then **Apps (2)** and select **Copilot for Sales (3)**.
 
    ![](../media/dyn10.png)
 
@@ -31,7 +31,7 @@ In this lab, you will perform:
    
 - While reading an email
 
-1. Open any **customer mail (1)**,then click on **...(2)** inside the mail,  click on **Apps (3)** and select **Copilot for Sales (4)**.
+1. Open any **customer mail (1)**,then click on **elipse(...) (2)** inside the mail,  click on **Apps (3)** and select **Copilot for Sales (4)**.
    
    ![](../media/dyn11.png)
 
@@ -40,11 +40,11 @@ In this lab, you will perform:
 
     ![](../media/dyn12.png)
 
-2. Add the title in the **title field (1)** and click on **Save (2)**.
+2. Add the title in the **Title field (1)** and click on **Save (2)**.
 
     ![](../media/dyn13.png)
    
-- While opening a meeting
+-  While opening a meeting
 
 1. Open Calendar in Outlook and select the scheduled meeting.
    
@@ -54,6 +54,7 @@ In this lab, you will perform:
 
 - Access Copilot for Sales in Teams
   
+1. Navigate to Teams by clicking on the link https://teams.microsoft.com/ , if prompted sign in using the odl credentials provided in the Environment tab.
 
 1. Select **Apps** , search for **Copilot for Sale**s and click on **Add**.
    
@@ -67,7 +68,7 @@ In this lab, you will perform:
 
 In this task, you will switch between the environments created in Power Apps.
 
-1. To switch environments, create a new environment named **demo** To do this, follow the instructions provided in Pre-configurations Task 1.
+1. To switch environments, create a new environment named **demo** in the Power Apps. To do this follow the instructions provided in **Pre-configurations** ***Task 1.***
 
 1. In Outlook, open a customer mail, click on **Apps** and select **Copilot for Sales**.
    
@@ -75,11 +76,11 @@ In this task, you will switch between the environments created in Power Apps.
 
    ![](../media/dyn17.png)
   
-1. Choose the **Environment** where you wish to sign in.
+1. Choose the **Environment (1)** where you wish to sign in and then click on **OK (2).**
 
-   ![](../media/dyn18.png)
+   ![](../media/dc30.png)
 
-1. Click on **Get Started**.
+1. If promted click on **Get Started**.
 
    ![](../media/dy-4.png)
    

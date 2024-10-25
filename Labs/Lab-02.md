@@ -21,27 +21,41 @@ In this lab, you will perform:
 - Task 7: View recent and upcoming activities
 - Task 8: Add private notes
   
-### Task 1: Create a contact in your CRM from Copilot for Sales 
+## Task 1: Create a contact in your CRM from Copilot for Sales 
 
-- Create a new Record
+### Task 1.1: Create a new Record
 
-1. Click on **Add (+)** on the top right once signed in.
+1. Navigate back to **Copilot for sales** environament, if you have switched the environment in the previous lab.
+
+1. Click on the **elipse(...) (1)** then select **Switch environment (2).**
+
+     ![](../media/dc2.png)
+
+1. Select **Copilot for Sales** and click **OK.**
+
+     ![](../media/dc3.png)
+
+1. Click on **(+)** on the top right once signed in to create a new record.
 
      ![](../media/dy13.png)
 
-1. Click on **Create Record**.
+1. Click on **+ Create Record**.
 
       ![](../media/dy14.png)
   
 1. Add the details for the contact and click on **Save**.
 
     ![](../media/dy15.png)
-   
-- Create a contact from an exisiting Email
-  
-1. In the **Copilot for Sales** pane, select a mail from the inbox.
 
-1. Click on **Apps** and select **Copilot for Sales**, and then select **Add to Dynamics 365**.
+     >**Note:** If prompted save this email as part of this contact record click on **Save.**
+
+### Task 1.2: Create a contact from an exisiting Email
+  
+1. Open a mail from the inbox then click on the **elipse(...).**
+
+1. Click on **Apps** and select **Copilot for Sales**, and then select **Add to Dynamics 365** beside your contact.
+
+    >**Note:** Contacts name can be anything based on your customer or recieved email.
 
    ![](../media/dy-9.png)
 
@@ -51,41 +65,46 @@ In this lab, you will perform:
    
 ### Task 2: Connect a contact to your CRM 
 
-**Note:** We can link a contact to another contact if there are already two or more contacts saved or select **Create a new contact** to create a contact.
+**Note:** We can link a contact to another contact if there are already two or more contacts saved. If there is only one contact select **Create a new contact** to create a contact.
 
 1. Open the mail, and open the Copilot for Sales pane from it. Click on the **More Options(...)** beside the saved contact and open through **Dynamics 365**.
 
    ![](../media/open-dynamics365.png)
 
-1. Click on **Connect** on the top, select the record and provide a **role** and a **description** based on the connection you would like to create in the **Connect To** tab. 
+1. Click on **Connect** on the top.
 
-   ![](../media/dy-2-2.png)
+     ![](../media/dc5.png)
+
+1. select the record and provide a **role** and a **description** based on the connection you would like to create in the **Connect To** tab. 
+
 
    ![](../media/L2T2S2.1.png)
    
-1. Add the **Owner (1)** record under the **Details** tab and click on **Save and Close (2)**.
+1. Navigate to **Details** tab, choose the **Owner** and click on **Save and Close**.
 
    ![](../media/L2T2S2.2.png)
 
 ### Task 3: Change the connected CRM contact 
 
-1. Open the email and click on the **More Options(...)** beside the saved contact and open through **Dynamics 365**.
+1. Open the email, click on **Apps** then select **Copilot for Sales**. Scroll down then hover the cursor on the saved contact then click on the **More Options(...) (1)** and select **Open in Dynamics 365 (2)**.
 
-1. Click on **Related** and select **Connections**.
+   ![](../media/dc31.png)
 
-   ![](../media/dy-2-8.png)
+1. Click on **Related (1)** drop-down and select **Connections (2)**.
+
+   ![](../media/dc6.png)
    
-1. Choose any existing connection and click on **Edit**.
+1. Choose any existing connection **(1)** and click on **Edit (2)**.
 
-   ![](../media/dy-2-5.png)
+   ![](../media/dc4.png)
 
-1. Change the **contact name** and **description**  based on the connection you would like to create.
+1. Change the **contact name (1), role (2) and description (3)**  based on the connection you would like to create then click on **Save and Close (4).**
 
-   ![](../media/dy-2-6.png)
+   ![](../media/dc7.png)
 
 1. Click on **Save and Close** and verify its changed.
 
-   ![](../media/dy-2-7.png)
+   ![](../media/dc8.png)
 
 ### Task 4: View and update CRM data 
 
@@ -93,7 +112,7 @@ In this lab, you will perform:
 
 1.	In the record's details cards, select **More actions (...)** and then select **Edit record**.
 
-      ![](../media/dy-2-18.png)
+      ![](../media/dc9.png)
 
 1.	Update the details as needed and select **Update**.
 
@@ -103,17 +122,23 @@ In this lab, you will perform:
 
 1.	Open the **Copilot for Sales** pane.
 
-1.	In the (record type) card, scroll down and select the saved contact, clcik on the **ellipsis** and select **Copy link**.
+1.	In the (record type) card, scroll down and select the saved contact, clcik on the **ellipse (...)** and select **Copy link**.
 
-      ![](../media/dy-2-17.png)
+      ![](../media/dc10.png)
 
-1.	Paste the link in a Teams chat or email.
+1.	Paste the ***link*** in a Teams chat or email.
 
 - In Teams
 
 1. Open any customer chat and click on **More Options(...)** and select **Copilot for Sales**.
 
-   ![](../media/dy-14.png)
+    >**Note:** If there is no chat in teams..pls send a greetings mail to outlook and click on the edit button in teams and paste your email/username.
+
+   ![](../media/dc32.png)    
+
+1. Paste the link in chat.
+
+   ![](../media/dc14.png)
 
 1. Attach the required contact and the CRM record of that contact can be shared with anyone over teams.
 
@@ -125,13 +150,13 @@ In this lab, you will perform:
 
 1.	Select **Save** under **Save email to Dynamics 365**.
 
-      ![](../media/dy-2-10.png)
+      ![](../media/dc34.png)
 
-1. CLick on **Turn on** for **server-side synchronization** when prompted.
+1. If prompted, cLick on **Turn on** for **server-side synchronization** when prompted.
 
-1.	Under **Connect to a record (1)**, select the record you want to connect the activity to and select **Save (2)**.
+1.	Under **Connect to a record**, select the record **(1)** you want to connect the activity to, if  the records are not coming up please search the name and select **Save (2)**.
 
-      ![](../media/save-email.png)
+      ![](../media/dc13.png)
 
       **Note:** If you want to save the email or meeting to CRM without connecting to a record, select **Save without connecting**. The email or meeting will still be associated with contacts on the To, Cc, and Bcc fields.
 
@@ -139,11 +164,11 @@ In this lab, you will perform:
 
 1. Open any email or meeting and then open **Copilot for Sales** pane and select the saved contact.
 
-      ![](../media/dy-2-13.png)
+      ![](../media/dc35.png)
 
 1. Click on any **Related Items** you want to view and it opens the item in a new tab.
 
-      ![](../media/dy-2-14.png)
+      ![](../media/dc36.png)
 
 ### Task 8: Add private notes
 
@@ -153,7 +178,7 @@ In this lab, you will perform:
 
 3.	Enter your **notes** about the contact in the **My notes** card.
 
-      ![](../media/add-mynotes.png)
+      ![](../media/dc11.png)
 
 4.	Select anywhere outside the Private notes card to save the note.
 

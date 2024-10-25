@@ -22,9 +22,9 @@ In this, you wil perform:
 - You must transcribe the meeting for Copilot for Sales to generate insights.
 - If you create a recurring meeting, the Copilot for Sales app is added to all occurrences of the meeting.
 
-1. Navigate to **Teams** from Outlook by clicking on the **More Options** on the top left of the Outlook Window.
+1. Navigate to **Teams (2)** from Outlook by clicking on the **More Options (1)** on the top left of the Outlook Window.
 
-   ![](../media/4-4.png)
+   ![](../media/dc18.png)
 
 1. Select **Calendar** from the left pane and click on **+New Meeting** from the top right corner.
 
@@ -33,7 +33,7 @@ In this, you wil perform:
 1. Provide the following details to create a new meeting and click on **Send**.
 
       - **Provide a name for the meeting (1)**
-      - **Add the users you would like to add to the meeting (2)**
+      - **Add the users you would like to add to the meeting  (2)** (*You can provide the email of the user present in team chat*)
       - **Mention the Date and Time of the meeting (3)**
       - **Add the channel (Optional) (4)**
       - **Outline what will be discussed during the meeting (5)**
@@ -48,19 +48,23 @@ In this, you wil perform:
 
 **Manually** - 
 
-1. Navigate to the **Calendar** in **Teams** and **join** the meeting.
+1. Navigate to the **Calendar** in *Teams*  them select the meeting name **(1)** and click on **join(2).** 
 
-   ![](../media/4-5.png)
+   ![](../media/dc19.png)
 
-1. Click on **Apps** and select **Copilot for Sales**.
+1. Open the **Copilot for Sales (1)** chat and click on **About (2).**
 
-   ![](../media/4-6.png)
+   ![](../media/dc23.png)
 
-1. Select **Save**.
+1. Click on **Open (1)** drop down and select **Add to a meeting (2).**  
 
-   ![](../media/4-7.png)
+   ![](../media/dc37.png)
 
-1. Start the **recording and transcription**.
+1. Select the meeting name **(1)** then click on **Set up (2)** drop-down and select **Set up a tab (3).**
+
+   ![](../media/dc21.png)
+
+1. Open the meeting and Start the **recording and transcription**.
 
    ![](../media/4-10.png)
 

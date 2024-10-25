@@ -20,21 +20,21 @@ In this lab, you will perform:
 
    ![](../media/1-1.png)
 
-1. Provide a name and make sure **Add a Dataverse data store** is selected to **Yes** , leave **Group** as it is, no need to select as it is optional and click on **Next**.
+1. Provide a name **(1)** and make sure **Add a Dataverse data store** is selected to **Yes (2)** , leave **Group** as it is, no need to select as it is optional and click on **Next (3)**.
 
-   ![](../media/dyn1.png)
+   ![](../media/dc38.png)
 
-1. In **Security Group**, click on **Select**.
+1. In **Security Group**, click on **+ Select**.
 
     ![](../media/dyn2.png)
 
-1. Provide **None** for security roles and click on **Done**.
+1. Provide **None (1)** for security roles and click on **Done (2)**.
 
-   ![](../media/1-3.png)
+   ![](../media/dc39.png)
 
-1. Make sure **Enable Dynamics 365 apps** is set to **Yes**, select **Sales Pro** for **Automatically deploy these apps** and click on **Save**.
+1. Make sure **Enable Dynamics 365 apps** is set to **Yes (1)**, select **Sales Pro (2)** for **Automatically deploy these apps** and click on **Save (3)**.
 
-   ![](../media/1-4.png)
+   ![](../media/dc40.png)
 
 1. Once the environment is in **Ready** state, select the environment and click on **Settings**.
 
@@ -60,10 +60,10 @@ In this task, you will learn how to install Copilot for Sales as an integrated a
    
 2.	In the left pane, click on Show all and select
 
-   - **Settings (1)**
-   - Select **Integrated Apps (2)**
-   - Click on **Available Apps (3)**
-   - In the AppSource window, search for **Copilot for Sales (4)** and select it.
+      - **Settings (1)**
+      - Select **Integrated Apps (2)**
+      - Click on **Available Apps (3)**
+      - In the AppSource window, search for **Copilot for Sales (4)** and select it.
 
         ![](../media/p-1.png)
 
@@ -97,9 +97,9 @@ In this task, you will learn how to install Copilot for Sales as an integrated a
 
 10. When the deployment is complete, click on **Done**.
 
-11. Verify **Copilot for Sales** is available under **Deployed Apps**.
+11. Verify **Copilot for Sales (2)** is available under **Deployed Apps (1)**.
 
-      ![](../media/dyn8.png)
+      ![](../media/dc41.png)
 
 ### Task 3: Install and pin Copilot for Sales in Teams 
 

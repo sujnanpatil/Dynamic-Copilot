@@ -25,7 +25,7 @@ In this lab, you will explore how Microsoft Copilot for Sales integrates with CR
 
 ### Task 1.2: Forms
 
-### Add a new record type
+- ### Add a new record type
 
 1. Click on **Settings** and select **Forms** under Environment tab and click on **Add record type**.
 
@@ -47,7 +47,7 @@ In this lab, you will explore how Microsoft Copilot for Sales integrates with CR
 
    ![](../media/6-7.png)
 
-### View filters used in a view
+- ### View filters used in a view
 
 1. Select a record type for which you want to see the query used in the selected view.
 
@@ -57,8 +57,8 @@ In this lab, you will explore how Microsoft Copilot for Sales integrates with CR
 
 1. To copy the query XML, select **Copy XML**.
 
-### Modify record types not based on a CRM view
-### Add fields
+## Task 1.3:  Modify record types not based on a CRM view
+- ### Add fields
 
 1. Select a **record type** to which you need to add fields.
 
@@ -76,7 +76,7 @@ In this lab, you will explore how Microsoft Copilot for Sales integrates with CR
 
 1. Select **Publish** to save your changes.
 
-### Reorder fields
+- ### Reorder fields
 
 1. Select the record type in which you need to reorder fields.
 
@@ -88,7 +88,7 @@ In this lab, you will explore how Microsoft Copilot for Sales integrates with CR
 
 1. Select **Publish** to save your changes.
 
-### Remove fields
+- ### Remove fields
 
 1. Select the record type from which you need to remove fields.
 
@@ -98,7 +98,7 @@ In this lab, you will explore how Microsoft Copilot for Sales integrates with CR
    
 1. Select **Publish** to save your changes.
 
-### Mark fields as required in Copilot for Sales
+- ### Mark fields as required in Copilot for Sales
 
 1. Select a record type for which you need to mark the fields as required.
 
@@ -108,8 +108,8 @@ In this lab, you will explore how Microsoft Copilot for Sales integrates with CR
 
 3. Select **Publish** to save your changes.
 
-### Configure editing of records and fields
-### To allow editing of records
+## Task 1.4: Configure editing of records and fields
+- ### To allow editing of records
 
 1. Select a record type for which you need to allow editing.
 
@@ -121,15 +121,15 @@ In this lab, you will explore how Microsoft Copilot for Sales integrates with CR
 
 1. Select **Publish** to save your changes.
 
-### To configure new contact creation:
+- ### To configure new contact creation:
 
 1. Select the **Contact record** type.
 
-1. Under **Allow editing**, select **Allow new contacts to be created directly from Copilot for Sales**.
+1. Under **Creating records**, select **Create new records inside Copilot for Sales**.
 
 1. Select **Publish** to save your changes.
 
-### To select key fields
+- ### To select key fields
 
 1. Select the record type in which you need to select fields for mini view.
 
@@ -145,15 +145,15 @@ In this lab, you will explore how Microsoft Copilot for Sales integrates with CR
 
 ### Task 2.1: Switch environments or CRM
 
-**Note:** To **switch environments**, there should be two or more environments created in power apps platform.
+**Note:** To **Switch environments**, there should be two or more environments created in power apps platform.
 
-1. In the **Copilot for Sales** pane, clcik on the **Options(...)** on the top right and click on **Signed into Dynamics 365**.
+1. In the **Copilot for Sales** pane, click on the **Options(...) (1)** on the top right and click on **Signed into Dynamics 365 (2)** then select **Switch environment (3)**.
 
-1. Select **Switch environment**.
+    ![](../media/dc24.png)
 
-    ![](../media/dy5.png)
+1. Here you can switch between the environment.    
 
-    ![](../media/dyn32-1.png)
+    ![](../media/dc25.png)
 
 ### Task 2.2: View diagnostics data
 
@@ -161,19 +161,19 @@ In this lab, you will explore how Microsoft Copilot for Sales integrates with CR
 
 1.	Select the **Options(...)** in the upper-right corner, and then select **Diagnostics**.
 
-      ![](../media/dy7.png)
+      ![](../media/dc26.png)
 
 1.	Select **Copy details** to copy the diagnostics data, and then paste the data into an email, Teams chat, or any other medium you like to use to share it with technical support team.
 
-      ![](../media/L5T2.2S3.png)
+      ![](../media/dc27.png)
 
 ### Task 2.3: Share Feedback
 
-1.	Open **Copilot for Sales** in Outlook.
+1.	Open the Customer mail and naviagte to **Copilot for Sales** in Outlook.
 
-2.	Select **Options(...)** in the upper-right corner, and then select **Share feedback**.
+2.	Select **Options(...) (1)** in the upper-right corner, and then select **Share feedback (2)**.
      
-      ![](../media/dy9.png)
+      ![](../media/dc28.png)
 
 4.	Enter your responses in the feedback form and then select **Send**.
      
@@ -217,9 +217,9 @@ When you sign in and reconnect to the same CRM system and environment, your info
 
 1.	Open **Copilot for Sales** in Outlook.
 
-2.	Select **Options(...)** in the upper-right corner, and then select **Sign out**.
+2.	Select **Options(...) (1)** in the upper-right corner, and then select **Sign out (2)**.
       
-      ![](../media/sign.png)
+      ![](../media/dc29.png)
 
 ## Review
 
