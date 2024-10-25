@@ -86,13 +86,13 @@ In this, you wil perform:
 
    ![](../media/dc49.png)
 
-### Task 4: Explore AI-generated meeting summaries with new Options.
+### Task 4: Explore AI-generated meeting Summaries with new Options.
 
 1. Go to the meeting chat in your chat list, select the **Copilot for Sales (1)** tab and select **Open recap (2)**.
 
    ![](../media/dc50.png)
 
-1. Navigate to **Sales (1)** tab, there you can find an option to **Draft email (2)** click on it.that will directly draft a summary email to meeting participants.
+1. Navigate to **Sales (1)** tab, there you can find an option to **Draft email (2)** click on it. It will directly draft a ready Summary email to meeting participants.
 
    ![](../media/dc61.png)
 
@@ -104,7 +104,7 @@ In this, you wil perform:
 
    ![](../media/dc63.png)
 
-1. Navigate to **Transcript** tab, here you can find meeting transcript and also you can doenload it.
+1. Navigate to **Transcript** tab, here you can find meeting transcript and also you can download it.
 
    ![](../media/dc64.png)
 
