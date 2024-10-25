@@ -150,9 +150,9 @@ This task will guide you through installing the Copilot for Sales app in Microso
 
 ### Task 4: Pre-configuration to Analyze sales meetings with AI-generated meeting summaries
 
-1. Navigate to https://admin.teams.microsoft.com/ Teams admin center.If promted sign in with the ODL credential provided in the Environment tab.
+1. Navigate to https://admin.teams.microsoft.com/. If promted sign in with the ODL credential provided in the Environment tab.
 
-1. Navigate to **Manage users (1)** under ***Users*** then click on the ODL user **(2).**
+1. Navigate to **Manage users (1)** under ***Users,*** then click on the ODL user **(2).**
 
    ![](../media/dc51.png)
 
@@ -164,7 +164,7 @@ This task will guide you through installing the Copilot for Sales app in Microso
 
    ![](../media/dc53.png)
 
-1. Navigate back to **Policies (1).** scroll down to **Live event policies**  and then click on **Org-wide default settings (2).**
+1. Navigate back to **Policies (1),** scroll down to **Live event policies**  and then click on **Org-wide default settings (2).**
 
    ![](../media/dc54.png)
 
@@ -172,15 +172,15 @@ This task will guide you through installing the Copilot for Sales app in Microso
 
    ![](../media/dc55.png)
 
-1. Navigate back to **Policies (1).** scroll down to **Meeting policies**  and then click on **Org-wide default settings (2).**    
+1. Navigate back to **Policies (1),** scroll down to **Meeting policies**  and then click on **Org-wide default settings (2).**    
 
    ![](../media/dc56.png)
 
-1. Scroll down to ***Recording and Transcription*** then switch the ***Transcription*** toggle button **On** and then click on **Save.**
+1. Scroll down to ***Recording and Transcription,*** then switch the ***Transcription*** toggle button **On** and then click on **Save.**
 
    ![](../media/dc57.png)
 
-1. Navigate back to **Policies (1).** scroll down to **Voicemail policies**  and then click on **Org-wide default settings (2).**       
+1. Navigate back to **Policies (1),** scroll down to **Voicemail policies**  and then click on **Org-wide default settings (2).**       
 
    ![](../media/dc59.png)
 
