@@ -147,6 +147,48 @@ This task will guide you through installing the Copilot for Sales app in Microso
 
     ![](../media/dyn9.png)
 
+
+### Task 4: Pre-configuration to Analyze sales meetings with AI-generated meeting summaries
+
+1. Navigate to https://admin.teams.microsoft.com/ Teams admin center.If promted sign in with the ODL credential provided in the Environment tab.
+
+1. Navigate to **Manage users (1)** under ***Users*** then click on the ODL user **(2).**
+
+   ![](../media/dc51.png)
+
+1. Click on **Policies (1)**, scroll down to ***Calling policy*** and then click on **Org-wide default settings (2).** 
+
+   ![](../media/dc52.png)
+
+1. Naviage to ***Transcription*** toggle button, switch it **On** and click on **Save.**
+
+   ![](../media/dc53.png)
+
+1. Get back to **Policies (1).** scroll down to **Live event policies**  and then click on **Org-wide default settings (2).**
+
+   ![](../media/dc54.png)
+
+1. Switch the ***Transcription for attendees*** toggle button **On (1)** and then click on **Save (2).**   
+
+   ![](../media/dc55.png)
+
+1. Get back to **Policies (1).** scroll down to **Meeting policies**  and then click on **Org-wide default settings (2).**    
+
+   ![](../media/dc56.png)
+
+1. Scroll down to ***Recording and Transcription*** then switch the ***Transcription*** toggle button **On** and then click on **Save.**
+
+   ![](../media/dc57.png)
+
+1. Get back to **Policies (1).** scroll down to **Voicemail policies**  and then click on **Org-wide default settings (2).**       
+
+   ![](../media/dc59.png)
+
+1. Switch the ***Voicemail Transcription (1)*** and ***Translation for transcription (2)*** toggle button **On** and then click on **Save.**
+
+   ![](../media/dc58.png)
+
+
 ## Summary
 
 In this exercise, you have created an environment in Power Apps ,installed Copilot for Sales in Outlook and in Teams.

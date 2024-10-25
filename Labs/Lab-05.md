@@ -113,7 +113,7 @@ In this lab, you will explore how Microsoft Copilot for Sales integrates with CR
 
 1. Select a record type for which you need to allow editing.
 
-1. Turn on **Edit records** to allow sellers to **edit** all relevant fields in that record type.
+1. Turn on **Edit records inside Copilot for Sales** to allow sellers to **edit** all relevant fields in that record type.
 
    ![](../media/dyn28.png)
 
@@ -126,6 +126,8 @@ In this lab, you will explore how Microsoft Copilot for Sales integrates with CR
 1. Select the **Contact record** type.
 
 1. Under **Creating records**, select **Create new records inside Copilot for Sales**.
+
+   ![](../media/dc60.png)
 
 1. Select **Publish** to save your changes.
 

@@ -64,11 +64,15 @@ In this, you wil perform:
 
    ![](../media/dc21.png)
 
-1. Open the meeting and Start the **recording and transcription**.
+1. Click on **Save.** 
+
+1. Open the meeting and Start the **recording and transcription**. Then Begin by speaking for a few minutes.
 
    ![](../media/4-10.png)
 
 ### Task 3: Analyze sales meetings with AI-generated meeting summaries
+
+1. Stop the **recording** and **leave** the meeting. Then you will be able to see the recording.
 
 1. Open the recording and click on the **Sales** Tab.
 
@@ -76,17 +80,38 @@ In this, you wil perform:
 
    ![](../media/4-3.png)
 
-1. Go to the meeting chat in your chat list, or open the event on your calendar in Teams, and select the **Copilot for Sales** tab and select **Open summary**.
+1. In the mean time you can proceed with next task.   
 
-   ![](../media/4-8.png)
+1. After some time, naviagte back to the recording chat again, click on **Sales** tab. There you can review the recording that includes both **Recording (1)** and **Transcription (2)** of the meeting.
 
-1. Review the recording.
+   ![](../media/dc49.png)
 
-   ![](../media/4-9.png)
+### Task 4: Explore AI-generated meeting summaries with new Options.
 
-- Alternative approach to review the recording.
+1. Go to the meeting chat in your chat list, select the **Copilot for Sales (1)** tab and select **Open recap (2)**.
 
-   ![](../media/dyn26.png)
+   ![](../media/dc50.png)
+
+1. Navigate to **Sales (1)** tab, there you can find an option to **Draft email (2)** click on it.that will directly draft a summary email to meeting participants.
+
+   ![](../media/dc61.png)
+
+1. Here you can see the ready email summary reagarding the meeting. It can be send to the Participants mail by clicking on the **Open in Outlook web.**   
+
+   ![](../media/dc62.png)
+
+1. It also provides the **Keywords mentioned** in the meeting.   
+
+   ![](../media/dc63.png)
+
+1. Navigate to **Transcript** tab, here you can find meeting transcript and also you can doenload it.
+
+   ![](../media/dc64.png)
+
+1. Navigate to **AI notes,** here it will provide us the details about the discussions that happened in the meeting session.   
+
+   ![](../media/dc66.png)
+
 
 ## Review
 
