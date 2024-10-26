@@ -16,9 +16,9 @@ In this lab, you will perform:
 
 1. Navigate to [Power Platform admin center](https://admin.powerplatform.microsoft.com/) and click on **Sign In** and sign in with the credentials provided under **Environment Details** Tab.
 
-1. Click on **Environments** from the left pane and click on **New**.
+1. Click on **Environments (1)** from the left pane and click on **+ New (2)**.
 
-   ![](../media/1-1.png)
+   ![](../media/dc1-1.png)
 
 1. Provide a name **(1)** and make sure **Add a Dataverse data store** is selected to **Yes (2)** , leave **Group** as it is, no need to select as it is optional and click on **Next (3)**.
 
@@ -121,7 +121,7 @@ This task will guide you through installing the Copilot for Sales app in Microso
 
    ![](../media/t-2.png) 
    
-1. Under Installed apps, select **Add apps**.  In the **Add installed apps** panel, search for the **Copilot for Sales** app and Select **Select**
+1. Under Installed apps, select **Add apps**.  In the **Add installed apps** panel, search for the **Copilot for Sales** app and click **Select**
 
       **Note:** You can also filter apps by app permission policy.
 
