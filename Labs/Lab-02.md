@@ -60,7 +60,7 @@ In this lab, you will perform:
 
     >**Note:** Contacts name can be anything based on your customer or recieved email.
 
-   ![](../media/dy-9.png)
+   ![](../media/dcdy-9.png)
 
 1. In the **New contact** form, add the required information, and then select **Save**.
    
