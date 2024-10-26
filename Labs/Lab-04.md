@@ -25,9 +25,9 @@ In this, you wil perform:
 
    ![](../media/dc18.png)
 
-1. Select **Calendar** from the left pane and click on **+New Meeting** from the top right corner.
+1. Select **Calendar (1)** from the left pane and click on **+ New Meeting (2)** from the top right corner.
 
-   ![](../media/4-1.png)
+   ![](../media/dc4-1.png)
 
 1. Provide the following details to create a new meeting and click on **Send**.
 
@@ -63,6 +63,8 @@ In this, you wil perform:
 
    ![](../media/dc21.png)
 
+    >**Note:** If the meeting name isn’t visible, wait a few moments and then check again.
+
 1. Click on **Save.** 
 
 1. Open the meeting and Start the **recording and transcription**. Then Begin by speaking for a few minutes.
@@ -79,7 +81,7 @@ In this, you wil perform:
 
    ![](../media/dc75.png)
 
-1. In the mean time you can proceed with next task.Then come back check.   
+1. In the mean time you can proceed with next task.Then come back and check.   
 
 1. Once the insights are fetched, click on **Sales** tab. There you can review the recording that includes both **Recording (1)** and **Transcription (2)** of the meeting.
 
@@ -91,11 +93,11 @@ In this, you wil perform:
 
    ![](../media/dc50.png)
 
-1. Navigate to **Sales (1)** tab, there you can find an option to **Draft email (2)** click on it. It will directly draft a ready Summary email to meeting participants.
+1. Navigate to **Sales (1)** tab, there you can find an option to **Draft email (2)** click on it. It will draft a generated summary email to meeting participants.
 
    ![](../media/dc61.png)
 
-1. Here, you can view the already generated email summary of the meeting, which can be sent to the participants by clicking on **Open in Outlook Web.**
+1. Here, you can view the generated email summary of the meeting, which can be sent to the participants by clicking on **Open in Outlook Web.**
 
    ![](../media/dc62.png)
 
@@ -118,6 +120,8 @@ In this, you wil perform:
 1. Navigate back to **Sales (1)** tab, click on **Create task (2).**
 
    ![](../media/dc67.png)
+
+    >**Note:** Sometimes ***Suggested follow-ups from the meeting*** may not appear, if they are not relevant to the topics discussed in the meeting.
 
 1. On the **Create a task in Dynamic 365** page, provide the following details.
 

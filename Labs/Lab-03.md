@@ -49,7 +49,7 @@ In this lab, you will perform:
 
 ### Task 2.1: Create an email message using custom prompt
 
-1. Open a customer email and select **Reply**. In the Draft with copilot select **Custom**.
+1. Open a customer email and select **Reply**. Under ***Draft with copilot*** select **Custom**.
 
       ![](../media/dyn31.png)
 
