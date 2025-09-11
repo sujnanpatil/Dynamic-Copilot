@@ -43,14 +43,20 @@ In this lab, you will perform:
 
       ![](../media/dy14.png)
   
-1. Add the details for the contact and click on **Save**.
+1. Add the details for the contact. Rest keep it as it is and click on **Save**.
 
-    ![](../media/dy15.png)
+  > First name : Dynamics
+
+  > Last name : 365
+  
+  > Email : dynamics365@gmail.com
+
+   ![](../media/dy15.png)
    
 
-     >**Note:** If prompted save this email as part of this contact record click on **Save.**
+> **Note:** If prompted save this email as part of this contact record click on **Save.**
      
-     >**Note:** Please create one more contact record by following the same steps, with your name and email address that your going to use in ***Lab 4 - Task 4.***
+> **Note:** Please create one more contact record by following the same steps, with your name and email address that your going to use in ***Lab 4 - Task 4.***
 
 ### Task 1.2: Create a contact from an exisiting Email
   
@@ -136,7 +142,7 @@ In this lab, you will perform:
 
 1. Open any customer chat and click on **More Options(...)** and select **Copilot for Sales**.
 
-    >**Note:** If there is no chat in teams. Please send a greetings mail from your personal outlook mail to the ODL_User and Click on the edit button in teams and paste your email/username.
+   > **Note:** If there is no chat in teams. Please send a greetings mail from your personal outlook mail to the ODL_User and Click on the edit button in teams and paste your email/username.
     
     - Navigate to your personal Outlook, click on **New mail (1)** then provide the ODL_User email **(2)** given in the LabVM's Environment tab then type a greeting message **(3)** and then click on **Send (4).**
 
