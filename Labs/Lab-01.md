@@ -13,17 +13,19 @@ In this lab, you will perform:
 
 ## Task 1: Access the Copilot for Sales app
 
-### Task 1.1:  While drafting an email or creating a meeting
+In this Task you will understand how to access and use Copilot for Sales in Outlook Mail, Calendar, and Microsoft Teams. It helps you integrate AI support for emails, meetings, and collaboration. The goal is to improve productivity and sales efficiency across Microsoft 365 tools.
+
+### Task 1.1:  Access the Copilot for Sales app in Mail and Meeting Creations
 
 1. In a new browser tab search for **outlook.com** and sign in using the odl credentials provided in the Environment tab.
 
-1. In Outlook, click on **New Mail**.
+1. In Outlook, click on exisiting Mail **Microsoft Audio Conferencing**.
 
-      ![](../media/dc43.png)
+      ![](../media/L0001.png)
 
 1. Mention the email of the receiver in **To** field, click on **Insert (1)** , then click on **Apps (2)** and select **Copilot for Sales (3)**.
 
-   ![](../media/dyn10.png)
+   ![](../media/dyn101.png)
 
 1. Click on **Copilot for Sales** again.
 
@@ -31,16 +33,19 @@ In this lab, you will perform:
    
 - While reading an email
 
-1. Open any **customer mail (1)**,then click on **elipse(...) (2)** inside the mail,  click on **Apps (3)** and select **Copilot for Sales (4)**.
+1. Open any **customer mail (1)**,then click on **Apps (3)** and select **Copilot for Sales (4)**.
    
-   ![](../media/dyn11.png)
+   ![](../media/P2.png)
+   
+      > **Note:** Apps Icon is not visible click on **elipse(...)** inside the mail you will be able see **Apps**
 
 - Create a Meeting
+
 1. Click on **Calender (1)** and select **New event (2)**
 
     ![](../media/dyn12.png)
 
-2. Add the title in the **Title field (1)** and click on **Save (2)**.
+2. Add the title as **Daily Scrum** in the **Title field (1)** and click on **Save (2)**.
 
     ![](../media/dyn13.png)
    
@@ -66,7 +71,7 @@ In this lab, you will perform:
    
 ## Task 2: Sign in to CRM from Outlook
 
-In this task, you will switch between the environments created in Power Apps.
+In this task, you will understand how to **switch the CRM environment in Outlook** using Copilot for Sales. You first create a **"demo" environment in Power Apps**, then access it from a customer email in Outlook. This ensures Copilot pulls data from the correct Dynamics 365 environment for accurate sales insights.
 
 1. To switch environments, create a new environment named **demo** in the Power Apps. To do this follow the instructions provided in **Pre-configurations** ***Task 1.***
 
