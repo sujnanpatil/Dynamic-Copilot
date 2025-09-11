@@ -69,6 +69,7 @@ To adjust the zoom level for the environment page, click the A↕ : 100% icon lo
      ![](../media/get-5.png) 
 
 # Support Contact
+
 The CloudLabs support team is available 24/7, 365 days a year, via email and live chat to ensure seamless assistance at any time. We offer dedicated support channels tailored specifically for both learners and instructors, ensuring that all your needs are promptly and efficiently addressed.
 
 Learner Support Contacts:
