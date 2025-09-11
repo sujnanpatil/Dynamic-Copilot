@@ -18,11 +18,11 @@ In this lab, you will perform:
 
 1. Click on **Environments (1)** from the left pane and click on **+ New (2)**.
 
-   ![](../media/dc1-1.png)
+   ![](../media/L01.png)
 
-1. Provide a name **(1)** and make sure **Add a Dataverse data store** is selected to **Yes (2)** , leave **Group** as it is, no need to select as it is optional and click on **Next (3)**.
+1. Provide a name **Copilot for Sales** and make sure **Add a Dataverse data store** is selected to **Yes (2)** , leave **Group** as it is, no need to select as it is optional and click on **Next (3)**.
 
-   ![](../media/dc38.png)
+   ![](../media/L2.png)
 
 1. In **Security Group**, click on **+ Select**.
 
@@ -164,7 +164,7 @@ This task will guide you through installing the Copilot for Sales app in Microso
 
    ![](../media/dc53.png)
 
-1. Navigate back to **Policies (1),** scroll down to **Live event policies**  and then click on **Org-wide default settings (2).**
+1. Navigate back to **Policies (1),** scroll down to **Live event policy**  and then click on **Org-wide default settings (2).**
 
    ![](../media/dc54.png)
 
@@ -172,7 +172,7 @@ This task will guide you through installing the Copilot for Sales app in Microso
 
    ![](../media/dc55.png)
 
-1. Navigate back to **Policies (1),** scroll down to **Meeting policies**  and then click on **Org-wide default settings (2).**    
+1. Navigate back to **Policies (1),** scroll down to **Meeting policy**  and then click on **Org-wide default settings (2).**    
 
    ![](../media/dc56.png)
 
@@ -180,7 +180,7 @@ This task will guide you through installing the Copilot for Sales app in Microso
 
    ![](../media/dc57.png)
 
-1. Navigate back to **Policies (1),** scroll down to **Voicemail policies**  and then click on **Org-wide default settings (2).**       
+1. Navigate back to **Policies (1),** scroll down to **Voicemail policy**  and then click on **Org-wide default settings (2).**       
 
    ![](../media/dc59.png)
 
