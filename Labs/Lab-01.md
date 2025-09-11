@@ -99,4 +99,4 @@ In this task, you will understand how to **switch the CRM environment in Outlook
 
 In this lab, you have understood how to access the copilot for sales app and signed in.
 
-### You have successfully completed the lab
+### You have successfully completed the lab.
