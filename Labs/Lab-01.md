@@ -31,7 +31,7 @@ In this Task you will understand how to access and use Copilot for Sales in Outl
    
 - While reading an email
 
-1. Open any **customer mail (1)**,then click on **Apps (3)** and select **Copilot for Sales (4)**.
+5. Open any **customer mail (1)**,then click on **Apps (3)** and select **Copilot for Sales (4)**.
    
    ![](../media/P2.png)
    
@@ -39,31 +39,31 @@ In this Task you will understand how to access and use Copilot for Sales in Outl
 
 - Create a Meeting
 
-1. Click on **Calender (1)** and select **New event (2)**
+6. Click on **Calender (1)** and select **New event (2)**
 
     ![](../media/dyn12.png)
 
-2. Add the title as **Daily Scrum** in the **Title field (1)** and click on **Save (2)**.
+7. Add the title as **Daily Scrum** in the **Title field (1)** and click on **Save (2)**.
 
     ![](../media/dyn13.png)
    
 -  While opening a meeting
 
-1. Open Calendar in Outlook and select the scheduled meeting.
+8. Open Calendar in Outlook and select the scheduled meeting.
    
-1. Select **More commands (...)** and then select **Copilot for Sales** (in Simplified ribbon)
+9. Select **More commands (...)** and then select **Copilot for Sales** (in Simplified ribbon)
 
    ![](../media/dyn14.png)
 
 - Access Copilot for Sales in Teams
   
-1. Navigate to Teams by clicking on the link https://teams.microsoft.com/ , if prompted sign in using the odl credentials provided in the Environment tab.
+10. Navigate to Teams by clicking on the link https://teams.microsoft.com/ , if prompted sign in using the odl credentials provided in the Environment tab.
 
-1. Select **Apps** , search for **Copilot for Sale**s and click on **Add**.
+11. Select **Apps** , search for **Copilot for Sale**s and click on **Add**.
    
-   ![](../media/1-10.png)
+      ![](../media/1-10.png)
 
-1. Click on **Add**.
+12. Click on **Add**.
 
     ![](../media/dyn16.png)
    
@@ -99,6 +99,6 @@ In this lab, you have completed the following tasks:
 - Used Copilot for Sales with emails, meetings, and calendar events
 - Signed in to CRM (Dynamics 365 / Salesforce) from Outlook to connect sales data
       
-You have successfully completed the lab. Now click on Next from the lower right corner to move on to the next page.
+### You have successfully completed the lab. Now click on Next from the lower right corner to move on to the next page.
 
 ![](../media/d47.png) 

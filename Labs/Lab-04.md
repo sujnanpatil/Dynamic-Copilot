@@ -25,11 +25,11 @@ In this task, you will learn how to schedule a Teams meeting with external parti
 
 1. Navigate to **Teams (2)** from Outlook by clicking on the **More Options (1)** on the top left of the Outlook Window.
 
-   ![](../media/dc18.png)
+      ![](../media/dc18.png)
 
 1. Select **Calendar (1)** from the left pane and click on **+ New Meeting (2)** from the top right corner.
 
-   ![](../media/dc4-1.png)
+      ![](../media/dc4-1.png)
 
 1. Provide the following details to create a new meeting and click on **Send**.
 
@@ -45,7 +45,7 @@ In this task, you will learn how to schedule a Teams meeting with external parti
 
 In this task, you will learn how to set up Copilot for Sales within a Teams meeting, record and transcribe the session, and capture valuable customer interactions.
 
-**Note:** There are two ways we can schedule a meeting.
+> **Note:** There are two ways we can schedule a meeting.
 
 **Automatically** - When you schedule a meeting with a contact who is saved to your CRM, the system automatically enables Microsoft Copilot for Sales when it records and transcribes the meeting.
 
@@ -53,19 +53,19 @@ In this task, you will learn how to set up Copilot for Sales within a Teams meet
 
 1. Navigate to the **Calendar** in *Teams,*  then select the meeting name **(1)** and click on **Join(2).** 
 
-   ![](../media/dc19.png)
+      ![](../media/dc19.png)
 
 1. Open the **Copilot for Sales (1)** chat and click on **About (2).**
 
-   ![](../media/dc23.png)
+      ![](../media/dc23.png)
 
 1. Click on **Open (1)** drop down and select **Add to a meeting (2).**  
 
-   ![](../media/dc37.png)
+      ![](../media/dc37.png)
 
 1. Select the meeting name **(1)** then click on **Set up (2)** drop-down and select **Set up a tab (3).**
 
-   ![](../media/dc21.png)
+      ![](../media/dc21.png)
 
     >**Note:** If the meeting name isn’t visible, wait a few moments and then check again.
 
@@ -73,7 +73,7 @@ In this task, you will learn how to set up Copilot for Sales within a Teams meet
 
 1. Open the meeting and Start the **recording and transcription**. Then Begin by speaking for a few minutes.
 
-   ![](../media/4-10.png)
+      ![](../media/4-10.png)
 
 ### Task 3: Analyze sales meetings with AI-generated meeting summaries
 
@@ -83,15 +83,15 @@ In this task, you will learn how to access AI-generated summaries after a meetin
 
 1. Open the recording chat and click on the **Sales** Tab.
 
-      **Note:** You might receive the below pop-up stating that the summary will take a while to show up and will notify via chat when it has fetched the insights.
+    > **Note:** You might receive the below pop-up stating that the summary will take a while to show up and will notify via chat when it has fetched the insights.
 
-   ![](../media/dc75.png)
+      ![](../media/dc75.png)
 
 1. In the mean time you can proceed with next task.Then come back and check.   
 
 1. Once the insights are fetched, click on **Sales** tab. There you can review the recording that includes both **Recording (1)** and **Transcription (2)** of the meeting.
 
-   ![](../media/dc49.png)
+      ![](../media/dc49.png)
 
 ### Task 4: Explore AI-generated meeting Summaries with new Options.
 
@@ -99,39 +99,39 @@ In this task, you will learn how to explore additional AI-powered features such 
 
 1. Naviagte to the meeting chat in your chat list, select the **Copilot for Sales (1)** tab and select **Open recap (2)**.
 
-   ![](../media/dc50.png)
+      ![](../media/dc50.png)
 
 1. Navigate to **Sales (1)** tab, there you can find an option to **Draft email (2)** click on it. It will draft a generated summary email to meeting participants.
 
-   ![](../media/dc61.png)
+      ![](../media/dc61.png)
 
 1. Here, you can view the generated email summary of the meeting, which can be sent to the participants by clicking on **Open in Outlook Web.**
 
-   ![](../media/dc62.png)
+      ![](../media/dc62.png)
 
 1. It also displays the **Keywords** mentioned during the meeting.
 
-   ![](../media/dc63.png)
+      ![](../media/dc63.png)
 
 1. Navigate to **Transcript** tab, to view the meeting transcript, where you also have the option to download it in **.docs** and **.vtt** format.
 
-   ![](../media/dc64.png)
+      ![](../media/dc64.png)
 
 1. Navigate to **AI notes,** to view details of the discussions from the meeting session.
 
-   ![](../media/dc66.png)
+      ![](../media/dc66.png)
 
 - Create a Task in Dynamic 365   
 
    You can create tasks in a Dynamics 365 Teams recording session to document or train others on a business process. In Dynamics 365, tasks are a way to organize work into specific actions that must be completed by a certain date.
 
-1. Navigate back to **Sales (1)** tab, click on **Create task (2).**
+7. Navigate back to **Sales (1)** tab, click on **Create task (2).**
 
-   ![](../media/dc67.png)
+      ![](../media/dc67.png)
 
     >**Note:** Sometimes ***Suggested follow-ups from the meeting*** may not appear, if they are not relevant to the topics discussed in the meeting.
 
-1. On the **Create a task in Dynamic 365** page, provide the following details.
+8. On the **Create a task in Dynamic 365** page, provide the following details.
 
    - Enter the **Subject** name **(1)**
    - In the **Connected to (2)** field, provide the name of the meeting participant contact record that you have created in ***Lab 2 - Task 1.***
@@ -141,21 +141,21 @@ In this task, you will learn how to explore additional AI-powered features such 
 
      ![](../media/dc76.png)
 
-1. Navigate back to **Sales** tab, click on **Open task** to review the task.
+9. Navigate back to **Sales** tab, click on **Open task** to review the task.
 
-   ![](../media/dc69.png)
+      ![](../media/dc69.png)
 
-1. Review the task, click on **Save and Close**  
+10. Review the task, click on **Save and Close**  
 
-   ![](../media/dc77.png)
+      ![](../media/dc77.png)
 
-1. Navigate back to **Outlook.** Open the participant's email (***here it refers to your mail***), and access **Copilot for Sales.** Scroll down to the Contact Saved section, click on the **ellipses (...) (1)** and select **Open in Dynamics 365 (2).**
+11. Navigate back to **Outlook.** Open the participant's email (***here it refers to your mail***), and access **Copilot for Sales.** Scroll down to the Contact Saved section, click on the **ellipses (...) (1)** and select **Open in Dynamics 365 (2).**
 
-   ![](../media/dc72.png)
+      ![](../media/dc72.png)
 
-1. In **Dynamics 365,** you can find the details of the task created by the ODL user.
+12. In **Dynamics 365,** you can find the details of the task created by the ODL user.
 
-   ![](../media/dc74.png)
+      ![](../media/dc74.png)
 
 ## Summary
 

@@ -27,6 +27,8 @@ In this task, you will learn how to create new CRM contacts directly from Copilo
 
 ### Task 1.1: Create a new Record
 
+In this task, you will learn how to create a new contact record manually within the Copilot for Sales environment.
+
 1. Navigate back to **Copilot for sales** environment, if you have switched the environment in the previous lab.
 
 1. Click on the **ellipses(...) (1)** , then select **Switch environment (2).**
@@ -60,6 +62,8 @@ In this task, you will learn how to create new CRM contacts directly from Copilo
 > **Note:** Please create one more contact record by following the same steps, with your name and email address that your going to use in ***Lab 4 - Task 4.***
 
 ### Task 1.2: Create a contact from an exisiting Email
+
+In this task, you will learn how to create a contact by extracting details from an existing email using Copilot for Sales.
   
 1. Open a mail from the inbox then click on the **elipses(...).**
 
