@@ -86,7 +86,7 @@ In this task, you will learn how to customize and configure Copilot for Sales to
 
    ![](../media/move.png)
 
-   **Note:** You can also drag the field to change its order.
+   > **Note:** You can also drag the field to change its order.
 
 1. Select **Publish** to save your changes.
 
