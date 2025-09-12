@@ -9,7 +9,8 @@ This lab demonstrates how Copilot for Sales streamlines CRM updates from custome
 In this lab, you will perform:
 
 - Task 1: View and save email summary to CRM
-- Task 2: Draft an email message  
+- Task 2: Draft an email message
+- Task 3: Share feedback
 
 ## Task 1: View and save email summary to CRM
 
