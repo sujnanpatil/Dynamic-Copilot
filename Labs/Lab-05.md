@@ -1,6 +1,6 @@
 # Lab 05: Customize Microsoft Copilot for Sales (in Teams and Outlook) 
 
-## Lab Scenario
+## Lab Overview
 
 Many sales organizations customize their CRM to meet their business needs. Microsoft Copilot for Sales is preconfigured to work with contact, opportunity, and account records. The admin experiences allow for sales organizations to define what matters to them, helping to ensure that their sales teams have the necessary CRM data accessible to them.
 
@@ -12,6 +12,8 @@ In this lab, you will explore how Microsoft Copilot for Sales integrates with CR
 - Task 2: Discover more options in Microsoft Copilot for Sales (in outlook) 
 
 ### Task 1: CRM customizations and controls (in teams) 
+
+In this task, you will learn how to customize and configure Copilot for Sales to better align with your organization’s CRM needs. You will explore Copilot AI settings, manage forms by adding new record types and filters, and modify record types by adding, reordering, or removing fields. Additionally, you will configure editing permissions for records and fields, enable new contact creation, and define key fields for mini views. These customizations ensure that sales teams have relevant, structured, and high-quality CRM data accessible within Teams and Outlook.
 
 ### Task 1.1: Copilot AI
 
@@ -84,7 +86,7 @@ In this lab, you will explore how Microsoft Copilot for Sales integrates with CR
 
    ![](../media/move.png)
 
-   **Note:** You can also drag the field to change its order.
+   > **Note:** You can also drag the field to change its order.
 
 1. Select **Publish** to save your changes.
 
@@ -145,9 +147,11 @@ In this lab, you will explore how Microsoft Copilot for Sales integrates with CR
 
 ### Task 2: Discover more options in Microsoft Copilot for Sales (in outlook) 
 
+In this task, you will learn how to explore additional options available in Copilot for Sales within Outlook. You will discover how to switch CRM environments, view diagnostic data for troubleshooting, and share feedback with Microsoft. You will also learn how to access helpful resources such as the product overview, introductory videos, and privacy policies. Finally, you will explore how to sign out and reconnect to different CRM systems or environments. These options provide greater flexibility, transparency, and control for both sellers and administrators.
+
 ### Task 2.1: Switch environments or CRM
 
-**Note:** To **Switch environments**, there should be two or more environments created in power apps platform.
+> **Note:** To **Switch environments**, there should be two or more environments created in power apps platform.
 
 1. In the **Copilot for Sales** pane, click on the **Options(...) (1)** on the top right and click on **Signed into Dynamics 365 (2)** then select **Switch environment (3)**.
 
@@ -223,8 +227,15 @@ When you sign in and reconnect to the same CRM system and environment, your info
       
       ![](../media/dc29.png)
 
-## Review
+## Summary
 
-In this lab, you have explored various CRB actions and capablities in Teams and Outlook
+In this lab, you have completed the following tasks:
 
-### You have successfully completed the lab.
+- Explored CRM customizations and controls in Copilot for Sales (Teams and Outlook)
+- Configured Copilot AI settings and customized record types, forms, and fields
+- Enabled editing, mandatory fields, and contact creation in Copilot for Sales
+- Discovered additional options in Outlook such as switching environments, viewing diagnostics, sharing feedback, and accessing privacy policies
+
+## You have successfully completed the Hands on lab.
+
+By completing this lab series on **Dynamics-365-Copilot-for-Sales**, you gained practical experience in integrating, customizing, and applying AI-powered features to streamline sales processes. You learned how to connect Copilot with CRM systems, create and manage contacts, and capture customer interactions. You explored AI capabilities in Outlook for summarizing and drafting communications, and in Teams for analyzing meetings with AI-generated summaries, action items, and insights. Additionally, you customized record types, fields, and controls in Teams and Outlook to ensure CRM data meets business needs. These skills enable you to enhance collaboration, improve efficiency, and drive more effective, AI-powered sales outcomes.

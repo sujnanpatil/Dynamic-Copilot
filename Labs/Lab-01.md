@@ -95,8 +95,12 @@ In this task, you will understand how to **switch the CRM environment in Outlook
 - Enter your Salesforce credentials, and then select **Log In**. <br> 
 - Select **Allow**, and then select **Allow access**.
 
-## Review
+## Summary
+In this lab, you have completed the following tasks:
+- Accessed the Copilot for Sales app in Outlook and Teams
+- Used Copilot for Sales with emails, meetings, and calendar events
+- Signed in to CRM (Dynamics 365 / Salesforce) from Outlook to connect sales data
+      
+You have successfully completed the lab. Now click on Next from the lower right corner to move on to the next page.
 
-In this lab, you have understood how to access the copilot for sales app and signed in.
-
-### You have successfully completed the lab.
+![](../media/d47.png) 

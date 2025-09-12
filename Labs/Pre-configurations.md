@@ -190,7 +190,12 @@ This task will guide you through installing the Copilot for Sales app in Microso
 
 
 ## Summary
+In this lab, you have completed the following tasks:
 
-In this exercise, you have created an environment in Power Apps ,installed Copilot for Sales in Outlook and in Teams.
+- Created environment in Power Apps
+- Installed Copilot for Sales in Outlook
+- Installed Copilot for Sales in Teams
 
-### You have successfully completed the lab
+You have successfully completed the lab. Now click on Next from the lower right corner to move on to the next page.
+
+![](../media/d47.png) 

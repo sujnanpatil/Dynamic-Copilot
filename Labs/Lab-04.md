@@ -17,6 +17,8 @@ In this, you wil perform:
 
 ### Task 1: Create a Teams Meeting
 
+In this task, you will learn how to schedule a Teams meeting with external participants, enable transcription, and ensure Copilot for Sales is included to capture meeting insights.
+
 - You must invite at least one external participant to the meeting.
 - You must transcribe the meeting for Copilot for Sales to generate insights.
 - If you create a recurring meeting, the Copilot for Sales app is added to all occurrences of the meeting.
@@ -40,6 +42,8 @@ In this, you wil perform:
            ![](../media/details.png)
 
 ### Task 2: Use Microsoft Copilot for Sales AI in a recorded sales meeting 
+
+In this task, you will learn how to set up Copilot for Sales within a Teams meeting, record and transcribe the session, and capture valuable customer interactions.
 
 **Note:** There are two ways we can schedule a meeting.
 
@@ -73,6 +77,8 @@ In this, you wil perform:
 
 ### Task 3: Analyze sales meetings with AI-generated meeting summaries
 
+In this task, you will learn how to access AI-generated summaries after a meeting, review insights such as customer sentiment, action items, and key topics discussed.
+
 1. Stop the **recording** and **leave** the meeting. You will then be able to access the recording.
 
 1. Open the recording chat and click on the **Sales** Tab.
@@ -88,6 +94,8 @@ In this, you wil perform:
    ![](../media/dc49.png)
 
 ### Task 4: Explore AI-generated meeting Summaries with new Options.
+
+In this task, you will learn how to explore additional AI-powered features such as drafting follow-up emails, viewing transcripts, reviewing AI notes, and creating tasks in Dynamics 365 from meeting insights.
 
 1. Naviagte to the meeting chat in your chat list, select the **Copilot for Sales (1)** tab and select **Open recap (2)**.
 
@@ -149,9 +157,15 @@ In this, you wil perform:
 
    ![](../media/dc74.png)
 
+## Summary
 
-## Review
+In this lab, you have completed the following tasks:
 
-In this lab, you have understood how to use Copilot for Sales during teams meetings.
+- Created a Teams meeting with external participants and enabled transcription
+- Used Microsoft Copilot for Sales AI during a recorded sales meeting
+- Analyzed sales meetings with AI-generated summaries and insights
+- Explored advanced AI-generated meeting summaries, drafted recap emails, viewed transcripts, and created tasks in Dynamics 365
 
-### You have successfully completed the lab.
+You have successfully completed the lab. Now click on Next from the lower right corner to move on to the next page.
+
+![](../media/d47.png) 

@@ -13,6 +13,8 @@ In this lab, you will perform:
 
 ## Excercise 1: View and save email summary to CRM
 
+In this exercise, you will learn how to use Copilot for Sales to generate AI-powered email summaries and save them directly to CRM records for quick and accurate updates.
+
 ### Task 1: View email summary
 
 1. In **Outlook**, open or reply to a customer email.
@@ -24,6 +26,8 @@ In this lab, you will perform:
    ![](../media/dc16.png)
 
 ### Excercise 2: Draft an email message  
+
+In this exercise, you will learn how to create professional customer email replies using Copilot, either through pre-defined categories or custom prompts, and refine the draft before sending.
 
 ### Task 2: Create an email reply using pre-defined categories
 
@@ -65,8 +69,9 @@ In this lab, you will perform:
 
       ![](../media/dyn25.png)
 
-
 ### Task 3: Share feedback
+
+In this task, you will learn how to provide feedback on Copilot’s summaries and drafted responses to improve AI-generated outputs.
 
 1. At the bottom of the **email summary**, select a **thumbs-up** or **thumbs-down** **(1)** based on your experience.
 
@@ -78,8 +83,17 @@ In this lab, you will perform:
 
 1. Enter your responses in the feedback form and then select **Send**.
 
-## Review
+## Summary
 
-In this lab, you have understood how to draft an email, view and save the email summary.
+In this lab, you have completed the following tasks:
 
-### You have successfully completed the lab.
+- Viewed AI-generated email summaries in Outlook using Copilot for Sales
+- Saved key email insights directly to CRM records
+- Drafted customer email replies using pre-defined categories
+- Created customized email drafts using custom prompts with Copilot
+- Adjusted and finalized draft content before sending
+- Shared feedback on AI-generated summaries and drafts
+
+You have successfully completed the lab. Now click on Next from the lower right corner to move on to the next page.
+
+![](../media/d47.png) 
