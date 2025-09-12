@@ -125,13 +125,13 @@ In this task, you will learn how to explore additional AI-powered features such 
 
    You can create tasks in a Dynamics 365 Teams recording session to document or train others on a business process. In Dynamics 365, tasks are a way to organize work into specific actions that must be completed by a certain date.
 
-1. Navigate back to **Sales (1)** tab, click on **Create task (2).**
+7. Navigate back to **Sales (1)** tab, click on **Create task (2).**
 
    ![](../media/dc67.png)
 
     >**Note:** Sometimes ***Suggested follow-ups from the meeting*** may not appear, if they are not relevant to the topics discussed in the meeting.
 
-1. On the **Create a task in Dynamic 365** page, provide the following details.
+8. On the **Create a task in Dynamic 365** page, provide the following details.
 
    - Enter the **Subject** name **(1)**
    - In the **Connected to (2)** field, provide the name of the meeting participant contact record that you have created in ***Lab 2 - Task 1.***
@@ -141,19 +141,19 @@ In this task, you will learn how to explore additional AI-powered features such 
 
      ![](../media/dc76.png)
 
-1. Navigate back to **Sales** tab, click on **Open task** to review the task.
+9. Navigate back to **Sales** tab, click on **Open task** to review the task.
 
    ![](../media/dc69.png)
 
-1. Review the task, click on **Save and Close**  
+10. Review the task, click on **Save and Close**  
 
    ![](../media/dc77.png)
 
-1. Navigate back to **Outlook.** Open the participant's email (***here it refers to your mail***), and access **Copilot for Sales.** Scroll down to the Contact Saved section, click on the **ellipses (...) (1)** and select **Open in Dynamics 365 (2).**
+11. Navigate back to **Outlook.** Open the participant's email (***here it refers to your mail***), and access **Copilot for Sales.** Scroll down to the Contact Saved section, click on the **ellipses (...) (1)** and select **Open in Dynamics 365 (2).**
 
    ![](../media/dc72.png)
 
-1. In **Dynamics 365,** you can find the details of the task created by the ODL user.
+12. In **Dynamics 365,** you can find the details of the task created by the ODL user.
 
    ![](../media/dc74.png)
 
