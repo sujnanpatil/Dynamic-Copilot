@@ -50,7 +50,7 @@ In this task, you will learn how to schedule a Teams meeting with external parti
   - Briefly describe the purpose of the meeting.  
   - *Example: "Quick meeting to disscuss Customer needs"*
 
-    ![](../media/details.png)
+    ![](../media/details1.png)
 
 ### Task 2: Use Microsoft Copilot for Sales AI in a recorded sales meeting 
 
@@ -84,7 +84,7 @@ In this task, you will learn how to set up Copilot for Sales within a Teams meet
 
 1. Open the meeting and Start the **recording and transcription**. Then Begin by speaking for a few minutes.
 
-      ![](../media/4-10.png)
+      ![](../media/4-101.png)
 
 ### Task 3: Analyze sales meetings with AI-generated meeting summaries
 
@@ -126,7 +126,7 @@ In this task, you will learn how to explore additional AI-powered features such 
 
 1. Navigate to **Transcript** tab, to view the meeting transcript, where you also have the option to download it in **.docs** and **.vtt** format.
 
-      ![](../media/dc64.png)
+      ![](../media/dc641.png)
 
 1. Navigate to **AI notes,** to view details of the discussions from the meeting session.
 
@@ -172,7 +172,7 @@ In this task, you will learn how to explore additional AI-powered features such 
 
 11. Navigate back to **Outlook.** Open the participant's email (***here it refers to your mail***), and access **Copilot for Sales.** Scroll down to the Contact Saved section, click on the **ellipses (...) (1)** and select **Open in Dynamics 365 (2).**
 
-      ![](../media/dc72.png)
+      ![](../media/dc721.png)
 
 12. In **Dynamics 365,** you can find the details of the task created by the ODL user.
 
