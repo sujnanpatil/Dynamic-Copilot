@@ -55,13 +55,13 @@ In this task, you will learn how to add new record types, view filters applied t
 
 - ### View filters used in a view
 
-1. Select a record type for which you want to see the query used in the selected view.
+6. Select a record type for which you want to see the query used in the selected view.
 
-1. Select **View filters** under the **Manage fields** section.
+7. Select **View filters** under the **Manage fields** section.
 
    ![](../media/6-8.png)
 
-1. To copy the query XML, select **Copy XML**.
+8. To copy the query XML, select **Copy XML**.
 
 ## Task 1.3:  Modify record types not based on a CRM view
 
@@ -87,35 +87,35 @@ In this task, you will customize record types by adding, reordering, or removing
 
 - ### Reorder fields
 
-1. Select the record type in which you need to reorder fields.
+5. Select the record type in which you need to reorder fields.
 
-1. In the **Manage fields** section, hover over the field you want to reorder, and then select the **Move up** or **Move down** arrows.
+6. In the **Manage fields** section, hover over the field you want to reorder, and then select the **Move up** or **Move down** arrows.
 
    ![](../media/move.png)
 
    > **Note:** You can also drag the field to change its order.
 
-1. Select **Publish** to save your changes.
+7. Select **Publish** to save your changes.
 
 - ### Remove fields
 
-1. Select the record type from which you need to remove fields.
+8. Select the record type from which you need to remove fields.
 
-1. In the **Manage fields** section, hover over the field you want to remove from the form, and then select **Remove field**.
+9. In the **Manage fields** section, hover over the field you want to remove from the form, and then select **Remove field**.
 
    ![](../media/6-13.png)
    
-1. Select **Publish** to save your changes.
+10. Select **Publish** to save your changes.
 
 - ### Mark fields as required in Copilot for Sales
 
-1. Select a record type for which you need to mark the fields as required.
+11. Select a record type for which you need to mark the fields as required.
 
-2. In the Manage fields section, select **Required** for the fields that you want to mark as required.
+12. In the Manage fields section, select **Required** for the fields that you want to mark as required.
 
    ![](../media/6-11.png)
 
-3. Select **Publish** to save your changes.
+13. Select **Publish** to save your changes.
 
 ## Task 1.4: Configure editing of records and fields
 
@@ -135,23 +135,23 @@ In this task, you will control how sales users can edit records and fields insid
 
 - ### To configure new contact creation:
 
-1. Select the **Contact record** type.
+5. Select the **Contact record** type.
 
-1. Under **Creating records**, select **Create new records inside Copilot for Sales**.
+6. Under **Creating records**, select **Create new records inside Copilot for Sales**.
 
    ![](../media/dc60.png)
 
-1. Select **Publish** to save your changes.
+7. Select **Publish** to save your changes.
 
 - ### To select key fields
 
-1. Select the record type in which you need to select fields for mini view.
+8. Select the record type in which you need to select fields for mini view.
 
-1. In the **Key fields** section, select fields from the list.
+9. In the **Key fields** section, select fields from the list.
 
    ![](../media/6-14.png)
 
-1. Select **Publish** to save your changes.
+10. Select **Publish** to save your changes.
 
      **Note:** The changes made will reflect in **Outlook**.
 
