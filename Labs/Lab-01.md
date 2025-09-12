@@ -28,42 +28,34 @@ In this Task you will understand how to access and use Copilot for Sales in Outl
 1. Click on **Copilot for Sales** again.
 
    ![](../media/dc44.png)
-   
-- While reading an email
 
-5. Open any **customer mail (1)**,then click on **Apps (3)** and select **Copilot for Sales (4)**.
+1. While reading an email, open any **customer mail (1)**, then click **Apps (3)** and select **Copilot for Sales (4)**.
    
    ![](../media/P2.png)
    
       > **Note:** Apps Icon is not visible click on **elipse(...)** inside the mail you will be able see **Apps**
 
-- Create a Meeting
-
-6. Click on **Calender (1)** and select **New event (2)**
+1. To create a meeting, click **Calendar (1)** and select **New event (2)**.
 
     ![](../media/dyn12.png)
 
-7. Add the title as **Daily Scrum** in the **Title field (1)** and click on **Save (2)**.
+1. Add the title as **Daily Scrum** in the **Title field (1)** and click on **Save (2)**.
 
     ![](../media/dyn13.png)
    
--  While opening a meeting
-
-8. Open Calendar in Outlook and select the scheduled meeting.
+1. While opening a meeting, open **Calendar** in **Outlook** and select the **scheduled meeting**.
    
-9. Select **More commands (...)** and then select **Copilot for Sales** (in Simplified ribbon)
+1. Select **More commands (...)** and then select **Copilot for Sales** (in Simplified ribbon)
 
    ![](../media/dyn14.png)
 
-- Access Copilot for Sales in Teams
-  
-10. Navigate to Teams by clicking on the link https://teams.microsoft.com/ , if prompted sign in using the odl credentials provided in the Environment tab.
+1. To access **Copilot for Sales in Teams**, navigate to https://teams.microsoft.com.
 
-11. Select **Apps** , search for **Copilot for Sale**s and click on **Add**.
+1. Select **Apps** , search for **Copilot for Sale**s and click on **Add**.
    
       ![](../media/1-10.png)
 
-12. Click on **Add**.
+1. Click on **Add**.
 
     ![](../media/dyn16.png)
    
@@ -71,9 +63,9 @@ In this Task you will understand how to access and use Copilot for Sales in Outl
 
 In this task, you will understand how to **switch the CRM environment in Outlook** using Copilot for Sales. You first create a **"demo" environment in Power Apps**, then access it from a customer email in Outlook. This ensures Copilot pulls data from the correct Dynamics 365 environment for accurate sales insights.
 
-1. To switch environments, create a new environment named **demo** in the Power Apps. To do this follow the instructions provided in **Pre-configurations** ***Task 1.***
+1. To switch environments, create a new environment named **demo** in the **Power Apps**. To do this follow the instructions provided in **Pre-configurations** ***Task 1.***
 
-1. In Outlook, open a customer mail, click on **Apps** and select **Copilot for Sales**.
+1. In **Outlook**, open a customer mail, click on **Apps** and select **Copilot for Sales**.
    
 1. In the **Copilot for Sales** pane, select **Switch environment** in the Signed in to Dynamic 365 banner at the top.
 

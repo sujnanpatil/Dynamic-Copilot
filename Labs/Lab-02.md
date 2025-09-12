@@ -49,17 +49,17 @@ In this task, you will learn how to create a new contact record manually within 
   
 1. Add the details for the contact. Rest keep it as it is and click on **Save**.
 
-  > - **First name** : Dynamics
-
-  > - **Last name** : 365
+    > - **First name** : Dynamics
   
-  > - **Email** : dynamics365@gmail.com
-
-   ![](../media/dy15.png)
+    > - **Last name** : 365
+    
+    > - **Email** : dynamics365@gmail.com
+  
+     ![](../media/dy15.png)
    
-> **Note:** If prompted save this email as part of this contact record click on **Save.**
-     
-> **Note:** Please create one more contact record by following the same steps, with your name and email address that your going to use in ***Lab 4 - Task 4.***
+    > **Note:** If prompted save this email as part of this contact record click on **Save.**
+         
+    > **Note:** Please create one more contact record by following the same steps, with your name and email address that your going to use in ***Lab 4 - Task 4.***
 
 ### Task 1.2: Create a contact from an exisiting Email
 
@@ -70,7 +70,6 @@ In this task, you will learn how to create a contact by extracting details from 
 1. Click on **Apps** and select **Copilot for Sales**, and then select **Add to Dynamics 365** beside your contact.
 
     >**Note:** Contacts name can be anything based on your customer or recieved email.
-   
 
    ![](../media/dcdy-9.png)
 
@@ -142,9 +141,7 @@ In this task, you will learn how to open CRM records through Copilot, review det
 
 In this task, you will learn how to quickly search for CRM records and share links via Outlook or Teams to support collaboration.
 
-- In Outlook
-
-1.	Open the **Copilot for Sales** pane.
+1.	In Outlook, open the **Copilot for Sales** pane.
 
 1.	In the (record type) card, scroll down and select the saved contact, clcik on the **ellipses (...)** and select **Copy link**.
 
@@ -152,9 +149,7 @@ In this task, you will learn how to quickly search for CRM records and share lin
 
 1.	Paste the ***link*** in a Teams chat or email.
 
-- In Teams
-
-1. Open any customer chat and click on **More Options(...)** and select **Copilot for Sales**.
+1. In Teams, open any customer chat and click on **More Options(...)** and select **Copilot for Sales**.
 
    > **Note:** If there is no chat in teams. Please send a greetings mail from your personal outlook mail to the ODL_User and Click on the edit button in teams and paste your email/username.
     
@@ -226,6 +221,6 @@ In this lab, you have completed the following tasks:
 - Viewed recent and upcoming activities linked to contacts
 - Added private notes to CRM contacts for reference
 
-You have successfully completed the lab. Now click on Next from the lower right corner to move on to the next page.
+### You have successfully completed the lab. Now click on Next from the lower right corner to move on to the next page.
 
 ![](../media/d47.png) 
