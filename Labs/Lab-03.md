@@ -11,7 +11,7 @@ In this lab, you will perform:
 - Task 1: View and save email summary to CRM
 - Task 2: Draft an email message  
 
-## Excercise 1: View and save email summary to CRM
+## Task 1: View and save email summary to CRM
 
 In this exercise, you will learn how to use Copilot for Sales to generate AI-powered email summaries and save them directly to CRM records for quick and accurate updates.
 
@@ -22,10 +22,6 @@ In this exercise, you will learn how to use Copilot for Sales to generate AI-pow
 1. The **email summary** is displayed in the **Key email info** card.
 
    ![](../media/dc16.png)
-
-### Excercise 2: Draft an email message  
-
-In this exercise, you will learn how to create professional customer email replies using Copilot, either through pre-defined categories or custom prompts, and refine the draft before sending.
 
 ### Task 2: Create an email reply using pre-defined categories
 
