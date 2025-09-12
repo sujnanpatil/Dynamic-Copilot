@@ -10,9 +10,12 @@ In this lab, you will perform:
 
 - Task 1: Create an environment in Power Apps
 - Task 2: Install Copilot for Sales in Outlook
-- Task 3: Install and pin Copilot for Sales in Teams 
+- Task 3: Install and pin Copilot for Sales in Teams
+- Task 4: Pre-configure policies to analyze sales meetings with AI-generated meeting summaries
 
 ### Task 1: Create an environment in Power Apps
+
+In this task, you will create a new environment in Power Apps with Dataverse enabled. The environment provides the storage and security foundation needed for apps, flows, and business data. You will also configure user roles and install Dynamics 365 Sales Pro to prepare for Copilot for Sales.
 
 1. Navigate to [Power Platform admin center](https://admin.powerplatform.microsoft.com/) and click on **Sign In** and sign in with the credentials provided under **Environment Details** Tab.
 
@@ -101,7 +104,7 @@ In this task, you will learn how to install Copilot for Sales as an integrated a
 
 ### Task 3: Install and pin Copilot for Sales in Teams 
 
-This task will guide you through installing the Copilot for Sales app in Microsoft Teams. You will learn how to navigate the Teams admin center and create setup policies. 
+In this task, you will configure Microsoft Teams to install and pin the Copilot for Sales app. By doing so, users can easily access Copilot from Teams chats, meetings, and collaboration spaces. You will create and apply setup policies to make the app available and pinned by default for your users.
 
 1. Sign into the **[Teams admin center](https://admin.teams.microsoft.com/)**.
    
@@ -144,6 +147,8 @@ This task will guide you through installing the Copilot for Sales app in Microso
     ![](../media/dyn9.png)
 
 ### Task 4: Pre-configuration to Analyze sales meetings with AI-generated meeting summaries
+
+In this task you will focuse on enabling transcription and recording policies in Teams. These settings are necessary for Copilot to analyze meetings and generate AI-powered summaries. By turning on transcription across calling, live events, meetings, and voicemail, you ensure that sales meetings can be captured and enhanced with actionable insights
 
 1. Navigate to https://admin.teams.microsoft.com/. If promted sign in with the ODL credential provided in the Environment tab.
 
