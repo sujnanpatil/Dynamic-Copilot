@@ -33,13 +33,24 @@ In this task, you will learn how to schedule a Teams meeting with external parti
 
 1. Provide the following details to create a new meeting and click on **Send**.
 
-      - **Provide a name for the meeting (1)**
-      - **Add the users you would like to add to the meeting  (2)** (*You can provide the email of the user present in team chat*)
-      - **Mention the Date and Time of the meeting (3)**
-      - **Add the channel (Optional) (4)**
-      - **Outline what will be discussed during the meeting (5)**
+- **Set the Meeting Name**  
+  - Use **"Demo Meeting"** as the title of the meeting.
 
-           ![](../media/details.png)
+- **Add Participants**  
+  - Invite users you want to include in the meeting.  
+  - *Tip: You can use their email addresses present in the team chat.*
+
+- **Choose a Date & Time**  
+  - Select a suitable upcoming date and time.
+
+- **(Optional) Assign a Channel**  
+  - Link the meeting to a specific channel if needed.
+
+- **Add a Meeting Description**  
+  - Briefly describe the purpose of the meeting.  
+  - *Example: "Quick meeting to disscuss Customer needs"*
+
+    ![](../media/details.png)
 
 ### Task 2: Use Microsoft Copilot for Sales AI in a recorded sales meeting 
 
@@ -47,9 +58,9 @@ In this task, you will learn how to set up Copilot for Sales within a Teams meet
 
 > **Note:** There are two ways we can schedule a meeting.
 
-**Automatically** - When you schedule a meeting with a contact who is saved to your CRM, the system automatically enables Microsoft Copilot for Sales when it records and transcribes the meeting.
+- **Automatically** - When you schedule a meeting with a contact who is saved to your CRM, the system automatically enables Microsoft Copilot for Sales when it records and transcribes the meeting.
 
-**Manually** - 
+- **Manually** - 
 
 1. Navigate to the **Calendar** in *Teams,*  then select the meeting name **(1)** and click on **Join(2).** 
 
@@ -133,11 +144,22 @@ In this task, you will learn how to explore additional AI-powered features such 
 
 8. On the **Create a task in Dynamic 365** page, provide the following details.
 
-   - Enter the **Subject** name **(1)**
-   - In the **Connected to (2)** field, provide the name of the meeting participant contact record that you have created in ***Lab 2 - Task 1.***
-   - Provide the **Due date** for the task.**(3)**
-   - Provide the **Description** pertaining to the task. **(4)**
-   - Click on **Create. (5)**
+- **Enter the Subject**  
+  - Set the task title as: **Implement Sales AI with Microsoft Copilot (1)**
+
+- **Fill in the "Connected to" Field**  
+  - Select the contact record of the meeting participant you created in ***Lab 2 - Task 1***.**(2)**
+
+- **Set the Due Date**  
+  - Choose an appropriate due date for the completion of this task. **(3)**
+
+- **Add a Task Description**  
+  - Provide context and relevant details about the task.  
+  - *Example:*  
+    *This task is based on follow-up actions discussed during the sales meeting. It focuses on implementing Microsoft Copilot to enhance the sales process by automating insights, streamlining communication, and supporting sales decision-making through AI-powered recommendations.* **(4)**
+
+- **Click on "Create"**  
+  - Once all fields are filled out, click **Create** to save the task. **(5)**
 
      ![](../media/dc76.png)
 
