@@ -189,11 +189,13 @@ In this task you will focuse on enabling transcription and recording policies in
    ![](../media/dc58.png)
 
 ## Summary
-In this lab, you have completed the following tasks:
 
-- Created environment in Power Apps
+In this lab, you have:
+
+- Created a Power Apps environment with Dataverse and Sales Pro
 - Installed Copilot for Sales in Outlook
-- Installed Copilot for Sales in Teams
+- Installed and pinned Copilot for Sales in Teams
+- Enabled transcription and recording policies for AI-generated meeting summaries
 
 ### You have successfully completed the lab. Now click on Next from the lower right corner to move on to the next page.
 
