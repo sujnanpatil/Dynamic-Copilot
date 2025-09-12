@@ -101,6 +101,6 @@ In this lab, you have completed the following tasks:
 - Used Copilot for Sales with emails, meetings, and calendar events
 - Signed in to CRM (Dynamics 365 / Salesforce) from Outlook to connect sales data
       
-Now, click on Next from the lower right corner to move on to the next page.
+You have successfully completed the lab. Now click on Next from the lower right corner to move on to the next page.
 
 ![](../media/d47.png) 
