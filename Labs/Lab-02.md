@@ -37,7 +37,7 @@ In this task, you will learn how to create a new contact record manually within 
 
 1. Select **Copilot for Sales** and click **OK.**
 
-     ![](../media/dc3.png)
+     ![](../media/dc641.png)
 
 1. Click on **(+)** on the top right once signed in to create a new record.
 
@@ -55,7 +55,7 @@ In this task, you will learn how to create a new contact record manually within 
     
     > - **Email** : dynamics365@gmail.com
   
-     ![](../media/dy15.png)
+     ![](../media/dy151.png)
    
     > **Note:** If prompted save this email as part of this contact record click on **Save.**
          
@@ -75,7 +75,7 @@ In this task, you will learn how to create a contact by extracting details from 
 
 1. In the **New contact** form, add the required information, and then select **Save**.
    
-   ![](../media/dy-2-1.png)
+   ![](../media/dy-2-11.png)
 
     >**Note:** ***First name, Last name and Email*** is based on your customer or recieved email. Not necessary to match with the Screenshot.   
    
@@ -83,7 +83,7 @@ In this task, you will learn how to create a contact by extracting details from 
 
 In this task, you will learn how to link a saved contact with other records in Dynamics 365, assign roles, and establish meaningful relationships.
 
-**Note:** We can link a contact to another contact if there are already two or more contacts saved. If there is only one contact select **Create a new contact** to create a contact.
+> **Note:** We can link a contact to another contact if there are already two or more contacts saved. If there is only one contact select **Create a new contact** to create a contact.
 
 1. Open the mail, and open the Copilot for Sales pane from it. Click on the **More Options(...) (1)** beside the saved contact and click  **Open in Dynamics 365 (2)**.
 
@@ -91,15 +91,15 @@ In this task, you will learn how to link a saved contact with other records in D
 
 1. Click on **Connect** on the top.
 
-     ![](../media/dc5.png)
+     ![](../media/dc51.png)
 
 1. Select the record and provide a **role** and a **description** based on the connection you would like to create in the **Connect To** tab. 
 
-    ![](../media/L2T2S2.1.png)
+    ![](../media/L2T2S2.11.png)
    
 1. Navigate to **Details** tab, choose the **Owner** and click on **Save and Close**.
 
-    ![](../media/L2T2S2.2.png)
+    ![](../media/L2T2S2.21.png)
 
 ### Task 3: Change the connected CRM contact 
 
@@ -133,7 +133,7 @@ In this task, you will learn how to open CRM records through Copilot, review det
 
 1.	In the record's details cards, select **More actions (...)** and then select **Edit record**.
 
-      ![](../media/dc9.png)
+      ![](../media/img1.png)
 
 1.	Update the details as needed and select **Update**.
 
@@ -145,7 +145,7 @@ In this task, you will learn how to quickly search for CRM records and share lin
 
 1.	In the (record type) card, scroll down and select the saved contact, clcik on the **ellipses (...)** and select **Copy link**.
 
-      ![](../media/dc10.png)
+      ![](../media/img2.png)
 
 1.	Paste the ***link*** in a Teams chat or email.
 
