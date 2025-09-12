@@ -17,6 +17,8 @@ In this task, you will learn how to customize and configure Copilot for Sales to
 
 ### Task 1.1: Copilot AI
 
+In this task, you will review and configure Copilot AI settings to enable or disable features based on your organization’s preferences and needs.
+
 1. Click on **Apps** and open **Copilot for Sales**.
 
    ![](../media/6-1.png)
@@ -26,6 +28,8 @@ In this task, you will learn how to customize and configure Copilot for Sales to
    ![](../media/6-2.png)
 
 ### Task 1.2: Forms
+
+In this task, you will learn how to add new record types, view filters applied to records, and manage the way CRM data is displayed within Copilot for Sales.
 
 - ### Add a new record type
 
@@ -60,6 +64,9 @@ In this task, you will learn how to customize and configure Copilot for Sales to
 1. To copy the query XML, select **Copy XML**.
 
 ## Task 1.3:  Modify record types not based on a CRM view
+
+In this task, you will customize record types by adding, reordering, or removing fields to make sure that the displayed information is relevant and useful for your sales teams.
+
 - ### Add fields
 
 1. Select a **record type** to which you need to add fields.
@@ -111,6 +118,9 @@ In this task, you will learn how to customize and configure Copilot for Sales to
 3. Select **Publish** to save your changes.
 
 ## Task 1.4: Configure editing of records and fields
+
+In this task, you will control how sales users can edit records and fields inside Copilot for Sales, including enabling new contact creation and marking certain fields as required for data completeness.
+
 - ### To allow editing of records
 
 1. Select a record type for which you need to allow editing.
@@ -163,6 +173,8 @@ In this task, you will learn how to explore additional options available in Copi
 
 ### Task 2.2: View diagnostics data
 
+In this task, you will access and copy diagnostic information from Copilot for Sales to assist with technical troubleshooting.
+
 1.	Open **Copilot for Sales**.
 
 1.	Select the **Options(...)** in the upper-right corner, and then select **Diagnostics**.
@@ -174,6 +186,8 @@ In this task, you will learn how to explore additional options available in Copi
       ![](../media/dc27.png)
 
 ### Task 2.3: Share Feedback
+
+In this task, you will learn how to provide feedback directly within Copilot for Sales to help improve AI-generated summaries and drafts.
 
 1.	Open the Customer mail and naviagte to **Copilot for Sales** in Outlook.
 
@@ -187,6 +201,8 @@ In this task, you will learn how to explore additional options available in Copi
 
 ### Task 2.4: Video related to Copilot for Sales
 
+In this task, you will watch an introductory video that highlights key features and benefits of Copilot for Sales.
+
 1. Select **Options(...)** in the upper-right corner, and then select **About** > **Watch video**.
       
       ![](../media/dyn39.png)
@@ -198,6 +214,8 @@ In this task, you will learn how to explore additional options available in Copi
 
 ### Task 2.5: About Copilot for Sales
 
+In this task, you will explore an overview of Copilot for Sales and how it can enhance sales performance through AI integration.
+
 1. Select **Options(...)** in the upper-right corner, and then select **About** > **About Copilot for Sales**. It provides an overview on how we can boost sales performance by using Copilot for Sales.
       
       ![](../media/dyn38.png)
@@ -206,6 +224,8 @@ In this task, you will learn how to explore additional options available in Copi
       ![](../media/dyn36.png)    
 
 ### Task 2.6: View Privacy policies for Copilot for Sales
+
+In this task, you will access Microsoft’s privacy policies related to Copilot for Sales to understand data handling and compliance.
 
 1.	Open **Copilot for Sales**.
 
@@ -218,6 +238,8 @@ In this task, you will learn how to explore additional options available in Copi
       ![](../media/T2.6S3.png)
 
 ### Task 2.7: Sign out of Copilot for Sales
+
+In this task, you will learn how to sign out of Copilot for Sales and understand what happens when you reconnect to the same or a different CRM system or environment.
 
 When you sign in and reconnect to the same CRM system and environment, your information is restored to the state it was in before you signed out. If you connect to a different CRM system or a different environment, the information is not restored.
 
