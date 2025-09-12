@@ -21,11 +21,11 @@ In this task, you will review and configure Copilot AI settings to enable or dis
 
 1. Click on **Apps** and open **Copilot for Sales**.
 
-   ![](../media/6-1.png)
+   ![](../media/6-111.png)
 
 1. Click on **Settings** and select **Copilot AI** under Environment tab and review the features provided. Enable or disable based on your preferences.
 
-   ![](../media/6-2.png)
+   ![](../media/6-21.png)
 
 ### Task 1.2: Forms
 
@@ -35,11 +35,11 @@ In this task, you will learn how to add new record types, view filters applied t
 
 1. Click on **Settings** and select **Forms** under Environment tab and click on **Add record type**.
 
-   ![](../media/6-3.png)
+   ![](../media/6-31.png)
 
-1. In the **Add a record type**, select a record type to **add**, and then select **Next**.
+1. In the **Add a record type**, select a record type to **lead**, and then select **Next**.
 
-   ![](../media/6-4.png)
+   ![](../media/6-41.png)
 
 1. In the **Select the relationship** for (record type) window, select the **relationship** to existing record types or fields in Copilot for Sales, and then select **Next**.
 
@@ -47,7 +47,7 @@ In this task, you will learn how to add new record types, view filters applied t
 
 1. In the **Select the view** for (record type) window, select the view to define how a list of records for a specific record type is displayed, and then select **Add**.
 
-   ![](../media/6-6.png)
+   ![](../media/6-61.png)
 
 1. On the record type settings page, select **Publish** to save your changes.
 
@@ -69,17 +69,17 @@ In this task, you will customize record types by adding, reordering, or removing
 
 - ### Add fields
 
-1. Select a **record type** to which you need to add fields.
+1. Select a **record type** as **Lead**.
 
-   ![](../media/dyn27.png)
+   ![](../media/dyn271.png)
 
 1. In the **Manage fields** section, select **Add fields**.
 
    ![](../media/6-9.png)
 
-1. In the **Add fields** window, **select** fields to display in the form, and then select **Add**.
+1. In the **Add fields** window, **select** **Account** as fields to display in the form, and then select **Add**.
 
-   ![](../media/6-10.png)
+   ![](../media/6-101.png)
 
       **Note:** The new fields are added after the existing fields, but you can reorder them as needed.
 
@@ -139,7 +139,7 @@ In this task, you will control how sales users can edit records and fields insid
 
 6. Under **Creating records**, select **Create new records inside Copilot for Sales**.
 
-   ![](../media/dc60.png)
+   ![](../media/dc601.png)
 
 7. Select **Publish** to save your changes.
 
@@ -179,7 +179,7 @@ In this task, you will access and copy diagnostic information from Copilot for S
 
 1.	Select the **Options(...)** in the upper-right corner, and then select **Diagnostics**.
 
-      ![](../media/dc26.png)
+      ![](../media/dc261.png)
 
 1.	Select **Copy details** to copy the diagnostics data, and then paste the data into an email, Teams chat, or any other medium you like to use to share it with technical support team.
 
@@ -205,7 +205,7 @@ In this task, you will watch an introductory video that highlights key features 
 
 1. Select **Options(...)** in the upper-right corner, and then select **About** > **Watch video**.
       
-      ![](../media/dyn39.png)
+      ![](../media/dyn391.png)
 
 1. The video provides a brief introduction about the **Copilot for Sales**
       
@@ -218,7 +218,7 @@ In this task, you will explore an overview of Copilot for Sales and how it can e
 
 1. Select **Options(...)** in the upper-right corner, and then select **About** > **About Copilot for Sales**. It provides an overview on how we can boost sales performance by using Copilot for Sales.
       
-      ![](../media/dyn38.png)
+      ![](../media/dyn381.png)
    
       
       ![](../media/dyn36.png)    
@@ -231,7 +231,7 @@ In this task, you will access Microsoft’s privacy policies related to Copilot 
 
 1.	Select **Options(...)** in the upper-right corner, and then select **About** > **Privacy policy**. To view Microsoft Privacy policies.
      
-      ![](../media/dyn30.png)
+      ![](../media/dyn301.png)
 
 1.	Please go through the **Microsoft Privacy policy documentation** as per your requirement.
       
