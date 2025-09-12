@@ -105,21 +105,15 @@ In this task, you will learn how to install Copilot for Sales as an integrated a
 
 In this task, you will configure Microsoft Teams to install and pin the Copilot for Sales app. By doing so, users can easily access Copilot from Teams chats, meetings, and collaboration spaces. You will create and apply setup policies to make the app available and pinned by default for your users.
 
-1. Sign into the **[Teams admin center](https://admin.teams.microsoft.com/)**.
-   
-1. In the left pane, select
-
-   - **Teams apps (1)**
-   - Select **Setup policies (2)**
-   - Click on **Add (3)**
+1. Sign in to the **[Teams admin center](https://admin.teams.microsoft.com/)**, then in the left pane expand **Teams apps (1)**, choose **Setup policies (2)**, and click **Add (3)**.
 
       ![](../media/t-1.png)     
 
-1. Enter a name for the policy and verify if **User pinning** is on.
+1. Enter **Copilot for Sales** as the policy name and verify that **User pinning** is set to **On**.
 
    ![](../media/t-2.png) 
    
-1. Under Installed apps, select **Add apps**.  In the **Add installed apps** panel, search for the **Copilot for Sales** app and click **Select**
+1. Under **Installed apps**, select **Add apps**. In the **Add installed apps** panel, search for the **Copilot for Sales** app and click **Select**
 
       **Note:** You can also filter apps by app permission policy.
 
@@ -129,7 +123,7 @@ In this task, you will configure Microsoft Teams to install and pin the Copilot 
 
    ![](../media/t-4.png) 
 
-1. Under ****Pinned** apps**, select **Add apps**. In the **Add pinned apps** panel, search for the **Copilot for Sales** app and select **Add**.
+1. Under **Pinned apps**, select **Add apps**. In the **Add pinned apps** panel, search for the **Copilot for Sales** app and select **Add**.
 
    ![](../media/t-6.png) 
 
@@ -141,7 +135,7 @@ In this task, you will configure Microsoft Teams to install and pin the Copilot 
 
    ![](../media/t-5.png)
 
-1. Click on **Save** for User pinning.
+1. On **User pinning** window, click on **Save**.
 
     ![](../media/dyn9.png)
 
@@ -149,9 +143,9 @@ In this task, you will configure Microsoft Teams to install and pin the Copilot 
 
 In this task you will focuse on enabling transcription and recording policies in Teams. These settings are necessary for Copilot to analyze meetings and generate AI-powered summaries. By turning on transcription across calling, live events, meetings, and voicemail, you ensure that sales meetings can be captured and enhanced with actionable insights
 
-1. Navigate to https://admin.teams.microsoft.com/. If promted sign in with the ODL credential provided in the Environment tab.
+1. Navigate to [Defender portal](https://admin.teams.microsoft.com/). 
 
-1. Navigate to **Manage users (1)** under ***Users,*** then click on the ODL user **(2).**
+1. Navigate to **Manage users (1)** under ***Users,** then click on the <inject key="AzureAdUserEmail"></inject> **(2)**.
 
    ![](../media/dc51.png)
 
@@ -159,7 +153,7 @@ In this task you will focuse on enabling transcription and recording policies in
 
    ![](../media/dc52.png)
 
-1. Naviage to ***Transcription*** toggle button, switch it **On** and click on **Save.**
+1. Naviage to **Transcription***, switch it **On** and click on **Save.**
 
    ![](../media/dc53.png)
 
@@ -167,23 +161,23 @@ In this task you will focuse on enabling transcription and recording policies in
 
    ![](../media/dc54.png)
 
-1. Switch the ***Transcription for attendees*** toggle button **On (1)** and then click on **Save (2).**   
+1. Switch the **Transcription for attendees** toggle to **On (1)**, and then click **Save (2)**.
 
    ![](../media/dc55.png)
 
-1. Navigate back to **Policies (1),** scroll down to **Meeting policy**  and then click on **Org-wide default settings (2).**    
+1. Navigate back to **Policies (1),** scroll down to **Meeting policy**  and then click on **Org-wide default settings (2)**.    
 
    ![](../media/dc56.png)
 
-1. Scroll down to ***Recording and Transcription,*** then switch the ***Transcription*** toggle button **On** and then click on **Save.**
+1. Scroll down to **Recording and Transcription,** then switch the **Transcription** toggle button **On** and then click on **Save.**
 
    ![](../media/dc57.png)
 
-1. Navigate back to **Policies (1),** scroll down to **Voicemail policy**  and then click on **Org-wide default settings (2).**       
+1. Navigate back to **Policies (1),** scroll down to **Voicemail policy** and then click on **Org-wide default settings (2).**       
 
    ![](../media/dc59.png)
 
-1. Switch the ***Voicemail Transcription (1)*** and ***Translation for transcription (2)*** toggle button **On** and then click on **Save.**
+1. Switch the **Voicemail Transcription (1)** and **Translation for transcription (2)** toggle button **On** and then click on **Save.**
 
    ![](../media/dc58.png)
 
