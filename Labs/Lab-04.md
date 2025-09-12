@@ -45,7 +45,7 @@ In this task, you will learn how to schedule a Teams meeting with external parti
 
 In this task, you will learn how to set up Copilot for Sales within a Teams meeting, record and transcribe the session, and capture valuable customer interactions.
 
-**Note:** There are two ways we can schedule a meeting.
+> **Note:** There are two ways we can schedule a meeting.
 
 **Automatically** - When you schedule a meeting with a contact who is saved to your CRM, the system automatically enables Microsoft Copilot for Sales when it records and transcribes the meeting.
 
@@ -83,7 +83,7 @@ In this task, you will learn how to access AI-generated summaries after a meetin
 
 1. Open the recording chat and click on the **Sales** Tab.
 
-      **Note:** You might receive the below pop-up stating that the summary will take a while to show up and will notify via chat when it has fetched the insights.
+    > **Note:** You might receive the below pop-up stating that the summary will take a while to show up and will notify via chat when it has fetched the insights.
 
    ![](../media/dc75.png)
 
