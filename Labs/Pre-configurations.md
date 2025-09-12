@@ -52,8 +52,6 @@ In this lab, you will perform:
 
 ### Task 2: Install Copilot for Sales in Outlook 
 
-### Overview
-
 In this task, you will learn how to install Copilot for Sales as an integrated app from the Microsoft 365 admin center. By default, the app is installed in Fixed mode, where users receive the app automatically and cannot remove it. You will also explore how to manage the app's configuration, add and remove users, and monitor its usage within the Microsoft 365 admin center. 
 
 1.	Sign into the **[Microsoft 365 admin center](https://admin.microsoft.com/)**.
@@ -103,8 +101,6 @@ In this task, you will learn how to install Copilot for Sales as an integrated a
 
 ### Task 3: Install and pin Copilot for Sales in Teams 
 
-### Overview
-
 This task will guide you through installing the Copilot for Sales app in Microsoft Teams. You will learn how to navigate the Teams admin center and create setup policies. 
 
 1. Sign into the **[Teams admin center](https://admin.teams.microsoft.com/)**.
@@ -147,7 +143,6 @@ This task will guide you through installing the Copilot for Sales app in Microso
 
     ![](../media/dyn9.png)
 
-
 ### Task 4: Pre-configuration to Analyze sales meetings with AI-generated meeting summaries
 
 1. Navigate to https://admin.teams.microsoft.com/. If promted sign in with the ODL credential provided in the Environment tab.
@@ -188,7 +183,6 @@ This task will guide you through installing the Copilot for Sales app in Microso
 
    ![](../media/dc58.png)
 
-
 ## Summary
 In this lab, you have completed the following tasks:
 
@@ -196,6 +190,6 @@ In this lab, you have completed the following tasks:
 - Installed Copilot for Sales in Outlook
 - Installed Copilot for Sales in Teams
 
-You have successfully completed the lab. Now click on Next from the lower right corner to move on to the next page.
+### You have successfully completed the lab. Now click on Next from the lower right corner to move on to the next page.
 
 ![](../media/d47.png) 
