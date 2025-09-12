@@ -17,21 +17,25 @@ In this lab, you will perform:
 
 In this task, you will create a new environment in Power Apps with Dataverse enabled. The environment provides the storage and security foundation needed for apps, flows, and business data. You will also configure user roles and install Dynamics 365 Sales Pro to prepare for Copilot for Sales.
 
-1. Navigate to [Power Platform admin center](https://admin.powerplatform.microsoft.com/) and click on **Sign In** and sign in with the credentials provided under **Environment Details** Tab.
+1. Navigate to the [Power Platform admin center](https://admin.powerplatform.microsoft.com/), click Sign in, and log in with the credentials provided below.
+
+      - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
+
+      - **Password:** <inject key="AzureAdUserPassword"></inject>
 
 1. Click on **Environments (1)** from the left pane and click on **+ New (2)**.
 
    ![](../media/L01.png)
 
-1. Provide a name **Copilot for Sales** and make sure **Add a Dataverse data store** is selected to **Yes (2)** , leave **Group** as it is, no need to select as it is optional and click on **Next (3)**.
+1. Enter **Copilot for Sales** as the name **(1)**, ensure that **Add a Dataverse data store** is set to **Yes (2)**, leave Group unchanged since it is optional, and then click **Next (3)**.
 
    ![](../media/L2.png)
 
-1. In **Security Group**, click on **+ Select**.
+1. Under **Security Group**, click on **+ Select**.
 
     ![](../media/dyn2.png)
 
-1. Provide **None (1)** for security roles and click on **Done (2)**.
+1. Select **None (1)** for security roles and click on **Done (2)**.
 
    ![](../media/dc39.png)
 
@@ -43,7 +47,7 @@ In this task, you will create a new environment in Power Apps with Dataverse ena
 
    ![](../media/1-6.png)
 
-1. Click on **Users** under **Users and permissions**.
+1. Click on **Users** under **Users + permissions**.
 
    ![](../media/1-7.png)
 
@@ -57,18 +61,13 @@ In this task, you will create a new environment in Power Apps with Dataverse ena
 
 In this task, you will learn how to install Copilot for Sales as an integrated app from the Microsoft 365 admin center. By default, the app is installed in Fixed mode, where users receive the app automatically and cannot remove it. You will also explore how to manage the app's configuration, add and remove users, and monitor its usage within the Microsoft 365 admin center. 
 
-1.	Sign into the **[Microsoft 365 admin center](https://admin.microsoft.com/)**.
+1.	Sign into the **[Microsoft 365 admin center](https://admin.microsoft.com/)**. In the left pane, click **Show all**.
    
-2.	In the left pane, click on Show all and select
+1. Select **Settings (1)**, choose **Integrated Apps (2)**, click **Available Apps (3)**, and in the AppSource window search for **Copilot for Sales (4)** and select **Copilot for Sales (5)**.
 
-      - **Settings (1)**
-      - Select **Integrated Apps (2)**
-      - Click on **Available Apps (3)**
-      - In the AppSource window, search for **Copilot for Sales (4)** and select it.
+    ![](../media/d365-iamge1.png)
 
-        ![](../media/p-1.png)
-
-3. Click on **Deploy App**.
+3. On **Copilot for Sales**, page cClick on **Deploy App**.
 
    ![](../media/p-2.png)
 
@@ -76,7 +75,7 @@ In this task, you will learn how to install Copilot for Sales as an integrated a
 
       ![](../media/dyn4.png)
 
-5.	In the **Users** step, select **Just me**, and then select **Next**.
+5.	In the **Users** step, select **Just me(<inject key="AzureAdUserEmail"></inject>) (2)**, and then select **Next (2)**.
 
       ![](../media/just-me.png)
 
@@ -84,11 +83,11 @@ In this task, you will learn how to install Copilot for Sales as an integrated a
 
       ![](../media/dyn5.png)
 
-7. Select the **Account**.
+7. Select the **<inject key="AzureAdUserEmail"></inject>**.
 
       ![](../media/dyn6-1.png)
    
-8.	In the **Deployment(Permissions)** step, once it displays as **Permission accepted** ,select **Next**.
+8.	In the **Deployment** step, once it displays as **Permission accepted**, select **Next**.
 
       ![](../media/dyn21.png)
 
@@ -98,7 +97,7 @@ In this task, you will learn how to install Copilot for Sales as an integrated a
 
 10. When the deployment is complete, click on **Done**.
 
-11. Verify **Copilot for Sales (2)** is available under **Deployed Apps (1)**.
+11. Under **Deployed Apps (1)**, verify **Copilot for Sales (2)**.
 
       ![](../media/dc41.png)
 
