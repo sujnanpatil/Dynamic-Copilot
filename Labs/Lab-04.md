@@ -144,22 +144,21 @@ In this task, you will learn how to explore additional AI-powered features such 
 
 8. On the **Create a task in Dynamic 365** page, provide the following details.
 
-- **Enter the Subject**  
-  - Set the task title as: **Implement Sales AI with Microsoft Copilot (1)**
+      - **Enter the Subject**  
+        - Set the task title as: **Implement Sales AI with Microsoft Copilot (1)**
 
-- **Fill in the "Connected to" Field**  
-  - Select the contact record of the meeting participant you created in ***Lab 2 - Task 1***.**(2)**
+      - **Fill in the "Connected to" Field**  
+        - Select the contact record of the meeting participant you created in ***Lab 2 - Task 1***.**(2)**
 
-- **Set the Due Date**  
-  - Choose an appropriate due date for the completion of this task. **(3)**
+      - **Set the Due Date**  
+        - Choose an appropriate due date for the completion of this task. **(3)**
 
-- **Add a Task Description**  
-  - Provide context and relevant details about the task.  
-  - *Example:*  
-    *This task is based on follow-up actions discussed during the sales meeting. It focuses on implementing Microsoft Copilot to enhance the sales process by automating insights, streamlining communication, and supporting sales decision-making through AI-powered recommendations.* **(4)**
+      - **Add a Task Description**  
+        - Provide context and relevant details about the task.  
+        - *Example: This task is based on follow-up actions discussed during the sales meeting. It focuses on implementing Microsoft Copilot to enhance the sales process by automating insights, streamlining communication and supporting sales decision-making through AI-powered recommendations.* **(4)**
 
-- **Click on "Create"**  
-  - Once all fields are filled out, click **Create** to save the task. **(5)**
+      - **Click on "Create"**  
+        - Once all fields are filled out, click **Create** to save the task. **(5)**
 
      ![](../media/dc76.png)
 
