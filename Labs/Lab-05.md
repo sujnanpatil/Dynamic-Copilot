@@ -151,7 +151,7 @@ In this task, you will learn how to explore additional options available in Copi
 
 ### Task 2.1: Switch environments or CRM
 
-**Note:** To **Switch environments**, there should be two or more environments created in power apps platform.
+> **Note:** To **Switch environments**, there should be two or more environments created in power apps platform.
 
 1. In the **Copilot for Sales** pane, click on the **Options(...) (1)** on the top right and click on **Signed into Dynamics 365 (2)** then select **Switch environment (3)**.
 
