@@ -61,7 +61,7 @@ In this Task you will understand how to access and use Copilot for Sales in Outl
 
 11. Select **Apps** , search for **Copilot for Sale**s and click on **Add**.
    
-   ![](../media/1-10.png)
+      ![](../media/1-10.png)
 
 12. Click on **Add**.
 
